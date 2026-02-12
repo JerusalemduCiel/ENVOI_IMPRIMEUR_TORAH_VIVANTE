@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#EDF1E7"/><stop offset="100%" stop-color="#E4EADC"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#6B8B3D" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#6B8B3D" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#6B8B3D" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#556B2F" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#DAE2CE" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Antigone de Sokho  —  אַנְטִיגְנוֹס אִישׁ סוֹכוֹ</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#2A3518" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  
+  <line x1="60" y1="83.0" x2="365" y2="83.0" stroke="#6B8B3D" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="87.0" font-family="Georgia,serif" font-size="7" fill="#6B8B3D" text-anchor="middle">✦</text>
+  <rect x="25" y="98.0" width="375" height="30" rx="4" fill="#E5EBDE" stroke="#6B8B3D" stroke-width="0.4"/>
+  <text x="212" y="112.0" font-family="Georgia,serif" font-size="7.5" fill="#2A3518" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  
+  <text x="390" y="124.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— </text>
+  <line x1="60" y1="138.0" x2="365" y2="138.0" stroke="#6B8B3D" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="150.0" font-family="Georgia,serif" font-size="7.5" fill="#2A3518" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="157.0" width="182" height="48" rx="3" fill="none" stroke="#6B8B3D" stroke-width="0.35"/>
+  <text x="116" y="172.0" font-family="Georgia,serif" font-size="7.5" fill="#2A3518" text-anchor="middle" font-weight="bold">Lishma</text>
+  <text x="116" y="186.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">La Torah pour elle-même, non pour le profit.</text>
+  <rect x="218" y="157.0" width="182" height="48" rx="3" fill="none" stroke="#6B8B3D" stroke-width="0.35"/>
+  <text x="309" y="172.0" font-family="Georgia,serif" font-size="7.5" fill="#2A3518" text-anchor="middle" font-weight="bold">La Transmission</text>
+  <text x="309" y="186.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Transmettre les paroles et leur sens exact.</text>
+  <line x1="60" y1="213.0" x2="365" y2="213.0" stroke="#6B8B3D" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="226.0" font-family="Georgia,serif" font-size="7.8" fill="#2A3518" text-anchor="middle" font-style="italic">« La vraie récompense du service est le service lui-même. »</text>
+  <text x="212" y="239.0" font-family="Georgia,serif" font-size="7.8" fill="#2A3518" text-anchor="middle" font-style="italic">« Le fils travaille par amour, non pour le salaire. »</text>
+  <line x1="60" y1="240.0" x2="365" y2="240.0" stroke="#6B8B3D" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="251.0" font-family="Georgia,serif" font-size="7.5" fill="#2A3518" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  
+  <rect x="13" y="557" width="399" height="25" fill="#556B2F" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#DAE2CE" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">75</text>
+</svg>

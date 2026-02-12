@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F7E9E6"/><stop offset="100%" stop-color="#F4DED9"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#C44B30" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#C44B30" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.35" fill="none" stroke="#C44B30" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#8B2500" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#F0D2CB" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Pin&apos;has  —  פִּינְחָס</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" font-weight="bold" letter-spacing="1.5">RÉCIT (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Les Sages du Talmud ont longuement débattu de la légitimité de l&apos;acte de Pin&apos;has. La</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">halakha reconnaît en effet le principe du kanaï pogéa bo, le zélote peut frapper celui</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">qui profane publiquement le Nom divin, mais cette règle ne s&apos;enseigne pas comme norme</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">générale et ne s&apos;applique que dans des circonstances extrêmement précises. Si Pin&apos;has</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">était venu consulter le tribunal avant d&apos;agir, on ne lui aurait pas donné</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">l&apos;autorisation d&apos;agir, car cette halakha n&apos;est pas enseignée comme directive. C&apos;est</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">précisément parce que Pin&apos;has agit dans l&apos;urgence absolue du moment, avec une pureté</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">d&apos;intention totale et sans aucune motivation personnelle, que son acte fut validé</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">rétroactivement par le Ciel. Les Sages enseignent que les anges eux-mêmes voulurent le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">repousser, mais D.ieu intervint en sa faveur. L&apos;alliance de paix accordée à Pin&apos;has est</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">interprétée par les commentateurs comme une guérison intérieure nécessaire : après un</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">acte de violence, même justifié, l&apos;âme du juste a besoin d&apos;être restaurée dans la paix.</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Le Zohar enseigne que Pin&apos;has reçut en récompense les deux âmes de Nadav et Avihou, les</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">fils d&apos;Aharon morts devant D.ieu, complétant ainsi la réparation sacerdotale commencée</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">par son grand-père. Dans le livre des Juges, Pin&apos;has apparaît comme celui que le peuple</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">consulte devant l&apos;Arche d&apos;alliance, témoignant de sa stature spirituelle exceptionnelle</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et de la pérennité de son sacerdoce à travers les générations. La tradition identifie</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Pin&apos;has au prophète Éliyahou, enseignant que le même zèle pour l&apos;alliance divine</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">traverse les siècles, depuis les plaines de Moav jusqu&apos;au mont Carmel et jusqu&apos;à la</tspan>
+<tspan x="25" dy="13.5">venue du Messie. Chaque génération possède son Pin&apos;has.</tspan>
+</text>
+  <line x1="60" y1="353.0" x2="365" y2="353.0" stroke="#C44B30" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="357.0" font-family="Georgia,serif" font-size="7" fill="#C44B30" text-anchor="middle">✦</text>
+  <rect x="25" y="365.0" width="375" height="90" rx="4" fill="#F4E0DB" stroke="#C44B30" stroke-width="0.4"/>
+  <text x="212" y="377.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" text-anchor="middle" font-weight="bold" letter-spacing="1">MIDRASH</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#555555" font-style="italic">
+<tspan x="35" y="390.0" textLength="340" lengthAdjust="spacing">Les tribus méprisèrent Pin&apos;has en disant : voyez ce fils de Pouti dont le grand-père</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">maternel engraissait les veaux pour l&apos;idolâtrie, et il ose tuer un prince d&apos;Israël !</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">C&apos;est pourquoi D.ieu proclama publiquement sa généalogie sacerdotale, pour faire</tspan>
+<tspan x="35" dy="13">taire ceux qui contestaient la pureté de son intention.</tspan>
+</text>
+  <text x="390" y="451.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Sanhédrin 82b</text>
+  <line x1="60" y1="460.0" x2="365" y2="460.0" stroke="#C44B30" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="478.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="485.0" width="182" height="38" rx="3" fill="none" stroke="#C44B30" stroke-width="0.35"/>
+  <text x="116" y="500.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" text-anchor="middle" font-weight="bold">Le Zèle</text>
+  <text x="116" y="514.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Agir pour D.ieu quand nul autre n&apos;ose.</text>
+  <rect x="218" y="485.0" width="182" height="38" rx="3" fill="none" stroke="#C44B30" stroke-width="0.35"/>
+  <text x="309" y="500.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" text-anchor="middle" font-weight="bold">La Paix</text>
+  <text x="309" y="514.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Après le zèle, la restauration de l&apos;âme.</text>
+  <line x1="60" y1="532.0" x2="365" y2="532.0" stroke="#C44B30" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="545.0" font-family="Georgia,serif" font-size="7.8" fill="#3A1810" text-anchor="middle" font-style="italic">« Le vrai zèle naît de l&apos;amour, non de la colère. »</text>
+  <text x="212" y="556.0" font-family="Georgia,serif" font-size="7.8" fill="#3A1810" text-anchor="middle" font-style="italic">« L&apos;alliance de paix guérit celui qui a dû combattre. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#8B2500" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F0D2CB" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">29</text>
+</svg>

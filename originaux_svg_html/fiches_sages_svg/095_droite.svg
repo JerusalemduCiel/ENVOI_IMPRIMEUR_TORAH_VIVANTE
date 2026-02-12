@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5F4EB"/><stop offset="100%" stop-color="#D8EFE1"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#28A85C" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#28A85C" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#28A85C" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#1E8449" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#C9E9D6" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ramhal (Rabbi Moché &apos;Haïm Luzzatto)  —  רמח״ל</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Ramhal mourut à Acre en Terre d&apos;Israël en 1746, à l&apos;âge de trente-neuf ans, emporté</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">par une épidémie de peste avec toute sa famille. Cette mort tragique et prématurée</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">frappa le monde juif de stupeur. Le Gaon de Vilna, le plus grand opposant au hassidisme</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et autorité suprême du monde lituanien, déclara que si le Ramhal avait vécu à son</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">époque, il aurait marché quatre cents milles à pied pour étudier à ses pieds. Cette</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">reconnaissance posthume témoigne de la grandeur universellement admise du Ramhal, qui</tspan>
+<tspan x="25" dy="13.5">transcende les clivages entre mystiques et rationalistes.</tspan>
+</text>
+  <line x1="60" y1="177.5" x2="365" y2="177.5" stroke="#28A85C" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="181.5" font-family="Georgia,serif" font-size="7" fill="#28A85C" text-anchor="middle">✦</text>
+  <rect x="25" y="189.5" width="375" height="93" rx="4" fill="#DAF0E3" stroke="#28A85C" stroke-width="0.4"/>
+  <text x="212" y="203.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" text-anchor="middle" font-weight="bold" letter-spacing="1">HISTOIRE HASSIDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2818" font-style="italic">
+<tspan x="35" y="217.5" textLength="340" lengthAdjust="spacing">Le Ramhal raconte dans ses écrits que le Maguid, l&apos;ange céleste, venait le visiter</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">la nuit et lui dictait des secrets de la Torah d&apos;une profondeur inouïe. Il</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">consignait ces révélations dans des cahiers qu&apos;il partageait avec un petit cercle</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">de disciples. Quand les rabbins l&apos;apprirent, ils furent saisis de crainte et</tspan>
+<tspan x="35" dy="13">exigèrent qu&apos;il cesse, car le souvenir de Shabbetaï Tsvi hantait encore les esprits.</tspan>
+</text>
+  <text x="390" y="278.5" font-family="Georgia,serif" font-size="6" fill="#AA8877" text-anchor="end">— Tradition hassidique</text>
+  <line x1="60" y1="292.5" x2="365" y2="292.5" stroke="#28A85C" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="307.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+  <rect x="25" y="311.5" width="375" height="66" rx="4" fill="none" stroke="#28A85C" stroke-width="0.35" opacity="0.5"/>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2818">
+<tspan x="35" y="325.5">« La piété est la couronne de toutes les vertus. »</tspan>
+<tspan x="35" dy="14">« L&apos;homme a été créé pour se délecter de D.ieu. »</tspan>
+<tspan x="35" dy="14">« Toute la création n&apos;a été faite que pour servir l&apos;homme juste. »</tspan>
+<tspan x="35" dy="14">« La vigilance est le premier degré de l&apos;élévation spirituelle. »</tspan>
+</text>
+  <line x1="60" y1="383.5" x2="365" y2="383.5" stroke="#28A85C" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="388.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="392.5" width="182" height="48" rx="3" fill="none" stroke="#28A85C" stroke-width="0.35"/>
+  <text x="116" y="407.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" text-anchor="middle" font-weight="bold">Le Messilat Yesharim</text>
+  <text x="116" y="421.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Guide suprême du perfectionnement moral.</text>
+  <rect x="218" y="392.5" width="182" height="48" rx="3" fill="none" stroke="#28A85C" stroke-width="0.35"/>
+  <text x="309" y="407.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" text-anchor="middle" font-weight="bold">La Kabbale</text>
+  <text x="309" y="421.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Enseignements mystiques d&apos;une profondeur inouïe.</text>
+  <line x1="60" y1="445.5" x2="365" y2="445.5" stroke="#28A85C" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="456.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="469.5">Maître : La tradition lourianique</tspan>
+<tspan x="25" dy="13">Disciples : Le monde entier (par ses écrits)</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#1E8449" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#C9E9D6" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">191</text>
+</svg>

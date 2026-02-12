@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5EBF1"/><stop offset="100%" stop-color="#D8E2EB"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#286090" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#286090" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#286090" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#154360" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#C9D7E3" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rav Haï Gaon  —  רַב הַאי גָּאוֹן</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Rav Haï Gaon est aussi connu pour sa position nuancée sur la mystique et la</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">philosophie. Il mettait en garde contre les excès de la spéculation mystique tout en</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">reconnaissant la validité des traditions ésotériques transmises depuis les Tannaïm. Il</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">écrivit que celui qui s&apos;aventure dans les secrets de la Torah sans préparation risque</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">de se perdre, comme les quatre Sages entrés au Pardès dont seul Rabbi Akiva sortit en</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">paix. Sa mort en 1038 fut pleurée dans tout le monde juif. Le poète Shmouel HaNaguid</tspan>
+<tspan x="25" dy="13.5">composa une élégie en son honneur, déclarant que la couronne de la Torah était tombée.</tspan>
+</text>
+  <line x1="60" y1="177.5" x2="365" y2="177.5" stroke="#286090" stroke-width="0.5" opacity="0.35"/>
+  <text x="25" y="192.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+  <rect x="25" y="195.5" width="375" height="68.0" rx="4" fill="#DAE3EC" stroke="#286090" stroke-width="0.4"/>
+  <text x="35" y="206.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" font-weight="bold">Responsa</text>
+<text x="35" y="224.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" font-weight="bold">Mishpetei Shevouot</text>
+<text x="35" y="242.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" font-weight="bold">Mekah ouMemkar</text>
+
+  <rect x="25" y="270.5" width="375" height="70.0" rx="4" fill="#FFF8E8" stroke="#C4973B" stroke-width="0.4"/>
+  <text x="212" y="282.5" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+<tspan x="35" y="294.5">Rav Haï Gaon est le dernier Gaon de l&apos;histoire. Après sa mort, plus personne ne porta</tspan>
+<tspan x="35" dy="12.5">ce titre et les académies babyloniennes qui avaient dirigé le monde juif pendant cinq</tspan>
+<tspan x="35" dy="12.5">siècles fermèrent définitivement. Le centre de la Torah se déplaça vers l&apos;Espagne,</tspan>
+<tspan x="35" dy="12.5">l&apos;Afrique du Nord et l&apos;Europe.</tspan>
+</text>
+  <line x1="60" y1="350.5" x2="365" y2="350.5" stroke="#286090" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="355.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="359.5" width="182" height="42" rx="3" fill="none" stroke="#286090" stroke-width="0.35"/>
+  <text x="116" y="374.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" text-anchor="middle" font-weight="bold">Les Responsa</text>
+  <text x="116" y="388.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Des milliers de réponses pour le monde entier.</text>
+  <rect x="218" y="359.5" width="182" height="42" rx="3" fill="none" stroke="#286090" stroke-width="0.35"/>
+  <text x="309" y="374.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" text-anchor="middle" font-weight="bold">Le Pragmatisme</text>
+  <text x="309" y="388.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">La halakha tient compte des réalités.</text>
+  <line x1="60" y1="410.5" x2="365" y2="410.5" stroke="#286090" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="423.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" text-anchor="middle" font-style="italic">« La couronne de la Torah est tombée avec lui. »</text>
+  <text x="212" y="436.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" text-anchor="middle" font-style="italic">« Le droit talmudique s&apos;applique au monde réel. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#154360" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#C9D7E3" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">133</text>
+</svg>

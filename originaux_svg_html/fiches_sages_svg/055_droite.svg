@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5EDF2"/><stop offset="100%" stop-color="#D8E4EB"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#2B6D95" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#2B6D95" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#2B6D95" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#1A5276" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#CADAE4" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Shmouel (Mar Shmouel)  —  שְׁמוּאֵל (מָר שְׁמוּאֵל)</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Talmud rapporte que la relation entre Rav et Shmouel était faite de respect mutuel</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et de rivalité créatrice. Shmouel acceptait la prééminence de Rav en matière de rituel</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et de liturgie, tandis que Rav reconnaissait l&apos;expertise supérieure de Shmouel dans le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">droit civil et financier. Quand Rav mourut, Shmouel déchira ses vêtements et pleura en</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">disant : celui qui m&apos;inspirait la crainte est parti. L&apos;académie de Néhardéa fut</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">détruite peu après la mort de Shmouel lors d&apos;une invasion, mais ses enseignements</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">furent transmis par ses disciples, notamment Rav Yehouda bar Yé&apos;hezkel qui fonda</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">l&apos;académie de Poumbedita. La règle de Shmouel, dina demalkhuta dina, reste aujourd&apos;hui</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">l&apos;un des principes les plus appliqués dans le judaïsme contemporain, permettant aux</tspan>
+<tspan x="25" dy="13.5">Juifs de respecter à la fois la halakha et les lois civiles de leur pays de résidence.</tspan>
+</text>
+  <line x1="60" y1="218.0" x2="365" y2="218.0" stroke="#2B6D95" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="222.0" font-family="Georgia,serif" font-size="7" fill="#2B6D95" text-anchor="middle">✦</text>
+  <rect x="25" y="233.0" width="375" height="95" rx="4" fill="#DAE6EC" stroke="#2B6D95" stroke-width="0.4"/>
+  <text x="212" y="247.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2038" font-style="italic">
+<tspan x="35" y="261.0" textLength="340" lengthAdjust="spacing">Le Talmud rapporte que Shmouel pouvait examiner un patient et diagnostiquer sa</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">maladie rien qu&apos;en observant la couleur de ses ongles. Il disait que toutes les</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">maladies viennent du froid et que la meilleure médecine est la prévention. Un jour,</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">Rav lui demanda de le soigner. Shmouel lui appliqua son onguent et Rav guérit</tspan>
+<tspan x="35" dy="13">instantanément. Shmouel dit : le corps est un dépôt confié par D.</tspan>
+</text>
+  <text x="390" y="324.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Bava Metsia 85b</text>
+  <line x1="60" y1="338.0" x2="365" y2="338.0" stroke="#2B6D95" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="350.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="357.0" width="182" height="48" rx="3" fill="none" stroke="#2B6D95" stroke-width="0.35"/>
+  <text x="116" y="372.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold">Dina demalkhuta</text>
+  <text x="116" y="386.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">La loi civile locale est reconnue par la Torah.</text>
+  <rect x="218" y="357.0" width="182" height="48" rx="3" fill="none" stroke="#2B6D95" stroke-width="0.35"/>
+  <text x="309" y="372.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold">L&apos;Astronomie</text>
+  <text x="309" y="386.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Calendrier juif indépendant pour la Diaspora.</text>
+  <line x1="60" y1="413.0" x2="365" y2="413.0" stroke="#2B6D95" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="426.0" font-family="Georgia,serif" font-size="7.8" fill="#0C2038" text-anchor="middle" font-style="italic">« Le sacré et le civil ont chacun leur domaine. »</text>
+  <text x="212" y="439.0" font-family="Georgia,serif" font-size="7.8" fill="#0C2038" text-anchor="middle" font-style="italic">« Le corps est un dépôt confié par D.ieu. »</text>
+  <line x1="60" y1="440.0" x2="365" y2="440.0" stroke="#2B6D95" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="451.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="464.0">maitre: Son père Abba bar Abba, Lévi bar Sissi</tspan>
+<tspan x="25" dy="13">disciples: Rav Yehouda bar Yé&apos;hezkel</tspan>
+<tspan x="25" dy="13">contemporain: Rav de Soura</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#1A5276" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#CADAE4" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">111</text>
+</svg>

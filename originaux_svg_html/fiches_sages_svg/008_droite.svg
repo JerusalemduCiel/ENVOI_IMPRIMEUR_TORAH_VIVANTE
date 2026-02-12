@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F7F2E6"/><stop offset="100%" stop-color="#F3EBD9"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#BF9530" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#BF9530" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.35" fill="none" stroke="#BF9530" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#96700A" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#EFE4CB" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ra&apos;hel et Léa  —  רָחֵל וְלֵאָה</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3D3418" font-weight="bold" letter-spacing="1.5">RÉCIT (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Léa enfanta six des douze tribus : Réouven, Shimon, Lévi, Yehouda, Yissakhar et</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Zevouloun, ainsi qu&apos;une fille, Dina. Quand elle donna naissance à son quatrième fils</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Yehouda, elle dit : cette fois je remercierai l&apos;Éternel, et ce nom, dérivé du mot hodaa</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">qui signifie gratitude et reconnaissance, devint celui du peuple juif tout entier pour</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">l&apos;éternité. Ra&apos;hel souffrit de longues années de stérilité et supplia Yaakov avec</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">détresse : donne-moi des enfants, sinon je meurs. Puis elle pria D.ieu elle-même avec</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">une intensité et une ferveur telles que le Ciel se souvint d&apos;elle. Elle enfanta d&apos;abord</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Yossef, dont le nom signifie que D.ieu ajoutera encore, puis Binyamin au prix de sa</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">propre vie, mourant sur le chemin de Bethléhem en donnant naissance à son second fils</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">bien-aimé. Dans ses derniers instants, elle le nomma Ben Oni, fils de ma douleur, mais</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Yaakov le renomma Binyamin, fils de la droite. Yaakov enterra Ra&apos;hel au bord de la</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">route de Bethléhem et non dans la grotte de Makhpéla, et les Sages expliquent que ce</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">choix fut guidé par la prophétie : lorsque les enfants d&apos;Israël passeraient par ce lieu</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">en route vers l&apos;exil babylonien des siècles plus tard, Ra&apos;hel sortirait de son tombeau</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">pour pleurer et intercéder en leur faveur devant D.ieu. Le prophète Yirméyahou rapporte</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">cette parole : une voix se fait entendre à Rama, Ra&apos;hel pleure ses enfants et refuse</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">toute consolation. Et D.ieu lui répond avec tendresse : retiens tes pleurs, car tes</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">enfants reviendront dans leur frontière. Le mérite des larmes de Ra&apos;hel obtint la</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">promesse divine du retour d&apos;exil, accomplissant ce que les mérites de tous les</tspan>
+<tspan x="25" dy="13.5">patriarches réunis n&apos;avaient pas obtenu.</tspan>
+</text>
+  <line x1="60" y1="353.0" x2="365" y2="353.0" stroke="#BF9530" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="357.0" font-family="Georgia,serif" font-size="7" fill="#BF9530" text-anchor="middle">✦</text>
+  <rect x="25" y="365.0" width="375" height="90" rx="4" fill="#F4ECDB" stroke="#BF9530" stroke-width="0.4"/>
+  <text x="212" y="377.0" font-family="Georgia,serif" font-size="7.5" fill="#3D3418" text-anchor="middle" font-weight="bold" letter-spacing="1">MIDRASH</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#555555" font-style="italic">
+<tspan x="35" y="390.0" textLength="340" lengthAdjust="spacing">Pourquoi Ra&apos;hel obtint-elle ce que les patriarches eux-mêmes n&apos;avaient pas obtenu ?</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">Parce qu&apos;elle dit à D.ieu : moi, simple mortelle, je n&apos;ai pas été jalouse de ma sœur</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">et je lui ai donné mes signes. Toi, D.ieu éternel, seras-Tu jaloux des idoles de bois</tspan>
+<tspan x="35" dy="13">et de pierre au point d&apos;exiler Tes enfants ?</tspan>
+</text>
+  <text x="390" y="451.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Bereshit Rabbah 70:19</text>
+  <line x1="60" y1="460.0" x2="365" y2="460.0" stroke="#BF9530" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="478.0" font-family="Georgia,serif" font-size="7.5" fill="#3D3418" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="485.0" width="182" height="38" rx="3" fill="none" stroke="#BF9530" stroke-width="0.35"/>
+  <text x="116" y="500.0" font-family="Georgia,serif" font-size="7.5" fill="#3D3418" text-anchor="middle" font-weight="bold">Le Sacrifice</text>
+  <text x="116" y="514.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Ra&apos;hel donna les signes pour sa sœur.</text>
+  <rect x="218" y="485.0" width="182" height="38" rx="3" fill="none" stroke="#BF9530" stroke-width="0.35"/>
+  <text x="309" y="500.0" font-family="Georgia,serif" font-size="7.5" fill="#3D3418" text-anchor="middle" font-weight="bold">La Prière</text>
+  <text x="309" y="514.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Léa pleura jusqu&apos;à changer son destin.</text>
+  <line x1="60" y1="532.0" x2="365" y2="532.0" stroke="#BF9530" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="545.0" font-family="Georgia,serif" font-size="7.8" fill="#3D3418" text-anchor="middle" font-style="italic">« Ra&apos;hel pleure ses enfants, elle refuse d&apos;être consolée. »</text>
+  <text x="212" y="556.0" font-family="Georgia,serif" font-size="7.8" fill="#3D3418" text-anchor="middle" font-style="italic">« Ensemble, les deux sœurs bâtirent la Maison d&apos;Israël. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#96700A" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#EFE4CB" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">17</text>
+</svg>

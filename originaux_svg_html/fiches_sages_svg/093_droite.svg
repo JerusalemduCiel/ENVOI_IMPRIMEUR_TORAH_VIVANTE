@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5F4EB"/><stop offset="100%" stop-color="#D8EFE1"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#28A85C" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#28A85C" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#28A85C" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#1E8449" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#C9E9D6" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ari Zal (Rabbi Its&apos;hak Louria)  —  אֲרִי זַ״ל</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Ari Zal n&apos;écrivit presque rien lui-même. Tout son enseignement fut transmis</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">oralement et consigné par son disciple principal Rabbi &apos;Haïm Vital dans le monumental</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Ets &apos;Haïm, l&apos;Arbre de Vie. Le Ari Zal mourut à Safed en 1572, à l&apos;âge de trente-huit</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">ans, après seulement deux années d&apos;enseignement qui suffirent à transformer</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">radicalement toute la pensée juive. Sa mort prématurée frappa ses disciples de stupeur</tspan>
+<tspan x="25" dy="13.5">et le Ari Zal déclara avant de mourir que son âme devait retourner auprès de D.</tspan>
+</text>
+  <line x1="60" y1="164.0" x2="365" y2="164.0" stroke="#28A85C" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="168.0" font-family="Georgia,serif" font-size="7" fill="#28A85C" text-anchor="middle">✦</text>
+  <rect x="25" y="176.0" width="375" height="106" rx="4" fill="#DAF0E3" stroke="#28A85C" stroke-width="0.4"/>
+  <text x="212" y="190.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" text-anchor="middle" font-weight="bold" letter-spacing="1">HISTOIRE HASSIDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2818" font-style="italic">
+<tspan x="35" y="204.0" textLength="340" lengthAdjust="spacing">Le Ari Zal sortait chaque vendredi soir dans les champs de Safed avec ses</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">disciples, vêtus de blanc, pour accueillir le Shabbat en chantant le Lekha Dodi</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">face au soleil couchant. Il voyait les âmes des justes défunts et pouvait lire sur</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">le front de chaque homme l&apos;histoire de son âme et sa mission dans ce monde. Cette</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">pratique de Kabbalat Shabbat dans les champs devint le modèle de la prière du</tspan>
+<tspan x="35" dy="13">vendredi soir pour toutes les communautés juives du monde entier, jusqu&apos;à nos jours.</tspan>
+</text>
+  <text x="390" y="278.0" font-family="Georgia,serif" font-size="6" fill="#AA8877" text-anchor="end">— Tradition hassidique</text>
+  <line x1="60" y1="292.0" x2="365" y2="292.0" stroke="#28A85C" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="307.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+  <rect x="25" y="311.0" width="375" height="66" rx="4" fill="none" stroke="#28A85C" stroke-width="0.35" opacity="0.5"/>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2818">
+<tspan x="35" y="325.0">« D.ieu Se contracta pour laisser place au monde. »</tspan>
+<tspan x="35" dy="14">« Chaque mitsva rassemble une étincelle de sainteté dispersée. »</tspan>
+<tspan x="35" dy="14">« L&apos;âme descend dans ce monde pour réparer ce qui doit l&apos;être. »</tspan>
+<tspan x="35" dy="14">« Le Tikoun du monde est entre les mains de l&apos;homme. »</tspan>
+</text>
+  <line x1="60" y1="383.0" x2="365" y2="383.0" stroke="#28A85C" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="388.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="392.0" width="182" height="48" rx="3" fill="none" stroke="#28A85C" stroke-width="0.35"/>
+  <text x="116" y="407.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" text-anchor="middle" font-weight="bold">Le Tsimtsoum</text>
+  <text x="116" y="421.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">D.ieu Se contracta pour laisser place au monde.</text>
+  <rect x="218" y="392.0" width="182" height="48" rx="3" fill="none" stroke="#28A85C" stroke-width="0.35"/>
+  <text x="309" y="407.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" text-anchor="middle" font-weight="bold">Le Tikoun</text>
+  <text x="309" y="421.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Réparer le monde par les mitsvot.</text>
+  <line x1="60" y1="445.0" x2="365" y2="445.0" stroke="#28A85C" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="456.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="469.0">Maître : Le Ramak, la tradition du Zohar</tspan>
+<tspan x="25" dy="13">Disciples : Rabbi &apos;Haïm Vital</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#1E8449" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#C9E9D6" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">187</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#EFEAF3"/><stop offset="100%" stop-color="#E7DFED"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#7B52A0" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#7B52A0" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.35" fill="none" stroke="#7B52A0" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#4B0082" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#DED3E7" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Élisha  —  אֱלִישָׁע</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">RÉCIT (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le miracle le plus célèbre d&apos;Élisha est la résurrection du fils de la Shounamite, une</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">femme pieuse et riche qui avait aménagé une chambre haute pour le prophète. Quand son</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">fils unique mourut subitement, elle courut vers Élisha au mont Carmel avec une foi</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">inébranlable. Le prophète s&apos;étendit sur l&apos;enfant, bouche contre bouche, yeux contre</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">yeux, mains contre mains, et l&apos;enfant revint à la vie après avoir éternué sept fois.</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Élisha guérit aussi Naaman, le général de l&apos;armée d&apos;Aram, de sa lèpre en lui ordonnant</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">de se tremper sept fois dans le Jourdain. Naaman, furieux d&apos;abord devant la simplicité</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">de cette prescription, obéit finalement et fut guéri, proclamant qu&apos;il n&apos;y a pas de</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">D.ieu sur toute la terre sinon en Israël. Quand Guéhazi, le serviteur d&apos;Élisha,</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">poursuivit secrètement Naaman pour obtenir de l&apos;argent et des vêtements, Élisha le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">maudit en disant : la lèpre de Naaman s&apos;attachera à toi et à ta descendance pour</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">toujours, enseignant que le prophète ne doit jamais tirer profit de ses dons. Élisha</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">intervint aussi dans les guerres entre Israël et Aram, révélant au roi d&apos;Israël les</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">plans secrets de l&apos;ennemi, et quand l&apos;armée araméenne vint l&apos;assiéger, il pria D.ieu</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">d&apos;ouvrir les yeux de son serviteur qui vit la montagne remplie de chevaux et de chars</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">de feu protégeant le prophète. Les Sages enseignent que même après sa mort, la sainteté</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">d&apos;Élisha était si puissante qu&apos;un mort jeté par hasard dans sa tombe revint à la vie au</tspan>
+<tspan x="25" dy="13.5">contact de ses ossements, prouvant que le juste continue d&apos;agir même au-delà de la mort.</tspan>
+</text>
+  <line x1="60" y1="326.0" x2="365" y2="326.0" stroke="#7B52A0" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="330.0" font-family="Georgia,serif" font-size="7" fill="#7B52A0" text-anchor="middle">✦</text>
+  <rect x="25" y="338.0" width="375" height="90" rx="4" fill="#E8E1EE" stroke="#7B52A0" stroke-width="0.4"/>
+  <text x="212" y="350.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold" letter-spacing="1">MIDRASH</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#555555" font-style="italic">
+<tspan x="35" y="363.0" textLength="340" lengthAdjust="spacing">Pourquoi Élisha demanda-t-il une double part de l&apos;esprit d&apos;Éliyahou ? Non par orgueil</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">mais parce qu&apos;Éliyahou agissait seul dans les hauteurs tandis qu&apos;Élisha devait porter</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">la prophétie au milieu du peuple. Celui qui descend parmi les hommes a besoin d&apos;une</tspan>
+<tspan x="35" dy="13">double force pour ne pas être submergé par leurs épreuves.</tspan>
+</text>
+  <text x="390" y="424.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Berakhot 10b</text>
+  <line x1="60" y1="433.0" x2="365" y2="433.0" stroke="#7B52A0" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="451.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="458.0" width="182" height="38" rx="3" fill="none" stroke="#7B52A0" stroke-width="0.35"/>
+  <text x="116" y="473.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">Le Service</text>
+  <text x="116" y="487.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">La prophétie au service des plus humbles.</text>
+  <rect x="218" y="458.0" width="182" height="38" rx="3" fill="none" stroke="#7B52A0" stroke-width="0.35"/>
+  <text x="309" y="473.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">Le Désintéressement</text>
+  <text x="309" y="487.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Le prophète ne tire jamais profit de ses dons.</text>
+  <line x1="60" y1="505.0" x2="365" y2="505.0" stroke="#7B52A0" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="518.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Le manteau du maître passe au disciple fidèle. »</text>
+  <text x="212" y="529.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Celui qui descend parmi les hommes a besoin d&apos;une double force. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#4B0082" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#DED3E7" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">51</text>
+</svg>

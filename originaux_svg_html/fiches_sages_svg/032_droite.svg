@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E9ECEF"/><stop offset="100%" stop-color="#DEE3E8"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#4A6580" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#4A6580" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.35" fill="none" stroke="#4A6580" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2E4057" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#D1D8DF" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Daniel  —  דָּנִיֵּאל</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#1A2530" font-weight="bold" letter-spacing="1.5">RÉCIT (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Les visions de Daniel sur la fin des temps constituent l&apos;une des sections les plus</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">mystérieuses de toute la Bible. Il vit quatre bêtes monstrueuses sortir de la mer,</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">représentant les quatre empires qui asserviraient Israël : Babylone, la Perse, la Grèce</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et Rome. Puis il vit un Ancien des Jours, assis sur un trône de flammes, remettre la</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">souveraineté éternelle à un être semblable à un fils d&apos;homme. Le Talmud débat</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">longuement de la nature prophétique de Daniel : certains Sages affirment qu&apos;il n&apos;était</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">pas un prophète au sens strict mais un visionnaire, ce qui explique que son livre soit</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">classé dans les Ketouvim, les Écrits, plutôt que parmi les Prophètes. Néanmoins, la</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">tradition reconnaît que sa sainteté était comparable à celle des plus grands. Daniel</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">vécut jusqu&apos;à un âge très avancé et servit sous les règnes de Nabuchodonosor,</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Belshatsar, Darius le Mède et Cyrus le Perse, traversant la chute de Babylone et</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">assistant au début du retour des exilés en Terre d&apos;Israël sous le décret de Cyrus. Le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Talmud enseigne que Daniel fut l&apos;un des auteurs de la prière de la Amida et que sa</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">coutume de prier trois fois par jour face à Jérusalem devint la norme pour tout le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">peuple d&apos;Israël. Son livre est lu dans les synagogues et ses visions continuent de</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">nourrir l&apos;espérance messianique à travers les siècles. Les trois compagnons de Daniel</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">dans la fournaise ardente de Nabuchodonosor, &apos;Hanania, Mishaël et Azaria, représentent</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">avec lui le modèle absolu de la sanctification du Nom divin, le Kiddoush Hashem, la</tspan>
+<tspan x="25" dy="13.5">disposition à mourir plutôt que de trahir sa foi.</tspan>
+</text>
+  <line x1="60" y1="339.5" x2="365" y2="339.5" stroke="#4A6580" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="343.5" font-family="Georgia,serif" font-size="7" fill="#4A6580" text-anchor="middle">✦</text>
+  <rect x="25" y="351.5" width="375" height="77" rx="4" fill="#E0E4E9" stroke="#4A6580" stroke-width="0.4"/>
+  <text x="212" y="363.5" font-family="Georgia,serif" font-size="7.5" fill="#1A2530" text-anchor="middle" font-weight="bold" letter-spacing="1">MIDRASH</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#555555" font-style="italic">
+<tspan x="35" y="376.5" textLength="340" lengthAdjust="spacing">Le Talmud raconte que lorsque Daniel fut jeté dans la fosse aux lions, le prophète</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">Habacouc lui apporta de la nourriture transporté par un ange. Daniel dit : D.ieu qui</tspan>
+<tspan x="35" dy="13">nourrit le monde entier m&apos;a envoyé un repas dans la fosse même de la mort.</tspan>
+</text>
+  <text x="390" y="424.5" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Daniel 6:23</text>
+  <line x1="60" y1="433.5" x2="365" y2="433.5" stroke="#4A6580" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="451.5" font-family="Georgia,serif" font-size="7.5" fill="#1A2530" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="458.5" width="182" height="38" rx="3" fill="none" stroke="#4A6580" stroke-width="0.35"/>
+  <text x="116" y="473.5" font-family="Georgia,serif" font-size="7.5" fill="#1A2530" text-anchor="middle" font-weight="bold">La Foi</text>
+  <text x="116" y="487.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Prier trois fois par jour face à Jérusalem.</text>
+  <rect x="218" y="458.5" width="182" height="38" rx="3" fill="none" stroke="#4A6580" stroke-width="0.35"/>
+  <text x="309" y="473.5" font-family="Georgia,serif" font-size="7.5" fill="#1A2530" text-anchor="middle" font-weight="bold">Les Visions</text>
+  <text x="309" y="487.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Les quatre empires et le royaume de D.ieu.</text>
+  <line x1="60" y1="505.5" x2="365" y2="505.5" stroke="#4A6580" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="518.5" font-family="Georgia,serif" font-size="7.8" fill="#1A2530" text-anchor="middle" font-style="italic">« La fidélité à D.ieu ne se négocie jamais, même face à la mort. »</text>
+  <text x="212" y="529.5" font-family="Georgia,serif" font-size="7.8" fill="#1A2530" text-anchor="middle" font-style="italic">« Les empires passent, le royaume de D.ieu demeure. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2E4057" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D1D8DF" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">65</text>
+</svg>

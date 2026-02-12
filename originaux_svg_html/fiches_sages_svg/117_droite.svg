@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F9EAE8"/><stop offset="100%" stop-color="#F7DFDC"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D45040" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D45040" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#D45040" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#C0392B" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#F4D3CF" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rav Adin Steinsaltz  —  רַב עָדִין שְׁטַיְנְזַלְץ</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Rav Steinsaltz fonda des dizaines d&apos;institutions éducatives en Israël, en Russie et</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">dans le monde entier, se consacrant particulièrement à la redécouverte du judaïsme par</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">les Juifs russes après la chute de l&apos;Union soviétique. Il fut nommé Nassi, président,</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">du nouveau Sanhédrin reconstitué symboliquement en 2004. Il mourut à Jérusalem en 2020,</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">à l&apos;âge de quatre-vingt-trois ans. Le Talmud qu&apos;il a rendu accessible est son monument,</tspan>
+<tspan x="25" dy="13.5">comparable à ce que Rachi fit au Moyen Âge : ouvrir le texte sacré au plus grand nombre.</tspan>
+</text>
+  <line x1="60" y1="164.0" x2="365" y2="164.0" stroke="#D45040" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="168.0" font-family="Georgia,serif" font-size="7" fill="#D45040" text-anchor="middle">✦</text>
+  <rect x="25" y="176.0" width="375" height="106" rx="4" fill="#F7E1DE" stroke="#D45040" stroke-width="0.4"/>
+  <text x="212" y="190.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold" letter-spacing="1">HISTOIRE HASSIDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#301010" font-style="italic">
+<tspan x="35" y="204.0" textLength="340" lengthAdjust="spacing">On demanda un jour à Rav Steinsaltz pourquoi il avait consacré sa vie à traduire le</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">Talmud alors qu&apos;il aurait pu écrire des œuvres philosophiques originales. Il</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">répondit par une parabole : un homme trouve un trésor immense dans une grotte</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">fermée par une porte verrouillée. Il peut admirer le trésor seul ou forger une clef</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">pour que tous puissent y entrer. J&apos;ai choisi de forger la clef. Le Talmud est le</tspan>
+<tspan x="35" dy="13">trésor le plus précieux du peuple juif et il mérite d&apos;être partagé avec chacun.</tspan>
+</text>
+  <text x="390" y="278.0" font-family="Georgia,serif" font-size="6" fill="#AA8877" text-anchor="end">— Tradition</text>
+  <line x1="60" y1="292.0" x2="365" y2="292.0" stroke="#D45040" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="307.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+  <rect x="25" y="311.0" width="375" height="66" rx="4" fill="none" stroke="#D45040" stroke-width="0.35" opacity="0.5"/>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#301010">
+<tspan x="35" y="325.0">« Le Talmud est le trésor le plus précieux du peuple juif. »</tspan>
+<tspan x="35" dy="14">« Traduire, c&apos;est ouvrir une porte fermée depuis des siècles. »</tspan>
+<tspan x="35" dy="14">« Chaque Juif a le droit d&apos;accéder à sa propre tradition. »</tspan>
+<tspan x="35" dy="14">« Le génie du Talmud est qu&apos;il enseigne à penser, pas seulement à savoir. »</tspan>
+</text>
+  <line x1="60" y1="383.0" x2="365" y2="383.0" stroke="#D45040" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="388.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="392.0" width="182" height="48" rx="3" fill="none" stroke="#D45040" stroke-width="0.35"/>
+  <text x="116" y="407.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Talmud Steinsaltz</text>
+  <text x="116" y="421.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Traduction et commentaire en 44 volumes.</text>
+  <rect x="218" y="392.0" width="182" height="48" rx="3" fill="none" stroke="#D45040" stroke-width="0.35"/>
+  <text x="309" y="407.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">L&apos;Accessibilité</text>
+  <text x="309" y="421.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Ouvrir le texte sacré au plus grand nombre.</text>
+  <line x1="60" y1="445.0" x2="365" y2="445.0" stroke="#D45040" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="456.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="469.0">Maître : Le Rabbi de Loubavitch</tspan>
+<tspan x="25" dy="13">Disciples : Des millions de lecteurs</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#C0392B" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F4D3CF" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">235</text>
+</svg>

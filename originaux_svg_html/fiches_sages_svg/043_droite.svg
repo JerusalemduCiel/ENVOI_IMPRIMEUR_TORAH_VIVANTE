@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5EEF3"/><stop offset="100%" stop-color="#D9E6ED"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#2E75A0" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#2E75A0" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#2E75A0" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#1B4F72" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#CADCE7" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Éliézer ben Hyrcanos  —  רַבִּי אֱלִיעֶזֶר בֶּן הוּרְקְנוֹס</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">La tragédie de Rabbi Éliézer est celle de l&apos;excommunication. Lors du célèbre débat sur</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">le four de Akhnaï, il invoqua des miracles pour prouver que la halakha suivait son</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">opinion : un caroubier se déracina, un canal d&apos;eau coula à l&apos;envers et les murs du Beit</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Hamidrash se penchèrent. Une voix céleste confirma sa position. Mais Rabbi Yehoshoua se</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">leva et déclara : la Torah n&apos;est pas au ciel ! La majorité des Sages vota contre Rabbi</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Éliézer et le mit en &apos;hérem, en excommunication. Le Talmud rapporte que Rabbi Akiva,</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">son disciple le plus proche, fut envoyé lui annoncer la sentence et qu&apos;il pleura en le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">faisant. Rabbi Éliézer déchira ses vêtements et le monde fut frappé de calamités ce</tspan>
+<tspan x="25" dy="13.5">jour-là. À sa mort, les Sages levèrent l&apos;excommunication et pleurèrent sur lui.</tspan>
+</text>
+  <line x1="60" y1="204.5" x2="365" y2="204.5" stroke="#2E75A0" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="208.5" font-family="Georgia,serif" font-size="7" fill="#2E75A0" text-anchor="middle">✦</text>
+  <rect x="25" y="219.5" width="375" height="95" rx="4" fill="#DBE7EE" stroke="#2E75A0" stroke-width="0.4"/>
+  <text x="212" y="233.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2840" font-style="italic">
+<tspan x="35" y="247.5" textLength="340" lengthAdjust="spacing">Quand les murs du Beit Hamidrash se penchèrent pendant le débat, Rabbi Yehoshoua</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">les réprimanda : quand des Sages débattent de halakha, de quoi vous mêlez-vous ?</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">Les murs ne tombèrent pas par respect pour Rabbi Yehoshoua, mais ne se redressèrent</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">pas par respect pour Rabbi Éliézer. Ils restèrent penchés pour toujours, témoignage</tspan>
+<tspan x="35" dy="13">silencieux de la tension entre vérité individuelle et autorité collective.</tspan>
+</text>
+  <text x="390" y="310.5" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Bava Metsia 59b</text>
+  <line x1="60" y1="324.5" x2="365" y2="324.5" stroke="#2E75A0" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="336.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="343.5" width="182" height="48" rx="3" fill="none" stroke="#2E75A0" stroke-width="0.35"/>
+  <text x="116" y="358.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" text-anchor="middle" font-weight="bold">La Fidélité</text>
+  <text x="116" y="372.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Ne transmettre que ce qu&apos;on a reçu.</text>
+  <rect x="218" y="343.5" width="182" height="48" rx="3" fill="none" stroke="#2E75A0" stroke-width="0.35"/>
+  <text x="309" y="358.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" text-anchor="middle" font-weight="bold">L&apos;Autorité</text>
+  <text x="309" y="372.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">La Torah n&apos;est pas au ciel mais entre nos mains.</text>
+  <line x1="60" y1="399.5" x2="365" y2="399.5" stroke="#2E75A0" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="412.5" font-family="Georgia,serif" font-size="7.8" fill="#0C2840" text-anchor="middle" font-style="italic">« La citerne enduite ne perd pas une goutte de Torah. »</text>
+  <text x="212" y="425.5" font-family="Georgia,serif" font-size="7.8" fill="#0C2840" text-anchor="middle" font-style="italic">« La vérité individuelle face à l&apos;autorité collective. »</text>
+  <line x1="60" y1="426.5" x2="365" y2="426.5" stroke="#2E75A0" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="437.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="450.5">maitre: Rabbi Yo&apos;hanan ben Zakkaï</tspan>
+<tspan x="25" dy="13">disciples: Rabbi Akiva</tspan>
+<tspan x="25" dy="13">contemporain: Rabbi Yehoshoua ben &apos;Hanania</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#1B4F72" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#CADCE7" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">87</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F3E6E5"/><stop offset="100%" stop-color="#EDDAD8"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#A03328" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#A03328" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#A03328" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#7B241C" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Moché Isserles (Rama)  —  הָרָמָ״א</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Rama mourut à Cracovie en 1572 à l&apos;âge de quarante-deux ans seulement, emporté</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">prématurément alors qu&apos;il était au sommet de sa créativité. Sa synagogue à Cracovie, la</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Remuh, et sa tombe dans le vieux cimetière juif adjacent sont des lieux de pèlerinage</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">vénérés. Son influence sur la halakha est comparable à celle de Rabbi Yossef Karo</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">lui-même. Sans le Rama, le Shoul&apos;han Aroukh serait resté un code séfarade et le monde</tspan>
+<tspan x="25" dy="13.5">juif n&apos;aurait jamais eu cette unité halakhique remarquable.</tspan>
+</text>
+  <line x1="60" y1="164.0" x2="365" y2="164.0" stroke="#A03328" stroke-width="0.5" opacity="0.35"/>
+  <text x="25" y="179.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+  <rect x="25" y="182.0" width="375" height="30" rx="4" fill="#EEDCDA" stroke="#A03328" stroke-width="0.4"/>
+  
+  <rect x="25" y="219.0" width="375" height="20.0" rx="4" fill="#FFF8E8" stroke="#C4973B" stroke-width="0.4"/>
+  <text x="212" y="231.0" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+  
+  <line x1="60" y1="249.0" x2="365" y2="249.0" stroke="#A03328" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="254.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="258.0" width="182" height="42" rx="3" fill="none" stroke="#A03328" stroke-width="0.35"/>
+  <text x="116" y="273.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Les Glosses</text>
+  <text x="116" y="287.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Les coutumes ashkénazes ajoutées au Shoul&apos;han Aroukh.</text>
+  <rect x="218" y="258.0" width="182" height="42" rx="3" fill="none" stroke="#A03328" stroke-width="0.35"/>
+  <text x="309" y="273.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">L&apos;Unité</text>
+  <text x="309" y="287.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Séfarades et Ashkénazes unis dans un même code.</text>
+  <line x1="60" y1="309.0" x2="365" y2="309.0" stroke="#A03328" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="322.0" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« La Table est dressée, la Nappe la recouvre. »</text>
+  <text x="212" y="335.0" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Les coutumes des pères sont aussi sacrées que la loi. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#7B241C" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">177</text>
+</svg>

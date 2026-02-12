@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5EDF2"/><stop offset="100%" stop-color="#D8E4EB"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#2B6D95" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#2B6D95" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#2B6D95" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#1A5276" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#CADAE4" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Abbahou  —  רַבִּי אַבָּהוּ</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Talmud rapporte un épisode révélateur sur l&apos;humilité de Rabbi Abbahou. Il était</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">contemporain de Rabbi Safra, un Sage babylonien beaucoup moins connu. Quand Rabbi</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Abbahou présenta Rabbi Safra aux collecteurs d&apos;impôts comme un grand Sage pour lui</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">obtenir une exemption, on mit Rabbi Safra à l&apos;épreuve et il ne sut pas répondre. Rabbi</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Abbahou expliqua que la sagesse de Rabbi Safra résidait dans sa connaissance des textes</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et non dans le débat public. Il enseignait que la place que l&apos;on occupe dans ce monde</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">ne reflète pas la place que l&apos;on occupe dans le monde à venir, et que le Sage discret</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">est souvent plus grand que le Sage célèbre. À sa mort, les colonnes de Césarée</tspan>
+<tspan x="25" dy="13.5">versèrent des larmes, disent les Sages, tant la ville entière pleurait sa disparition.</tspan>
+</text>
+  <line x1="60" y1="204.5" x2="365" y2="204.5" stroke="#2B6D95" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="208.5" font-family="Georgia,serif" font-size="7" fill="#2B6D95" text-anchor="middle">✦</text>
+  <rect x="25" y="219.5" width="375" height="95" rx="4" fill="#DAE6EC" stroke="#2B6D95" stroke-width="0.4"/>
+  <text x="212" y="233.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2038" font-style="italic">
+<tspan x="35" y="247.5" textLength="340" lengthAdjust="spacing">Un sectaire demanda à Rabbi Abbahou : votre D.ieu est-il un prêtre, car il est</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">écrit qu&apos;Il demanda à Moché de Lui offrir une térouma ? Dans quoi s&apos;est-Il immergé</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">après avoir enterré Moché ? Rabbi Abbahou répondit : dans le feu, car D.ieu est un</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">feu dévorant. Le sectaire objecta : le feu purifie-t-il ? Rabbi Abbahou dit : le</tspan>
+<tspan x="35" dy="13">feu est la source première de toute pureté.</tspan>
+</text>
+  <text x="390" y="310.5" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Sanhédrin 39a</text>
+  <line x1="60" y1="324.5" x2="365" y2="324.5" stroke="#2B6D95" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="336.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="343.5" width="182" height="48" rx="3" fill="none" stroke="#2B6D95" stroke-width="0.35"/>
+  <text x="116" y="358.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold">Le Dialogue</text>
+  <text x="116" y="372.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Défendre la foi avec sagesse et respect.</text>
+  <rect x="218" y="343.5" width="182" height="48" rx="3" fill="none" stroke="#2B6D95" stroke-width="0.35"/>
+  <text x="309" y="358.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold">L&apos;Humilité</text>
+  <text x="309" y="372.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Le Sage discret est souvent le plus grand.</text>
+  <line x1="60" y1="399.5" x2="365" y2="399.5" stroke="#2B6D95" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="412.5" font-family="Georgia,serif" font-size="7.8" fill="#0C2038" text-anchor="middle" font-style="italic">« La sagesse sert à défendre la vérité, pas à briller. »</text>
+  <text x="212" y="425.5" font-family="Georgia,serif" font-size="7.8" fill="#0C2038" text-anchor="middle" font-style="italic">« Les colonnes de Césarée pleurèrent sa disparition. »</text>
+  <line x1="60" y1="426.5" x2="365" y2="426.5" stroke="#2B6D95" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="437.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="450.5">maitre: Rabbi Yo&apos;hanan</tspan>
+<tspan x="25" dy="13">disciples: Les Sages de Césarée</tspan>
+<tspan x="25" dy="13">contemporain: Rabbi Safra, Rabbi Ami</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#1A5276" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#CADAE4" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">121</text>
+</svg>

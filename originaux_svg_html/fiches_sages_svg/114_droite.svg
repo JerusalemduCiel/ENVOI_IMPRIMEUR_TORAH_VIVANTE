@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F9EAE8"/><stop offset="100%" stop-color="#F7DFDC"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D45040" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D45040" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#D45040" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#C0392B" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#F4D3CF" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Le Rabbi de Loubavitch  —  הָרַבִּי מִלּוּבָּאוִיטְשׁ</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Rabbi de Loubavitch ne visita jamais Israël, mais son influence sur la vie juive</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">mondiale fut immense. Il lança les campagnes des Dix Mitsvot, encourageant chaque Juif</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">à accomplir au moins un commandement, et ses Chlou&apos;him sont aujourd&apos;hui présents dans</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">plus de cent pays sur les six continents. Après un accident vasculaire cérébral en</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">1992, il ne put plus parler et mourut en 1994. Il n&apos;eut pas de successeur et le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">mouvement &apos;Habad est dirigé depuis par un réseau décentralisé de Chlou&apos;him. Sa tombe à</tspan>
+<tspan x="25" dy="13.5">New York est visitée par des centaines de milliers de pèlerins chaque année.</tspan>
+</text>
+  <line x1="60" y1="177.5" x2="365" y2="177.5" stroke="#D45040" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="181.5" font-family="Georgia,serif" font-size="7" fill="#D45040" text-anchor="middle">✦</text>
+  <rect x="25" y="189.5" width="375" height="106" rx="4" fill="#F7E1DE" stroke="#D45040" stroke-width="0.4"/>
+  <text x="212" y="203.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold" letter-spacing="1">HISTOIRE HASSIDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#301010" font-style="italic">
+<tspan x="35" y="217.5" textLength="340" lengthAdjust="spacing">Un homme vint un jour voir le Rabbi en pleurant : il avait perdu la foi. Le Rabbi</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">l&apos;écouta longuement puis lui dit : le fait que tu pleures prouve que tu n&apos;as pas</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">perdu la foi. Celui qui a vraiment perdu la foi ne pleure pas, il est indifférent.</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">Tes larmes sont la preuve que ton âme cherche D.ieu. Le Rabbi enseignait que même</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">la douleur de l&apos;absence de foi est une forme de foi, car seul celui qui croit</tspan>
+<tspan x="35" dy="13">vraiment peut souffrir de ne pas croire assez.</tspan>
+</text>
+  <text x="390" y="291.5" font-family="Georgia,serif" font-size="6" fill="#AA8877" text-anchor="end">— Tradition</text>
+  <line x1="60" y1="305.5" x2="365" y2="305.5" stroke="#D45040" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="320.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+  <rect x="25" y="324.5" width="375" height="66" rx="4" fill="none" stroke="#D45040" stroke-width="0.35" opacity="0.5"/>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#301010">
+<tspan x="35" y="338.5">« Chaque Juif est un diamant, même s&apos;il est recouvert de boue. »</tspan>
+<tspan x="35" dy="14">« Une mitsva de plus peut faire basculer le monde vers le bien. »</tspan>
+<tspan x="35" dy="14">« On n&apos;allume pas une bougie pour soi, mais pour éclairer les autres. »</tspan>
+<tspan x="35" dy="14">« Le Messie attend que nous accomplissions une seule mitsva de plus. »</tspan>
+</text>
+  <line x1="60" y1="396.5" x2="365" y2="396.5" stroke="#D45040" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="401.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="405.5" width="182" height="48" rx="3" fill="none" stroke="#D45040" stroke-width="0.35"/>
+  <text x="116" y="420.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Les Chlou&apos;him</text>
+  <text x="116" y="434.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Des émissaires dans plus de cent pays.</text>
+  <rect x="218" y="405.5" width="182" height="48" rx="3" fill="none" stroke="#D45040" stroke-width="0.35"/>
+  <text x="309" y="420.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">L&apos;Amour</text>
+  <text x="309" y="434.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Chaque Juif est un diamant.</text>
+  <line x1="60" y1="458.5" x2="365" y2="458.5" stroke="#D45040" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="469.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="482.5">Maître : Le Rabbi précédent (beau-père)</tspan>
+<tspan x="25" dy="13">Disciples : Les Chlou&apos;him du monde entier</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#C0392B" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F4D3CF" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">229</text>
+</svg>

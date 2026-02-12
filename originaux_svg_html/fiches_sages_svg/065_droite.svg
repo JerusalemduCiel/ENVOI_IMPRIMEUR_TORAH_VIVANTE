@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E5EBF1"/><stop offset="100%" stop-color="#D8E2EB"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#286090" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#286090" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#286090" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#154360" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#C9D7E3" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rav Sherira Gaon  —  רַב שְׁרִירָא גָּאוֹן</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">L&apos;Iguéret de Rav Sherira Gaon existe en deux versions, l&apos;une française et l&apos;autre</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">espagnole, qui diffèrent sur certains points de détail mais s&apos;accordent sur l&apos;essentiel</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">de la chronologie rabbinique. L&apos;une des contributions majeures de Rav Sherira est</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">d&apos;avoir établi que la Mishna ne fut pas écrite d&apos;un seul jet par Rabbi Yehouda HaNassi</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">mais qu&apos;elle s&apos;appuie sur des collections antérieures, notamment celles de Rabbi Akiva</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">et de Rabbi Meïr. Cette vision historique nuancée permit aux générations suivantes de</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">comprendre que la Torah orale est un processus vivant et non un texte figé. Rav Sherira</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">mourut à un âge très avancé, après avoir transmis la direction de l&apos;académie à son fils</tspan>
+<tspan x="25" dy="13.5">Rav Haï, assurant une continuité remarquable dans une époque de déclin.</tspan>
+</text>
+  <line x1="60" y1="204.5" x2="365" y2="204.5" stroke="#286090" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="208.5" font-family="Georgia,serif" font-size="7" fill="#286090" text-anchor="middle">✦</text>
+  <rect x="25" y="219.5" width="375" height="82" rx="4" fill="#DAE3EC" stroke="#286090" stroke-width="0.4"/>
+  <text x="212" y="233.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0A1830" font-style="italic">
+<tspan x="35" y="247.5" textLength="340" lengthAdjust="spacing">La communauté de Kairouan envoya sa question à Rav Sherira en accompagnant sa</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">lettre d&apos;un don financier pour l&apos;académie, comme c&apos;était la coutume. Rav Sherira</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">répondit par un document si complet et si précis qu&apos;il devint un ouvrage de</tspan>
+<tspan x="35" dy="13">référence pour toutes les générations suivantes.</tspan>
+</text>
+  <text x="390" y="297.5" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Iguéret Rav Sherira Gaon</text>
+  <line x1="60" y1="311.5" x2="365" y2="311.5" stroke="#286090" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="323.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="330.5" width="182" height="48" rx="3" fill="none" stroke="#286090" stroke-width="0.35"/>
+  <text x="116" y="345.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" text-anchor="middle" font-weight="bold">L&apos;Iguéret</text>
+  <text x="116" y="359.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Source historique inégalée de la tradition.</text>
+  <rect x="218" y="330.5" width="182" height="48" rx="3" fill="none" stroke="#286090" stroke-width="0.35"/>
+  <text x="309" y="345.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" text-anchor="middle" font-weight="bold">La Chaîne</text>
+  <text x="309" y="359.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Documenter la transmission garantit sa pérennité.</text>
+  <line x1="60" y1="386.5" x2="365" y2="386.5" stroke="#286090" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="399.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" text-anchor="middle" font-style="italic">« Une question sincère mérite une réponse immense. »</text>
+  <text x="212" y="412.5" font-family="Georgia,serif" font-size="7.8" fill="#0A1830" text-anchor="middle" font-style="italic">« L&apos;histoire de la Torah est elle-même Torah. »</text>
+  <line x1="60" y1="413.5" x2="365" y2="413.5" stroke="#286090" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="424.5" font-family="Georgia,serif" font-size="7.5" fill="#0A1830" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="437.5">maitre: Les Guéonim précédents</tspan>
+<tspan x="25" dy="13">disciples: Rav Haï Gaon (son fils)</tspan>
+<tspan x="25" dy="13">contemporain: Les communautés d&apos;Afrique du Nord</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#154360" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#C9D7E3" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">131</text>
+</svg>

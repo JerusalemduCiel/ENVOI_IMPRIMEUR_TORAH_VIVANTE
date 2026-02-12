@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E9ECEE"/><stop offset="100%" stop-color="#DEE2E6"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#4A6278" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#4A6278" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#4A6278" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2C3E50" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#D1D7DD" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Le Gaon de Vilna (HaGra)  —  הַגָּאוֹן מִוִּילְנָא</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Gaon de Vilna mourut à Vilna en 1797 pendant la fête de Souccot. Son disciple</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">principal, Rabbi &apos;Haïm de Volozhin, fonda la yeshiva de Volozhin en 1803, la mère de</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">toutes les grandes yeshivot lituaniennes modernes. Le modèle d&apos;étude du Gaon, fondé sur</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">la rigueur textuelle et l&apos;analyse indépendante, devint la méthode de toutes les</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">yeshivot du monde lituanien. Il envoya aussi des disciples en Terre d&apos;Israël pour y</tspan>
+<tspan x="25" dy="13.5">fonder une communauté, initiant l&apos;aliya des Perouchim.</tspan>
+</text>
+  <line x1="60" y1="164.0" x2="365" y2="164.0" stroke="#4A6278" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="168.0" font-family="Georgia,serif" font-size="7" fill="#4A6278" text-anchor="middle">✦</text>
+  <rect x="25" y="176.0" width="375" height="28" rx="4" fill="#E0E4E8" stroke="#4A6278" stroke-width="0.4"/>
+  <text x="212" y="190.0" font-family="Georgia,serif" font-size="7.5" fill="#141E28" text-anchor="middle" font-weight="bold" letter-spacing="1">HISTOIRE HASSIDIQUE</text>
+  
+  <text x="390" y="200.0" font-family="Georgia,serif" font-size="6" fill="#AA8877" text-anchor="end">— </text>
+  <line x1="60" y1="214.0" x2="365" y2="214.0" stroke="#4A6278" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="229.0" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+  <rect x="25" y="233.0" width="375" height="10" rx="4" fill="none" stroke="#4A6278" stroke-width="0.35" opacity="0.5"/>
+  
+  <line x1="60" y1="249.0" x2="365" y2="249.0" stroke="#4A6278" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="254.0" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="258.0" width="182" height="48" rx="3" fill="none" stroke="#4A6278" stroke-width="0.35"/>
+  <text x="116" y="273.0" font-family="Georgia,serif" font-size="7.5" fill="#141E28" text-anchor="middle" font-weight="bold">L&apos;Érudition</text>
+  <text x="116" y="287.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Maîtrise totale de toute la Torah.</text>
+  <rect x="218" y="258.0" width="182" height="48" rx="3" fill="none" stroke="#4A6278" stroke-width="0.35"/>
+  <text x="309" y="273.0" font-family="Georgia,serif" font-size="7.5" fill="#141E28" text-anchor="middle" font-weight="bold">La Méthode</text>
+  <text x="309" y="287.0" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Rigueur textuelle et rejet des gloses.</text>
+  <line x1="60" y1="311.0" x2="365" y2="311.0" stroke="#4A6278" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="322.0" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="335.0">Maître : Autodidacte dès l&apos;enfance</tspan>
+<tspan x="25" dy="13">Disciples : Rabbi &apos;Haïm de Volozhin et les yeshivot lituaniennes</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2C3E50" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D1D7DD" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">205</text>
+</svg>

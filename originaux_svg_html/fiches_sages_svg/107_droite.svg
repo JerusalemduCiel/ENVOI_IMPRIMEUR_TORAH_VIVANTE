@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#E9ECEE"/><stop offset="100%" stop-color="#DEE2E6"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#4A6278" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#4A6278" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#4A6278" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2C3E50" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#D1D7DD" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Hatam Sofer  —  חֲתַם סוֹפֵר</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">Le Hatam Sofer mourut à Presbourg en 1839, laissant derrière lui une dynastie de</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">rabbins qui continuèrent son œuvre de défense de la tradition. Ses fils et petits-fils</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">dirigèrent des communautés importantes en Hongrie et en Europe centrale. Son influence</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">sur l&apos;orthodoxie hongroise fut si profonde qu&apos;elle créa un modèle distinct de judaïsme</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">traditionnel, plus militant et plus organisé que le monde lituanien, qui inspira</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">directement la création du mouvement orthodoxe moderne. Sa yeshiva de Presbourg forma</tspan>
+<tspan x="25" dy="13.5">des centaines de rabbins qui essaimèrent dans tout l&apos;Empire austro-hongrois.</tspan>
+</text>
+  <line x1="60" y1="177.5" x2="365" y2="177.5" stroke="#4A6278" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="181.5" font-family="Georgia,serif" font-size="7" fill="#4A6278" text-anchor="middle">✦</text>
+  <rect x="25" y="189.5" width="375" height="106" rx="4" fill="#E0E4E8" stroke="#4A6278" stroke-width="0.4"/>
+  <text x="212" y="203.5" font-family="Georgia,serif" font-size="7.5" fill="#141E28" text-anchor="middle" font-weight="bold" letter-spacing="1">HISTOIRE HASSIDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#141E28" font-style="italic">
+<tspan x="35" y="217.5" textLength="340" lengthAdjust="spacing">Le Hatam Sofer disait à ses élèves : on me demande pourquoi je m&apos;oppose si</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">fermement aux innovations. Je vais vous dire pourquoi. Quand on perce un petit trou</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">dans un barrage, l&apos;eau commence par couler doucement. Mais bientôt le trou</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">s&apos;élargit et le barrage s&apos;effondre. Chaque concession à la Réforme est un trou dans</tspan>
+<tspan x="35" dy="13" textLength="340" lengthAdjust="spacing">le barrage de la tradition. Notre devoir est de maintenir le barrage intact pour</tspan>
+<tspan x="35" dy="13">les générations futures, car nos enfants hériteront de ce que nous leur laisserons.</tspan>
+</text>
+  <text x="390" y="291.5" font-family="Georgia,serif" font-size="6" fill="#AA8877" text-anchor="end">— Tradition</text>
+  <line x1="60" y1="305.5" x2="365" y2="305.5" stroke="#4A6278" stroke-width="0.4" opacity="0.3"/>
+  <text x="25" y="320.5" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+  <rect x="25" y="324.5" width="375" height="66" rx="4" fill="none" stroke="#4A6278" stroke-width="0.35" opacity="0.5"/>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#141E28">
+<tspan x="35" y="338.5">« La nouveauté est interdite par la Torah. »</tspan>
+<tspan x="35" dy="14">« Chaque concession à la Réforme est un trou dans le barrage. »</tspan>
+<tspan x="35" dy="14">« La tradition est le mur qui protège Israël. »</tspan>
+<tspan x="35" dy="14">« Ne change pas une pierre de l&apos;édifice de tes pères. »</tspan>
+</text>
+  <line x1="60" y1="396.5" x2="365" y2="396.5" stroke="#4A6278" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="401.5" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="405.5" width="182" height="48" rx="3" fill="none" stroke="#4A6278" stroke-width="0.35"/>
+  <text x="116" y="420.5" font-family="Georgia,serif" font-size="7.5" fill="#141E28" text-anchor="middle" font-weight="bold">L&apos;Orthodoxie</text>
+  <text x="116" y="434.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">La résistance organisée face à la Réforme.</text>
+  <rect x="218" y="405.5" width="182" height="48" rx="3" fill="none" stroke="#4A6278" stroke-width="0.35"/>
+  <text x="309" y="420.5" font-family="Georgia,serif" font-size="7.5" fill="#141E28" text-anchor="middle" font-weight="bold">Presbourg</text>
+  <text x="309" y="434.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Une yeshiva de cinq cents étudiants.</text>
+  <line x1="60" y1="458.5" x2="365" y2="458.5" stroke="#4A6278" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="469.5" font-family="Georgia,serif" font-size="7.5" fill="#141E28" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#555555">
+<tspan x="25" y="482.5">Maître : Rabbi Nathan Adler</tspan>
+<tspan x="25" dy="13">Disciples : Ses fils et l&apos;orthodoxie hongroise</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2C3E50" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D1D7DD" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">215</text>
+</svg>

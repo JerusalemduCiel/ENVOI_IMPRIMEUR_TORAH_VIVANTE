@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#F3E6E5"/><stop offset="100%" stop-color="#EDDAD8"/>
+  </linearGradient></defs>
+  <rect width="425" height="595" fill="url(#bg2)"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#A03328" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#A03328" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#A03328" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#7B241C" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Méïri  —  מאירי</text>
+  <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#333333">
+<tspan x="25" y="73" textLength="375" lengthAdjust="spacing">La tragédie du Méïri est que son œuvre magistrale, le Beit HaBe&apos;hira, fut presque</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">entièrement perdue pendant six siècles. Les manuscrits survécurent dans quelques</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">bibliothèques italiennes et ne furent redécouverts et publiés qu&apos;à partir de 1880, puis</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">progressivement tout au long du XXe siècle. Cette redécouverte transforma l&apos;étude du</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Talmud en ajoutant une voix provençale unique qui avait manqué pendant des siècles. Le</tspan>
+<tspan x="25" dy="13.5" textLength="375" lengthAdjust="spacing">Méïri mourut à Perpignan vers 1315, peu avant l&apos;expulsion des Juifs de France en 1306,</tspan>
+<tspan x="25" dy="13.5">qui mit fin à la grande tradition talmudique provençale.</tspan>
+</text>
+  <line x1="60" y1="177.5" x2="365" y2="177.5" stroke="#A03328" stroke-width="0.5" opacity="0.35"/>
+  <text x="25" y="192.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+  <rect x="25" y="195.5" width="375" height="68.0" rx="4" fill="#EEDCDA" stroke="#A03328" stroke-width="0.4"/>
+  <text x="35" y="206.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Beit HaBe&apos;hira</text>
+<text x="35" y="224.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Hibbour HaTéchouva</text>
+<text x="35" y="242.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Magen Avot</text>
+
+  <rect x="25" y="270.5" width="375" height="70.0" rx="4" fill="#FFF8E8" stroke="#C4973B" stroke-width="0.4"/>
+  <text x="212" y="282.5" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+<tspan x="35" y="294.5">Le Beit HaBe&apos;hira du Méïri fut perdu pendant six siècles et redécouvert dans des</tspan>
+<tspan x="35" dy="12.5">bibliothèques italiennes à partir de 1880. Sa position sur les relations</tspan>
+<tspan x="35" dy="12.5">interreligieuses est citée aujourd&apos;hui par les autorités halakhiques qui prônent le</tspan>
+<tspan x="35" dy="12.5">dialogue.</tspan>
+</text>
+  <line x1="60" y1="350.5" x2="365" y2="350.5" stroke="#A03328" stroke-width="0.4" opacity="0.25"/>
+  <text x="25" y="355.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="25" y="359.5" width="182" height="42" rx="3" fill="none" stroke="#A03328" stroke-width="0.35"/>
+  <text x="116" y="374.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Beit HaBe&apos;hira</text>
+  <text x="116" y="388.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Commentaire monumental redécouvert après 600 ans.</text>
+  <rect x="218" y="359.5" width="182" height="42" rx="3" fill="none" stroke="#A03328" stroke-width="0.35"/>
+  <text x="309" y="374.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Dialogue</text>
+  <text x="309" y="388.5" font-family="Georgia,serif" font-size="7" fill="#555555" text-anchor="middle">Normaliser les relations interreligieuses.</text>
+  <line x1="60" y1="410.5" x2="365" y2="410.5" stroke="#A03328" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="423.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Une œuvre perdue six siècles puis retrouvée. »</text>
+  <text x="212" y="436.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Les monothéistes sont des nations de religion. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#7B241C" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">163</text>
+</svg>
