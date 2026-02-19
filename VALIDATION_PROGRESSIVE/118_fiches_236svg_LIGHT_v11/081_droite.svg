@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
   <rect width="425" height="595" fill="#F5EEE1"/>
-  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
-  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
-  <g opacity="0.3" fill="none" stroke="#D4A94A" stroke-width="0.6">
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#C49A4A" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#C49A4A" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#C49A4A" stroke-width="0.6">
     <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
     <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
     <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
     <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
   </g>
-  <rect x="13" y="13" width="399" height="26" fill="#8B6914" opacity="0.92" rx="1"/>
-  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#FBF7F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ralbag (Gersonide)  —  רלב״ג</text>
+  <rect x="13" y="13" width="399" height="26" fill="#A0722B" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#F5E8D0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ralbag (Gersonide)  —  רלב״ג</text>
   <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
   <text font-family="Georgia,serif" font-size="8" fill="#55504A">
 <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">En philosophie, le Ralbag défendit des positions audacieuses sur la connaissance</tspan>
@@ -23,10 +23,10 @@
 <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">moderne. Le Ralbag mourut à Perpignan en 1344. Son héritage intellectuel transcende</tspan>
 <tspan x="28" dy="13.5" letter-spacing="0.4">les frontières disciplinaires et fait de lui le plus grand savant juif médiéval.</tspan>
 </text>
-  <line x1="60" y1="210" x2="365" y2="210" stroke="#D4A94A" stroke-width="0.5" opacity="0.35"/>
-  <text x="212" y="214" font-family="Georgia,serif" font-size="7" fill="#D4A94A" text-anchor="middle">✦</text>
-  <rect x="28" y="225" width="369" height="82" rx="4" fill="#EFE6D8" stroke="#D4A94A" stroke-width="0.4"/>
-  <text x="212" y="239" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <line x1="60" y1="210" x2="365" y2="210" stroke="#C49A4A" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="214" font-family="Georgia,serif" font-size="7" fill="#C49A4A" text-anchor="middle">✦</text>
+  <rect x="28" y="225" width="369" height="82" rx="4" fill="#EFE6D8" stroke="#C49A4A" stroke-width="0.4"/>
+  <text x="212" y="239" font-family="Georgia,serif" font-size="7.5" fill="#A0722B" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
   <text font-family="Georgia,serif" font-size="7.8" fill="#4A4540" font-style="italic">
 <tspan x="38" y="253">Le pape Clément VI consulta le Ralbag sur des questions astronomiques</tspan>
 <tspan x="38" dy="13">relatives au calendrier. Un cardinal lui demanda comment un juif pouvait</tspan>
@@ -34,18 +34,18 @@
 <tspan x="38" dy="13" letter-spacing="0.4">distinguent pas entre les religions des hommes.</tspan>
 </text>
   <text x="390" y="303" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Tradition des historiens de la science médiévale</text>
-  <line x1="60" y1="318" x2="365" y2="318" stroke="#D4A94A" stroke-width="0.4" opacity="0.3"/>
+  <line x1="60" y1="318" x2="365" y2="318" stroke="#C49A4A" stroke-width="0.4" opacity="0.3"/>
   <text x="28" y="332" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
-  <rect x="28" y="339" width="179" height="48" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <rect x="28" y="339" width="179" height="48" rx="3" fill="none" stroke="#C49A4A" stroke-width="0.35"/>
   <text x="116" y="356" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold">L&apos;Universalité</text>
   <text x="116" y="370" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Torah et science s&apos;éclairent mutuellement.</text>
-  <rect x="218" y="339" width="179" height="48" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <rect x="218" y="339" width="179" height="48" rx="3" fill="none" stroke="#C49A4A" stroke-width="0.35"/>
   <text x="309" y="356" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold">L&apos;Astronomie</text>
   <text x="309" y="370" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Un Sage juif sur la carte lunaire.</text>
-  <line x1="60" y1="395" x2="365" y2="395" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <line x1="60" y1="395" x2="365" y2="395" stroke="#C49A4A" stroke-width="0.4" opacity="0.25"/>
   <text x="212" y="410" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" text-anchor="middle" font-style="italic">« La raison est un don de D.ieu. »</text>
   <text x="212" y="423" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" text-anchor="middle" font-style="italic">« Un cratère lunaire porte le nom d&apos;un Sage. »</text>
-  <line x1="60" y1="432" x2="365" y2="432" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <line x1="60" y1="432" x2="365" y2="432" stroke="#C49A4A" stroke-width="0.4" opacity="0.25"/>
   <text x="28" y="448" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
   <text font-family="Georgia,serif" font-size="7.5" fill="#65605A">
 <tspan x="28" y="463">maîtres : La tradition philosophique et scientifique juive de Provence</tspan>
@@ -53,7 +53,7 @@
 <tspan x="28" dy="13">contemporains : Les polémistes anti-maïmonidiens, la cour papale d&apos;Avignon</tspan>
 <tspan x="28" dy="13">héritage : Les Milhamot HaShem, le bâton de Jacob, les Toaliyot</tspan>
 </text>
-  <rect x="13" y="557" width="399" height="25" fill="#8B6914" opacity="0.85" rx="1"/>
-  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FBF7F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <rect x="13" y="557" width="399" height="25" fill="#A0722B" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F5E8D0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
   <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">189</text>
 </svg>

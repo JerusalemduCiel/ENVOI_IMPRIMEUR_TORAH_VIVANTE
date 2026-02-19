@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#8A3A30" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#8A3A30" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#8A3A30" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#5A1A1A" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Ovadia Sforno  —  ספורנו</text>
+
+    <!-- BIOGRAPHIE (suite) — 6 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Sforno mourut à Bologne vers 1550. Son commentaire occupe une place unique dans la</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">tradition exégétique juive par son équilibre entre rationalisme philosophique et</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">fidélité au texte biblique. Il est particulièrement apprécié pour ses commentaires sur</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">le livre de l'Exode et le Lévitique, où il explique le sens profond du Tabernacle et</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">des sacrifices avec une finesse théologique remarquable. Le Sforno incarne la tradition</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">juive italienne à son apogée, une synthèse de Torah et de culture universelle.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="165" x2="365" y2="165" stroke="#8A3A30" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="169" font-family="Georgia,serif" font-size="7" fill="#5A1A1A" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="184" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="192" width="369" height="125" rx="4" fill="#EEDCDA" stroke="#8A3A30" stroke-width="0.4"/>
+    
+    <text x="38" y="205" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Commentaire sur la Torah (Péroush Sforno)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="218">Exégèse concise et profonde alliant rationalisme et fidélité au pshat. Imprimé</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">dans les éditions Mikraot Guedolot. Célèbre sur l'Exode et le Lévitique.</tspan>
+    </text>
+    
+    <text x="38" y="245" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Commentaire sur Pirké Avot</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="258">Lecture philosophique des maximes des Sages, explorant les fondements</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">éthiques du judaïsme avec la rigueur intellectuelle de la Renaissance.</tspan>
+    </text>
+    
+    <text x="38" y="285" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Or Ammim (Lumière des Nations)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="298">Traité philosophique rédigé en italien pour un public chrétien, exposant les</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">principes de la foi juive dans le dialogue interreligieux de l'époque.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="325" x2="365" y2="325" stroke="#8A3A30" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="332" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="343" font-family="Georgia,serif" font-size="7.5" fill="#5A1A1A" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#301010">
+      <tspan x="38" y="355">Le Sforno enseigna l'hébreu à l'humaniste Johann Reuchlin, qui devint le plus grand</tspan>
+      <tspan x="38" dy="12.5">hébraïsant d'Europe et défendit le Talmud contre ceux qui voulaient le brûler. Sans cet</tspan>
+      <tspan x="38" dy="12.5">enseignement, Reuchlin n'aurait peut-être jamais pu sauver les livres juifs en 1509.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="406" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="413" width="179" height="42" rx="3" fill="none" stroke="#8A3A30" stroke-width="0.35"/>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Clarté</text>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Commentaire d'une limpidité</text>
+    <text x="116" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">exemplaire. Pshat et philosophie.</text>
+    
+    <rect x="218" y="413" width="179" height="42" rx="3" fill="none" stroke="#8A3A30" stroke-width="0.35"/>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Dialogue</text>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Enseigner l'hébreu au monde</text>
+    <text x="309" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">chrétien. Sauver les livres juifs.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="468" x2="365" y2="468" stroke="#8A3A30" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="484" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« La Renaissance juive et chrétienne marchent ensemble. »</text>
+    <text x="212" y="499" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Chaque mot du Sforno porte un enseignement. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#5A1A1A" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">204</text>
+  </svg>

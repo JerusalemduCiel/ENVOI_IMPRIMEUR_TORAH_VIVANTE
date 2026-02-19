@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#A0523D" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#A0523D" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#A0523D" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#6E2E1E" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="8.5" fill="#F0D8C8" text-anchor="middle" letter-spacing="1.2">CHAPITRE 19 — LES MAÎTRES CONTEMPORAINS</text>
+  <text x="398" y="30" font-family="Georgia,serif" font-size="7.5" fill="#F0D8C8" text-anchor="end" opacity="0.7">112 / 118</text>
+  <image x="155" y="48" width="115" height="115" preserveAspectRatio="xMidYMid slice"
+          clip-path="inset(0 round 4px)" href="PORTRAIT_BASE64_PLACEHOLDER"/>
+  <text x="212" y="184" font-family="Arial,sans-serif" font-size="18" fill="#2A1040" text-anchor="middle" font-weight="bold">הרצי״ה קוק</text>
+  <text x="212" y="203" font-family="Georgia,serif" font-size="15" fill="#2C2C2C" text-anchor="middle" font-weight="bold">Rav Tsvi Yehouda Kook</text>
+  <text x="212" y="218" font-family="Georgia,serif" font-size="8.5" fill="#2A1040" text-anchor="middle" font-style="italic">Le Prophète de la Rédemption — De Merkaz HaRav au renouveau</text>
+  <line x1="100" y1="228" x2="325" y2="228" stroke="#A0523D" stroke-width="0.5" opacity="0.4"/>
+  <text x="212" y="244" font-family="Georgia,serif" font-size="8.2" fill="#2A1040" text-anchor="middle" font-style="italic">« La Terre d&apos;Israël est le corps de la nation. »</text>
+  <text x="212" y="256" font-family="Georgia,serif" font-size="6.5" fill="#AAAAAA" text-anchor="middle">— Li-Netivot Yisrael</text>
+  <line x1="130" y1="264" x2="295" y2="264" stroke="#A0523D" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="282" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="298" textLength="370" lengthAdjust="spacing">Rav Tsvi Yehouda ben Avraham Yits&apos;hak Kook naquit en 1891 en Lituanie et fut élevé dans</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">l&apos;ombre lumineuse de son père, le Rav Kook, premier grand rabbin ashkénaze de la Terre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">d&apos;Israël sous le Mandat britannique. Alors que le père avait posé les fondements</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">théologiques du sionisme religieux, le fils consacra sa vie entière à transformer cette</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">vision en un mouvement concret qui allait marquer profondément l&apos;histoire de l&apos;État</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">d&apos;Israël. Après le décès de son père en 1935, il prit la direction de la Yéshivat</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Merkaz HaRav à Jérusalem et en fit le centre intellectuel du sionisme religieux.</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Pendant la guerre d&apos;Indépendance de 1948, il insuffla à ses élèves la conviction que la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">création de l&apos;État d&apos;Israël constituait le début de la rédemption messianique. La guerre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">des Six Jours de 1967, avec la libération du Kotel et de la vieille ville de Jérusalem,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">confirma pour lui et ses disciples cette lecture providentielle de l&apos;histoire. Il forma</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">une génération entière de rabbins, éducateurs et dirigeants communautaires qui fondèrent</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">le mouvement Goush Emounim et les implantations en Judée-Samarie. Son enseignement,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">transmis oralement à travers des cours sur les écrits de son père, insiste sur la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sainteté intrinsèque de la terre d&apos;Israël et du peuple juif. Il mourut en 1982,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">laissant un héritage intellectuel et spirituel qui continue de façonner une partie</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">significative de la société israélienne.</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#6E2E1E" opacity="0.85" rx="1"/>
+  <text x="28" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F0D8C8">1891 – 1982</text>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7" fill="#F0D8C8" text-anchor="middle" opacity="0.6">✦</text>
+  <text x="400" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F0D8C8" text-anchor="end">Lituanie — Jérusalem</text>
+  <text x="28" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA">264</text>
+</svg>

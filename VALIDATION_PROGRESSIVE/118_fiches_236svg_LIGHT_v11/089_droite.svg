@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#8A3A30" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#8A3A30" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#8A3A30" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#5A1A1A" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Maharal de Prague  —  מהר״ל</text>
+
+    <!-- BIOGRAPHIE (suite) — 5 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Maharal mourut à Prague en 1609. Son influence sur la pensée juive est immense mais</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">souvent souterraine : le Baal Shem Tov et le hassidisme puisèrent dans ses écrits, le Rav</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Kook le considérait comme l'un de ses maîtres, et les penseurs juifs modernes redécouvrent</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sans cesse la profondeur de sa philosophie. Sa tombe dans le vieux cimetière juif de Prague</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">est l'un des lieux de pèlerinage les plus visités au monde.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="152" x2="365" y2="152" stroke="#8A3A30" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="156" font-family="Georgia,serif" font-size="7" fill="#5A1A1A" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="171" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="179" width="369" height="125" rx="4" fill="#EEDCDA" stroke="#8A3A30" stroke-width="0.4"/>
+    
+    <text x="38" y="192" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Gour Aryé (Super-commentaire sur Rachi)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="205">Commentaire monumental sur Rachi révélant les structures profondes de la pensée</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">de Rachi et de l'Aggada talmudique.</tspan>
+    </text>
+    
+    <text x="38" y="232" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Netsah Israël (L'Éternité d'Israël)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="245">Traité philosophique sur l'exil et la rédemption, vision métaphysique du destin</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">d'Israël parmi les nations. Considéré comme précurseur du sionisme spirituel.</tspan>
+    </text>
+    
+    <text x="38" y="272" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Tiferet Israël (La Splendeur d'Israël)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="285">Philosophie de la Torah révélée, explorant la signification profonde du don de</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">la Torah au Sinaï et la relation unique entre D.ieu, Israël et la Torah.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="312" x2="365" y2="312" stroke="#8A3A30" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="319" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="330" font-family="Georgia,serif" font-size="7.5" fill="#5A1A1A" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#301010">
+      <tspan x="38" y="342">La légende raconte que le Maharal créa un Golem d'argile animé par le Nom divin pour</tspan>
+      <tspan x="38" dy="12.5">protéger les Juifs des accusations de crime rituel. La créature aurait été désactivée et</tspan>
+      <tspan x="38" dy="12.5">cachée dans le grenier de la synagogue Vieille-Nouvelle, où nul n'a le droit de monter.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="393" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="400" width="179" height="42" rx="3" fill="none" stroke="#8A3A30" stroke-width="0.35"/>
+    <text x="116" y="413" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Philosophie</text>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Pensée originale sur l'Aggada.</text>
+    <text x="116" y="436" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Source du hassidisme.</text>
+    
+    <rect x="218" y="400" width="179" height="42" rx="3" fill="none" stroke="#8A3A30" stroke-width="0.35"/>
+    <text x="309" y="413" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Golem</text>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Légende devenue mythe universel.</text>
+    <text x="309" y="436" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Inspiration de l'IA moderne.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="455" x2="365" y2="455" stroke="#8A3A30" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="471" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Le Golem protège quand les hommes ne le font pas. »</text>
+    <text x="212" y="486" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« L'Aggada recèle les vérités les plus profondes. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#5A1A1A" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">210</text>
+  </svg>
