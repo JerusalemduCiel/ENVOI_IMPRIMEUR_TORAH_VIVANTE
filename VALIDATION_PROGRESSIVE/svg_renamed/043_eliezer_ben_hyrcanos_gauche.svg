@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#5B7BA3" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#5B7BA3" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#5B7BA3" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2D4A6E" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="8.5" fill="#E0EBF5" text-anchor="middle" letter-spacing="1.2">CHAPITRE 8 — LES TANNAÏM</text>
+  <text x="398" y="30" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="end" opacity="0.7">43 / 118</text>
+  <image x="155" y="48" width="115" height="115" preserveAspectRatio="xMidYMid slice"
+          clip-path="inset(0 round 4px)" href="PORTRAIT_BASE64_PLACEHOLDER"/>
+  <text x="212" y="184" font-family="Arial,sans-serif" font-size="18" fill="#0C2840" text-anchor="middle" font-weight="bold">רַבִּי אֱלִיעֶזֶר בֶּן הוּרְקְנוֹס</text>
+  <text x="212" y="203" font-family="Georgia,serif" font-size="15" fill="#2C2C2C" text-anchor="middle" font-weight="bold">Rabbi Éliézer ben Hyrcanos</text>
+  <text x="212" y="218" font-family="Georgia,serif" font-size="8.5" fill="#0C2840" text-anchor="middle" font-style="italic">La Citerne qui ne Perd pas une Goutte — Gardien inflexible de la tradition du Sinaï</text>
+  <line x1="100" y1="228" x2="325" y2="228" stroke="#5B7BA3" stroke-width="0.5" opacity="0.4"/>
+  <text x="212" y="244" font-family="Georgia,serif" font-size="8.2" fill="#0C2840" text-anchor="middle" font-style="italic">« Que l&apos;honneur de ton prochain te soit cher comme le tien. »</text>
+  <text x="212" y="256" font-family="Georgia,serif" font-size="6.5" fill="#AAAAAA" text-anchor="middle">— Pirké Avot 2:10</text>
+  <line x1="130" y1="264" x2="295" y2="264" stroke="#5B7BA3" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="282" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="298" textLength="370" lengthAdjust="spacing">Rabbi Éliézer ben Hyrcanos est l&apos;un des plus grands Tannaïm et le disciple le plus</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">éminent de Rabbi Yo&apos;hanan ben Zakkaï, celui que son maître appelait une citerne enduite</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de chaux qui ne perd pas une goutte, car sa mémoire était si prodigieuse qu&apos;il</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">n&apos;oubliait jamais rien de ce qu&apos;il avait appris. Fils d&apos;un riche propriétaire terrien,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">il quitta la maison familiale à l&apos;âge de vingt-deux ans pour étudier la Torah, contre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">la volonté de son père Hyrcanos qui le déshérita. Le Talmud raconte qu&apos;il étudiait dans</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">un tel dénuement qu&apos;il mâchait de la terre pour tromper sa faim, et que l&apos;odeur de sa</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">bouche était si mauvaise que Rabbi Yo&apos;hanan ben Zakkaï le fit asseoir à l&apos;écart. Quand</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">son père vint à Jérusalem pour le déshériter publiquement, il trouva son fils</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">enseignant devant les plus grands Sages d&apos;Israël, avec Rabbi Yo&apos;hanan qui le présentait</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">comme le plus grand de ses disciples. Hyrcanos, saisi d&apos;émotion, voulut alors léguer</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">tous ses biens à Éliézer, mais celui-ci refusa en disant : je ne vaux pas plus que mes</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">frères, donnez-moi seulement ma part égale. Rabbi Éliézer devint le pilier de la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">tradition conservatrice, celui qui ne transmettait jamais une halakha qu&apos;il n&apos;avait pas</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">reçue de son maître, au point que les Sages disaient de lui qu&apos;il était fidèle comme un</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">mur qui ne laisse pas passer une goutte de pluie, gardien inflexible de la chaîne de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">transmission depuis le Sinaï. Les Sages disaient de lui que son enseignement était</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">aussi fiable que la parole de Moché transmise au peuple au pied de la montagne.</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2D4A6E" opacity="0.85" rx="1"/>
+  <text x="28" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5">Ier–IIe siècle è.c.</text>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7" fill="#E0EBF5" text-anchor="middle" opacity="0.6">✦</text>
+  <text x="400" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="end">Lod — Judée</text>
+  <text x="28" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA">86</text>
+</svg>

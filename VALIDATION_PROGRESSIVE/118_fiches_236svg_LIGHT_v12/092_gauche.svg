@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#4A8A55" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#4A8A55" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#4A8A55" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2C6B40" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="8.5" fill="#D8F0D8" text-anchor="middle" letter-spacing="1.2">CHAPITRE 15 — LA KABBALE DE SAFED</text>
+  <text x="398" y="30" font-family="Georgia,serif" font-size="7.5" fill="#D8F0D8" text-anchor="end" opacity="0.7">93 / 118</text>
+  <image x="155" y="48" width="115" height="115" preserveAspectRatio="xMidYMid slice"
+          clip-path="inset(0 round 4px)" href="PORTRAIT_BASE64_PLACEHOLDER"/>
+  <text x="212" y="184" font-family="Arial,sans-serif" font-size="18" fill="#0C2818" text-anchor="middle" font-weight="bold">אֲרִי זַ״ל</text>
+  <text x="212" y="203" font-family="Georgia,serif" font-size="15" fill="#2C2C2C" text-anchor="middle" font-weight="bold">Ari Zal (Rabbi Its&apos;hak Louria)</text>
+  <text x="212" y="218" font-family="Georgia,serif" font-size="8.5" fill="#0C2818" text-anchor="middle" font-style="italic">Le Lion Sacré — Tsimtsoum, Shevirat HaKélim, Tikoun</text>
+  <line x1="100" y1="228" x2="325" y2="228" stroke="#4A8A55" stroke-width="0.5" opacity="0.4"/>
+  <text x="212" y="244" font-family="Georgia,serif" font-size="8.2" fill="#0C2818" text-anchor="middle" font-style="italic">« La mission de l&apos;homme est de rassembler les étincelles. »</text>
+  <text x="212" y="256" font-family="Georgia,serif" font-size="6.5" fill="#AAAAAA" text-anchor="middle">— Ets &apos;Haïm (par Rabbi &apos;Haïm Vital)</text>
+  <line x1="130" y1="264" x2="295" y2="264" stroke="#4A8A55" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="282" font-family="Georgia,serif" font-size="7.5" fill="#0C2818" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="298" textLength="370" lengthAdjust="spacing">Rabbi Its&apos;hak Louria, universellement connu sous le nom de Ari Zal, le Lion Béni de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">mémoire, est le plus grand kabbaliste de tous les temps et le maître dont les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">enseignements révolutionnèrent l&apos;ensemble de la pensée mystique juive. Né à Jérusalem</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">en 1534, il grandit en Égypte auprès de son oncle après la mort précoce de son père et</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">s&apos;initia à la Kabbale en étudiant le Zohar dans la solitude pendant sept ans sur une</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">île du Nil, ne revenant chez lui que pour le Shabbat. En 1570, il monta à Safed en</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Terre d&apos;Israël et s&apos;imposa en quelques mois comme le maître incontesté de la Kabbale,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">éclipsant tous les autres kabbalistes de la ville. Son système, connu sous le nom de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Kabbale lourianique, introduisit trois concepts révolutionnaires qui transformèrent la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">compréhension de la relation entre D.ieu et le monde. Le premier est le Tsimtsoum, la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">contraction : D.ieu Se retira en Lui-même pour laisser un espace vide dans lequel le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">monde put être créé. Le deuxième est la Shevirat HaKélim, la brisure des vases : la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">lumière divine fut trop intense pour les récipients qui devaient la contenir et ils se</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">brisèrent, dispersant des étincelles de sainteté dans toute la création. Le troisième</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">est le Tikoun, la réparation : la mission de l&apos;homme est de rassembler ces étincelles</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dispersées par l&apos;accomplissement des mitsvot, élevant ainsi le monde matériel vers sa</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">source divine et réparant la brisure originelle.</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2C6B40" opacity="0.85" rx="1"/>
+  <text x="28" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D8F0D8">1534 – 1572</text>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7" fill="#D8F0D8" text-anchor="middle" opacity="0.6">✦</text>
+  <text x="400" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D8F0D8" text-anchor="end">Jérusalem — Égypte — Safed</text>
+  <text x="28" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA">186</text>
+</svg>

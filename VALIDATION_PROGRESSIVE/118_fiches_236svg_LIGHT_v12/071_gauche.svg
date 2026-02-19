@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#7B5BA0" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#7B5BA0" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#7B5BA0" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#5C3D7A" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="8.5" fill="#E8DAF0" text-anchor="middle" letter-spacing="1.2">CHAPITRE 11 — L&apos;ÂGE D&apos;OR ET LES FONDATEURS</text>
+  <text x="398" y="30" font-family="Georgia,serif" font-size="7.5" fill="#E8DAF0" text-anchor="end" opacity="0.7">71 / 118</text>
+  <image x="155" y="48" width="115" height="115" preserveAspectRatio="xMidYMid slice"
+          clip-path="inset(0 round 4px)" href="PORTRAIT_BASE64_PLACEHOLDER"/>
+  <text x="212" y="184" font-family="Arial,sans-serif" font-size="18" fill="#2A1040" text-anchor="middle" font-weight="bold">רַבֵּנוּ גֵּרְשׁוֹם</text>
+  <text x="212" y="203" font-family="Georgia,serif" font-size="15" fill="#2C2C2C" text-anchor="middle" font-weight="bold">Rabbénou Guershom</text>
+  <text x="212" y="218" font-family="Georgia,serif" font-size="8.5" fill="#2A1040" text-anchor="middle" font-style="italic">Méor HaGola — La Lumière de l&apos;Exil — Père fondateur du judaïsme ashkénaze</text>
+  <line x1="100" y1="228" x2="325" y2="228" stroke="#7B5BA0" stroke-width="0.5" opacity="0.4"/>
+  <text x="212" y="244" font-family="Georgia,serif" font-size="8.2" fill="#2A1040" text-anchor="middle" font-style="italic">« L&apos;homme ne divorcera pas de sa femme sans son consentement. »</text>
+  <text x="212" y="256" font-family="Georgia,serif" font-size="6.5" fill="#AAAAAA" text-anchor="middle">— Takanot Rabbénou Guershom</text>
+  <line x1="130" y1="264" x2="295" y2="264" stroke="#7B5BA0" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="282" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="298" textLength="370" lengthAdjust="spacing">Rabbénou Guershom ben Yehouda, surnommé Méor HaGola, la Lumière de l&apos;Exil, est le père</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">fondateur du judaïsme ashkénaze et l&apos;autorité suprême dont les décrets façonnèrent la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">vie juive en Europe pendant un millénaire. Né à Metz vers 960 et actif à Mayence, il</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">fonda la première grande académie talmudique en terre franco-germanique et forma la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">génération de maîtres qui enseignèrent à Rachi. Ses décrets, les takanot de Rabbénou</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Guershom, sont parmi les plus célèbres de l&apos;histoire de la halakha. Le plus connu</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">interdit la polygamie pour les communautés ashkénazes, alignant la pratique sur la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sensibilité européenne tout en s&apos;appuyant sur des sources talmudiques qui favorisaient</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">déjà la monogamie. Un autre décret interdit de divorcer d&apos;une femme sans son</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">consentement, une protection révolutionnaire pour l&apos;époque qui renforça</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">considérablement le statut juridique de la femme juive. Il interdit aussi de lire le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">courrier d&apos;autrui sans permission, un décret qui témoigne de sa sensibilité pour la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dignité humaine et le respect de la vie privée. Rabbénou Guershom est aussi connu pour</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">avoir interdit de rappeler à un repenti son passé, protégeant ainsi le baal téchouva de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">toute humiliation publique. Sa compassion pour les convertis de force pendant les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">persécutions est remarquable : il décréta qu&apos;ils devaient être accueillis avec</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">bienveillance à leur retour au judaïsme, car leur conversion avait été imposée par la</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">violence et ne reflétait en rien un choix libre de leur conscience.</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#5C3D7A" opacity="0.85" rx="1"/>
+  <text x="28" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E8DAF0">960 – 1028</text>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7" fill="#E8DAF0" text-anchor="middle" opacity="0.6">✦</text>
+  <text x="400" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E8DAF0" text-anchor="end">Metz — Mayence</text>
+  <text x="28" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA">142</text>
+</svg>

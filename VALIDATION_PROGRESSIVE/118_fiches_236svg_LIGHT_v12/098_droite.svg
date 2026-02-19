@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#BE913D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#BE913D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#BE913D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#7A5C20" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9" fill="#E8D0F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Elimélekh de Lizhensk  —  רבי אלימלך מליזנסק</text>
+
+    <!-- BIOGRAPHIE (suite) — 6 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Rabbi Elimélekh mourut à Lizhensk en 1787 et sa tombe devint l'un des lieux de</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">pèlerinage les plus importants du monde hassidique. Chaque année, le 21 Adar, des</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dizaines de milliers de pèlerins convergent vers Lizhensk en Pologne pour prier sur sa</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">tombe. La prière composée par Rabbi Elimélekh avant l'étude de la Torah est récitée</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">quotidiennement dans de nombreuses communautés. Son frère Rabbi Zousha est célèbre</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">pour avoir dit : « On ne me demandera pas pourquoi je n'ai pas été Moché, mais Zousha. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="165" x2="365" y2="165" stroke="#BE913D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="169" font-family="Georgia,serif" font-size="7" fill="#7A5C20" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="184" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="192" width="369" height="125" rx="4" fill="#EFE6D8" stroke="#BE913D" stroke-width="0.4"/>
+    
+    <text x="38" y="205" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" font-weight="bold">Noam Elimélekh (Les Délices d'Elimélekh)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="218">Commentaire sur la Torah développant la doctrine du Tsadik comme canal de la</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">bénédiction divine. Livre si saint que des Hassidim le placent sous l'oreiller des malades.</tspan>
+    </text>
+    
+    <text x="38" y="245" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" font-weight="bold">Likkoutéi Shoshana (Les Glanures de la Rose)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="258">Recueil d'enseignements mystiques et éthiques sur le service divin, la prière et</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">l'élévation spirituelle, complétant la vision du Noam Elimélekh.</tspan>
+    </text>
+    
+    <text x="38" y="285" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" font-weight="bold">Tsétél Katan (Le Petit Billet)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="298">Guide pratique de conduite spirituelle en dix-sept points : humilité, joie,</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">attachement au Tsadik et purification de la pensée.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="325" x2="365" y2="325" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="332" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="343" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="38" y="355">Le Noam Elimélekh est considéré si saint que des Hassidim placent un exemplaire sous</tspan>
+      <tspan x="38" dy="12.5">l'oreiller des malades pour les protéger. Les disciples de Rabbi Elimélekh fondèrent les</tspan>
+      <tspan x="38" dy="12.5">plus grandes dynasties hassidiques de Pologne : le Voyant de Lublin, le Maguid de Kozhnitz.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="406" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="413" width="179" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" text-anchor="middle" font-weight="bold">Le Tsadik</text>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Le juste comme intermédiaire</text>
+    <text x="116" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">entre D.ieu et le peuple.</text>
+    
+    <rect x="218" y="413" width="179" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" text-anchor="middle" font-weight="bold">Le Noam Elimélekh</text>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Commentaire fondateur du</text>
+    <text x="309" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">hassidisme polonais.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="468" x2="365" y2="468" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="484" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" text-anchor="middle" font-style="italic">« Servir D.ieu dans la joie, même dans les ténèbres. »</text>
+    <text x="212" y="499" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" text-anchor="middle" font-style="italic">« Chaque âme a sa porte d'entrée vers le Ciel. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#7A5C20" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E8D0F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">228</text>
+  </svg>

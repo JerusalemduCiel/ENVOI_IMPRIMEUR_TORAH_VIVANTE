@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#5B7BA3" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#5B7BA3" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#5B7BA3" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2D4A6E" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="8.5" fill="#E0EBF5" text-anchor="middle" letter-spacing="1.2">CHAPITRE 8 — LES TANNAÏM</text>
+  <text x="398" y="30" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="end" opacity="0.7">49 / 118</text>
+  <image x="155" y="48" width="115" height="115" preserveAspectRatio="xMidYMid slice"
+          clip-path="inset(0 round 4px)" href="PORTRAIT_BASE64_PLACEHOLDER"/>
+  <text x="212" y="184" font-family="Arial,sans-serif" font-size="18" fill="#0C2840" text-anchor="middle" font-weight="bold">רַבִּי מֵאִיר</text>
+  <text x="212" y="203" font-family="Georgia,serif" font-size="15" fill="#2C2C2C" text-anchor="middle" font-weight="bold">Rabbi Meïr</text>
+  <text x="212" y="218" font-family="Georgia,serif" font-size="8.5" fill="#0C2840" text-anchor="middle" font-style="italic">Celui qui Éclaire les Yeux des Sages — Il mangea le fruit et jeta l&apos;écorce</text>
+  <line x1="100" y1="228" x2="325" y2="228" stroke="#5B7BA3" stroke-width="0.5" opacity="0.4"/>
+  <text x="212" y="244" font-family="Georgia,serif" font-size="8.2" fill="#0C2840" text-anchor="middle" font-style="italic">« Toute mishna anonyme est selon Rabbi Meïr. »</text>
+  <text x="212" y="256" font-family="Georgia,serif" font-size="6.5" fill="#AAAAAA" text-anchor="middle">— Sanhédrin 86a</text>
+  <line x1="130" y1="264" x2="295" y2="264" stroke="#5B7BA3" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="282" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="298" textLength="370" lengthAdjust="spacing">Rabbi Meïr est l&apos;un des cinq derniers disciples de Rabbi Akiva qui reconstruisirent la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Torah après la catastrophe de Bar Kokhba, et le Sage dont l&apos;intelligence était si vive</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">que ses collègues ne pouvaient pas toujours suivre ses raisonnements. Le Talmud</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">rapporte que son vrai nom n&apos;était pas Meïr mais qu&apos;on l&apos;appela ainsi car il éclairait,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">méïr, les yeux des Sages par sa halakha. Il était le disciple de Rabbi Akiva mais aussi</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de Élisha ben Abouya, le Sage qui devint hérétique et que le Talmud appelle A&apos;her,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">l&apos;Autre. Malgré l&apos;apostasie de son maître, Rabbi Meïr continua d&apos;étudier avec lui,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">appliquant le principe qu&apos;il formula lui-même : il trouva une grenade, en mangea le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">fruit et jeta l&apos;écorce, c&apos;est-à-dire qu&apos;il prit la sagesse de son maître et rejeta son</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">erreur. Le Talmud rapporte que Rabbi Meïr était aussi un scribe extraordinaire et qu&apos;il</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">gagnait sa vie en copiant des rouleaux de Torah avec une précision parfaite. Il était</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">également un maître de la parabole et le Talmud enseigne qu&apos;un tiers de ses</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">enseignements étaient des halakhot, un tiers des aggadot et un tiers des paraboles. Sa</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">contribution à la Mishna est si considérable que le Talmud établit une règle : toute</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">mishna anonyme, sans attribution d&apos;auteur, reflète l&apos;opinion de Rabbi Meïr, car c&apos;est</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">lui qui organisa la majeure partie du matériau que Rabbi Yehouda HaNassi compila plus</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">tard dans la Mishna définitive que nous possédons aujourd&apos;hui.</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2D4A6E" opacity="0.85" rx="1"/>
+  <text x="28" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5">IIe siècle è.c.</text>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7" fill="#E0EBF5" text-anchor="middle" opacity="0.6">✦</text>
+  <text x="400" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="end">Tibériade — Asie Mineure</text>
+  <text x="28" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA">98</text>
+</svg>

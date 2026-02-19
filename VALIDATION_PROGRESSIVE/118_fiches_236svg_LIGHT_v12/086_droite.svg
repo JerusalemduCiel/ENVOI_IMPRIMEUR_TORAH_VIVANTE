@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#B03030" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#B03030" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#B03030" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#7B241C" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Moché Isserles (Rama)  —  הרמ״א</text>
+
+    <!-- BIOGRAPHIE (suite) — 5 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Rama mourut à Cracovie en 1572 à l'âge de cinquante-deux ans seulement, emporté</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">prématurément alors qu'il était au sommet de sa créativité. Sa synagogue à Cracovie, la</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Remuh, et sa tombe dans le vieux cimetière juif adjacent sont des lieux de pèlerinage</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">vénérés. Son influence sur la halakha est comparable à celle de Rabbi Yossef Karo. Sans</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">le Rama, le Shoul'han Aroukh serait resté un code séfarade.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="151" x2="365" y2="151" stroke="#B03030" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="155" font-family="Georgia,serif" font-size="7" fill="#7B241C" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="170" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="178" width="369" height="125" rx="4" fill="#EEDCDA" stroke="#B03030" stroke-width="0.4"/>
+    
+    <text x="38" y="191" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">HaMappa (La Nappe — Glosses sur le Shoul'han Aroukh)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="204">Annotations intégrées au Shoul'han Aroukh ajoutant les coutumes et décisions</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">ashkénazes. La Table est dressée par Karo, la Nappe la recouvre par le Rama.</tspan>
+    </text>
+    
+    <text x="38" y="231" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Darkhé Moché (Les Voies de Moché)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="244">Commentaire sur le Tour intégrant les opinions des décisionnaires ashkénazes</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">omis par le Beit Yossef. Complément indispensable à l'œuvre de Karo.</tspan>
+    </text>
+    
+    <text x="38" y="271" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Responsa du Rama (She'élot ouTeshouvot)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="284">Réponses halakhiques d'une finesse remarquable, témoignant de sa maîtrise de</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">la Kabbale et de la philosophie. Autorité suprême du judaïsme ashkénaze.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="311" x2="365" y2="311" stroke="#B03030" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="318" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="329" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="38" y="341">Le Rama mourut le jour exact de Lag BaOmer, le même jour que Rabbi Shimon bar Yo'haï</tspan>
+      <tspan x="38" dy="12.5">selon la tradition. On grava sur sa tombe : « De Moché (Maïmonide) à Moché (Isserles),</tspan>
+      <tspan x="38" dy="12.5">nul ne se leva comme Moché. » Il avait déjà transformé le judaïsme ashkénaze.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="392" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="399" width="179" height="42" rx="3" fill="none" stroke="#B03030" stroke-width="0.35"/>
+    <text x="116" y="412" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Les Glosses</text>
+    <text x="116" y="425" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Coutumes ashkénazes intégrées</text>
+    <text x="116" y="435" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">au Shoul'han Aroukh pour toujours.</text>
+    
+    <rect x="218" y="399" width="179" height="42" rx="3" fill="none" stroke="#B03030" stroke-width="0.35"/>
+    <text x="309" y="412" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">L'Unité</text>
+    <text x="309" y="425" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Séfarades et Ashkénazes réunis</text>
+    <text x="309" y="435" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">dans un même code de loi.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="454" x2="365" y2="454" stroke="#B03030" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="470" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« La Table est dressée, la Nappe la recouvre. »</text>
+    <text x="212" y="485" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Les coutumes des pères sont aussi sacrées que la loi. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#7B241C" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">208</text>
+  </svg>

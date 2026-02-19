@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#5B7BA3" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#5B7BA3" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#5B7BA3" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2D4A6E" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="8.5" fill="#E0EBF5" text-anchor="middle" letter-spacing="1.2">CHAPITRE 8 — LES TANNAÏM</text>
+  <text x="398" y="30" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="end" opacity="0.7">48 / 118</text>
+  <image x="155" y="48" width="115" height="115" preserveAspectRatio="xMidYMid slice"
+          clip-path="inset(0 round 4px)" href="PORTRAIT_BASE64_PLACEHOLDER"/>
+  <text x="212" y="184" font-family="Arial,sans-serif" font-size="18" fill="#0C2840" text-anchor="middle" font-weight="bold">שִׁמְעוֹן בַּר כּוֹכְבָא</text>
+  <text x="212" y="203" font-family="Georgia,serif" font-size="15" fill="#2C2C2C" text-anchor="middle" font-weight="bold">Shimon bar Kokhba</text>
+  <text x="212" y="218" font-family="Georgia,serif" font-size="8.5" fill="#0C2840" text-anchor="middle" font-style="italic">Le Fils de l&apos;Étoile — Pour la liberté de Jérusalem</text>
+  <line x1="100" y1="228" x2="325" y2="228" stroke="#5B7BA3" stroke-width="0.5" opacity="0.4"/>
+  <text x="212" y="244" font-family="Georgia,serif" font-size="8.2" fill="#0C2840" text-anchor="middle" font-style="italic">« Une étoile surgira de Yaakov. »</text>
+  <text x="212" y="256" font-family="Georgia,serif" font-size="6.5" fill="#AAAAAA" text-anchor="middle">— Nombres 24:17</text>
+  <line x1="130" y1="264" x2="295" y2="264" stroke="#5B7BA3" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="282" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="298" textLength="370" lengthAdjust="spacing">Shimon bar Kokhba est le chef de la dernière grande révolte juive contre l&apos;empire</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">romain, le guerrier que Rabbi Akiva lui-même identifia comme le Messie potentiel et</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dont le nom devint le symbole de l&apos;espoir messianique et de son échec tragique. Son</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">vrai nom était Shimon bar Koziba, du village de Koziba en Judée, mais Rabbi Akiva le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">surnomma Bar Kokhba, le fils de l&apos;étoile, en référence au verset de Bilaam : une étoile</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">surgira de Yaakov. La révolte éclata en 132 de l&apos;ère commune, quand l&apos;empereur Hadrien</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">interdit la circoncision et décida de bâtir un temple païen sur le mont du Temple à</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Jérusalem. Bar Kokhba leva une armée considérable et libéra Jérusalem pendant près de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">trois ans, frappant des monnaies portant l&apos;inscription pour la liberté de Jérusalem et</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">rétablissant un semblant de souveraineté juive sur la Terre Sainte. Le Talmud rapporte</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">qu&apos;il était d&apos;une force physique extraordinaire et que ses soldats devaient prouver</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">leur bravoure en se coupant un doigt ou en arrachant un cèdre à cheval au galop. Les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Sages le critiquèrent pour cette pratique qui mutilait les corps créés à l&apos;image de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">D.ieu. Bar Kokhba avait une confiance absolue en ses propres forces et le Talmud</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">rapporte qu&apos;il priait avant la bataille en disant : Maître du monde, ne nous aide pas</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">et ne nous empêche pas. Cette parole révèle l&apos;orgueil qui causa sa chute, car le Talmud</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">enseigne que la confiance en D.ieu est la condition de toute victoire.</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2D4A6E" opacity="0.85" rx="1"/>
+  <text x="28" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5">? – 135 è.c.</text>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7" fill="#E0EBF5" text-anchor="middle" opacity="0.6">✦</text>
+  <text x="400" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="end">Judée — Bétar</text>
+  <text x="28" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA">96</text>
+</svg>
