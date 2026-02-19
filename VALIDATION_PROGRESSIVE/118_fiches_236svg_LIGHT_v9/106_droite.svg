@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#6A8898" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#6A8898" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#6A8898" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR GRIS-BLEU -->
+    <rect x="13" y="13" width="399" height="26" fill="#3A5060" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#D0DCE5" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Le 'Hafets 'Haïm  —  החפץ חיים</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt, 7 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="76" textLength="370" lengthAdjust="spacing">Le 'Hafets 'Haïm mourut à Radoune en 1933, à l'âge de quatre-vingt-quinze ans,</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">quelques années avant que la Shoah ne détruise le monde dans lequel il avait</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">vécu. Sa longévité extraordinaire fut perçue par les Sages comme un signe que</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">la garde de la langue confère la vie, conformément au verset du Psaume qui</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">inspira le titre de son livre : « Qui est l'homme qui désire la vie, qui aime</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">les jours pour voir le bien ? Garde ta langue du mal. » Sa Mishna Beroura est</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">étudiée quotidiennement dans un cycle mondial, le Daf HaYomi BeMishna Beroura.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="200" x2="365" y2="200" stroke="#6A8898" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="204" font-family="Georgia,serif" font-size="7" fill="#6A8898" text-anchor="middle">✦</text>
+
+    <!-- ANECDOTE — 5 lignes pleines -->
+    <rect x="28" y="212" width="369" height="104" rx="4" fill="#E5ECF0" stroke="#6A8898" stroke-width="0.5"/>
+    <text x="212" y="227" font-family="Georgia,serif" font-size="8" fill="#2A3A45" text-anchor="middle" font-weight="bold" letter-spacing="1.5">ANECDOTE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-style="italic">
+      <tspan x="38" y="244">Un homme vint demander au 'Hafets 'Haïm comment réparer le mal causé par la</tspan>
+      <tspan x="38" dy="14">médisance. Le 'Hafets 'Haïm lui dit de prendre un oreiller de plumes, de monter</tspan>
+      <tspan x="38" dy="14">sur le toit et de disperser les plumes au vent. L'homme obéit puis revint. Le</tspan>
+      <tspan x="38" dy="14">'Hafets 'Haïm lui dit : maintenant, va ramasser toutes les plumes. L'homme</tspan>
+      <tspan x="38" dy="14" letter-spacing="0.4">protesta que c'était impossible. « Il en est de même pour la médisance. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="324" x2="365" y2="324" stroke="#6A8898" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="28" y="340" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="28" y="348" width="369" height="72" rx="4" fill="none" stroke="#6A8898" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#2A3A45">
+      <tspan x="38" y="364"  letter-spacing="0.3">« La parole peut détruire autant que l'épée. »</tspan>
+      <tspan x="38" dy="13.5"  letter-spacing="0.3">« Qui désire la vie ? Garde ta langue du mal. »</tspan>
+      <tspan x="38" dy="13.5" textLength="330" lengthAdjust="spacing">« La médisance tue trois personnes : celui qui parle, celui qui écoute,</tspan>
+      <tspan x="38" dy="13.5">celui dont on parle. »  ·  « Un mot de trop peut briser une vie entière. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="429" x2="365" y2="429" stroke="#6A8898" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="445" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="452" width="179" height="42" rx="3" fill="none" stroke="#6A8898" stroke-width="0.35"/>
+    <text x="116" y="467" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" text-anchor="middle" font-weight="bold">Le Lashon Hara</text>
+    <text x="116" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">La parole détruit autant que l'épée.</text>
+    
+    <rect x="218" y="452" width="179" height="42" rx="3" fill="none" stroke="#6A8898" stroke-width="0.35"/>
+    <text x="309" y="467" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" text-anchor="middle" font-weight="bold">La Mishna Beroura</text>
+    <text x="309" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">Référence halakhique des ashkénazes.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="28" y="510" font-family="Georgia,serif" font-size="7" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="28" y="521" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : La tradition de Volozhin</text>
+    <text x="28" y="532" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Le monde entier des yeshivot</text>
+
+    <!-- BANDEAU INFÉRIEUR GRIS-BLEU -->
+    <rect x="13" y="557" width="399" height="25" fill="#3A5060" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D0DCE5" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">248</text>
+  </svg>

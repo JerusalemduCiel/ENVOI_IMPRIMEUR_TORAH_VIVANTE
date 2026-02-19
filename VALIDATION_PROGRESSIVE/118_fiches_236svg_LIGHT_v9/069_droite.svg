@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#D4A94A" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#8B6914" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#FBF7F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Yehouda Halevi  —  רַבִּי יְהוּדָה הַלֵּוִי</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">À la fin de sa vie, Yehouda Halevi prit la décision extraordinaire de quitter l&apos;Espagne</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">confortable pour monter en Terre d&apos;Israël, mettant en pratique l&apos;idéal qu&apos;il avait</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">chanté toute sa vie. Il traversa l&apos;Égypte où il fut accueilli avec les honneurs dus à</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">un géant de la poésie et de la pensée, mais il refusa de s&apos;y installer et poursuivit</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">son voyage vers Jérusalem. La tradition raconte qu&apos;il arriva aux portes de Jérusalem et</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">qu&apos;il se prosterna pour embrasser la terre sainte en récitant son poème Sion, ne</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">demanderas-tu pas, quand un cavalier arabe le piétina et le tua.</tspan>
+</text>
+  <line x1="60" y1="177.5" x2="365" y2="177.5" stroke="#D4A94A" stroke-width="0.5" opacity="0.35"/>
+  <text x="28" y="192.5" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+  <rect x="28" y="195.5" width="369" height="68.0" rx="4" fill="#EFE6D8" stroke="#D4A94A" stroke-width="0.4"/>
+  <text x="38" y="206.5" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" font-weight="bold">Le Kouzari</text>
+<text x="38" y="224.5" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" font-weight="bold">Poésie de Sion</text>
+<text x="38" y="242.5" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" font-weight="bold">Poésie liturgique</text>
+
+  <rect x="28" y="270.5" width="369" height="57.5" rx="4" fill="#EFE6D8" stroke="#D4A94A" stroke-width="0.4"/>
+  <text x="212" y="282.5" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+<tspan x="38" y="294.5">Le vers Mon cœur est à l&apos;Orient et moi à l&apos;extrême Occident est devenu le symbole de</tspan>
+<tspan x="38" dy="12.5">la nostalgie juive pour Sion. Il est cité dans presque toutes les anthologies de la</tspan>
+<tspan x="38" dy="12.5">littérature hébraïque et reste l&apos;un des vers les plus connus de la poésie juive.</tspan>
+</text>
+  <line x1="60" y1="338.0" x2="365" y2="338.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="343.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="347.0" width="179" height="42" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="116" y="362.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">Le Kouzari</text>
+  <text x="116" y="376.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Défense de la foi par l&apos;histoire vécue.</text>
+  <rect x="218" y="347.0" width="179" height="42" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="309" y="362.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">Sion</text>
+  <text x="309" y="376.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">L&apos;amour de la Terre d&apos;Israël chanté pour l&apos;éternité.</text>
+  <line x1="60" y1="398.0" x2="365" y2="398.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="411.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Mon cœur est à l&apos;Orient et moi à l&apos;extrême Occident. »</text>
+  <text x="212" y="424.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Le retour en Terre Sainte est une obligation du cœur. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#8B6914" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FBF7F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">139</text>
+</svg>
