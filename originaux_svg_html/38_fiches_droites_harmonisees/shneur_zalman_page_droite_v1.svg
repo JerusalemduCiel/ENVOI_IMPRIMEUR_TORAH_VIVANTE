@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#BE913D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#BE913D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#BE913D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR OR -->
+    <rect x="13" y="13" width="399" height="26" fill="#7A5C20" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9" fill="#FFF5D8" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Shneur Zalman de Liadi  —  אדמו״ר הזקן</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt -->
+    <text x="25" y="57" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="9.5" fill="#55504A">
+      <tspan x="25" y="76">Rabbi Shneur Zalman mourut en 1812 pendant la fuite devant l'invasion</tspan>
+      <tspan x="25" dy="15.5">de Napoléon, qu'il avait combattue spirituellement car il craignait que</tspan>
+      <tspan x="25" dy="15.5">la liberté française ne conduise les Juifs à l'assimilation. Sa dynastie</tspan>
+      <tspan x="25" dy="15.5">se poursuivit à travers sept générations de Rabbis de Loubavitch</tspan>
+      <tspan x="25" dy="15.5">jusqu'au Rabbi Mena'hem Mendel Schneerson. Le 'Habad est aujourd'hui</tspan>
+      <tspan x="25" dy="15.5">le mouvement hassidique le plus actif au monde, présent dans plus de</tspan>
+      <tspan x="25" dy="15.5">cent pays grâce à un réseau de milliers d'émissaires.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="200" x2="365" y2="200" stroke="#BE913D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="204" font-family="Georgia,serif" font-size="7" fill="#7A5C20" text-anchor="middle">✦</text>
+
+    <!-- HISTOIRE HASSIDIQUE — 5 lignes pleines -->
+    <rect x="25" y="212" width="375" height="104" rx="4" fill="#EFE6D8" stroke="#BE913D" stroke-width="0.5"/>
+    <text x="212" y="227" font-family="Georgia,serif" font-size="8" fill="#6B4D0A" text-anchor="middle" font-weight="bold" letter-spacing="1.5">HISTOIRE HASSIDIQUE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#4A3A1A" font-style="italic">
+      <tspan x="35" y="244">Emprisonné à Saint-Pétersbourg en 1798, un officier russe lui posa une question</tspan>
+      <tspan x="35" dy="14">biblique : « Quand D.ieu dit à Adam Ayéka — Où es-tu ? — ne savait-Il pas où</tspan>
+      <tspan x="35" dy="14">Adam se cachait ? » Le Rabbi répondit : « D.ieu sait toujours où se trouve</tspan>
+      <tspan x="35" dy="14">l'homme. Mais l'homme ne sait pas toujours où il se trouve lui-même. Ayéka est</tspan>
+      <tspan x="35" dy="14">la question que D.ieu pose à chacun : Où en es-tu dans ta vie ? »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="324" x2="365" y2="324" stroke="#BE913D" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="25" y="340" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="25" y="348" width="375" height="72" rx="4" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#4A3A1A">
+      <tspan x="35" y="364">« L'esprit comprend, mais le cœur ressent — D.ieu désire les deux ensemble. »</tspan>
+      <tspan x="35" dy="14.5">« Chaque juif est une lettre de la Torah — si une lettre manque, le rouleau est invalide. »</tspan>
+      <tspan x="35" dy="14.5">« Le monde a été créé pour faire de la matière un sanctuaire pour l'Éternel. »</tspan>
+      <tspan x="35" dy="14.5">« Celui qui étudie la Torah sans amour sème sans eau — rien ne germera. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="429" x2="365" y2="429" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="25" y="445" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="25" y="452" width="182" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="116" y="467" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" text-anchor="middle" font-weight="bold">Le Tanya</text>
+    <text x="116" y="481" font-family="Georgia,serif" font-size="8" fill="#65605A" text-anchor="middle">La Bible du hassidisme intellectuel.</text>
+    
+    <rect x="218" y="452" width="182" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="309" y="467" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" text-anchor="middle" font-weight="bold">Le 'Habad</text>
+    <text x="309" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">'Hokhma, Bina, Daat : l'intellect</text>
+    <text x="309" y="492" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">au service du cœur et de D.ieu.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="25" y="510" font-family="Georgia,serif" font-size="7" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="25" y="521" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : Le Maguid de Mezeritch</text>
+    <text x="25" y="532" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Les Rabbis de Loubavitch jusqu'à nos jours</text>
+
+    <!-- BANDEAU INFÉRIEUR OR -->
+    <rect x="13" y="557" width="399" height="25" fill="#7A5C20" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FFF5D8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">240</text>
+  </svg>

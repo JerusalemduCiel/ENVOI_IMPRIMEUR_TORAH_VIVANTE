@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#B03030" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#B03030" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#B03030" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#8A3230" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Le Tour (Baal HaTourim)  —  הטור</text>
+
+    <!-- BIOGRAPHIE (suite) — 6 lignes -->
+    <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="25" y="73">Le Tour mourut à Tolède vers 1343. Son code halakhique révolutionna l'organisation du</tspan>
+      <tspan x="25" dy="13.5">savoir juridique juif en créant un système de classification qui permit au Beit Yossef</tspan>
+      <tspan x="25" dy="13.5">de Rabbi Yossef Karo de structurer son commentaire, puis le Shoul'han Aroukh lui-même.</tspan>
+      <tspan x="25" dy="13.5">Sans le Tour, le Shoul'han Aroukh n'aurait pas existé sous la forme que nous</tspan>
+      <tspan x="25" dy="13.5">connaissons. Son commentaire Baal HaTourim sur la Torah est imprimé dans les éditions</tspan>
+      <tspan x="25" dy="13.5">standard du 'Houmash et reste populaire pour ses découvertes numériques fascinantes.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="165" x2="365" y2="165" stroke="#B03030" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="169" font-family="Georgia,serif" font-size="7" fill="#8A3230" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="25" y="184" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="25" y="192" width="375" height="125" rx="4" fill="#EEDCDA" stroke="#B03030" stroke-width="0.4"/>
+    
+    <text x="35" y="205" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Arba Tourim (Les Quatre Colonnes)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="218">Codification monumentale de toute la Halakha en quatre parties : Orah 'Haïm, Yoré</tspan>
+      <tspan x="35" dy="12">Déa, Even HaEzer, 'Hoshen Mishpat. Modèle du Shoul'han Aroukh.</tspan>
+    </text>
+    
+    <text x="35" y="245" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Péroush HaTour (Commentaire sur la Torah)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="258">Commentaire exégétique combinant le sens littéral avec des interprétations</tspan>
+      <tspan x="35" dy="12">halakhiques, intégré dans les éditions classiques du 'Houmash.</tspan>
+    </text>
+    
+    <text x="35" y="285" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Baal HaTourim (Guématriot sur la Torah)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="298">Découvertes numériques et liens cachés entre les versets par la guématria et les</tspan>
+      <tspan x="35" dy="12">notrikon. Imprimé dans toutes les éditions standard du 'Houmash.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="325" x2="365" y2="325" stroke="#B03030" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="25" y="332" width="375" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="343" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="35" y="355">Le Tour vivait dans une pauvreté si extrême à Tolède qu'il devait parfois emprunter du</tspan>
+      <tspan x="35" dy="12.5">papier pour écrire. Malgré cette misère, il refusa toute sa vie un poste rabbinique</tspan>
+      <tspan x="35" dy="12.5">rémunéré, considérant que la Torah ne devait pas servir d'instrument.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="25" y="406" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="25" y="413" width="182" height="42" rx="3" fill="none" stroke="#B03030" stroke-width="0.35"/>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Les Arba Tourim</text>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Modèle du Shoul'han Aroukh.</text>
+    <text x="116" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Structure en quatre parties.</text>
+    
+    <rect x="218" y="413" width="182" height="42" rx="3" fill="none" stroke="#B03030" stroke-width="0.35"/>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Pauvreté</text>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Grandeur Torah sans conditions</text>
+    <text x="309" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">matérielles.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="468" x2="365" y2="468" stroke="#B03030" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="484" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Sans le Tour, pas de Shoul'han Aroukh. »</text>
+    <text x="212" y="499" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Quatre rangées comme les pierres du Pectoral. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#8A3230" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">200</text>
+  </svg>

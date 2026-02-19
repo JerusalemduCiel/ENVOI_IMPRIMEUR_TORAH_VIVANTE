@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#BE913D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#BE913D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#BE913D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR OR -->
+    <rect x="13" y="13" width="399" height="26" fill="#7A5C20" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#FFF5D8" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Baal Shem Tov (Besht)  —  בעל שם טוב</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt, interligne 15.5 -->
+    <text x="25" y="57" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="9.5" fill="#55504A">
+      <tspan x="25" y="76">Le Baal Shem Tov mourut à Medjybij en 1760 le jour de Shavouot, la fête</tspan>
+      <tspan x="25" dy="15.5">du don de la Torah. Il ne laissa aucun écrit mais ses enseignements furent</tspan>
+      <tspan x="25" dy="15.5">recueillis par ses disciples, principalement dans le Toldot Yaakov Yossef</tspan>
+      <tspan x="25" dy="15.5">de Rabbi Yaakov Yossef de Polnoye, le premier ouvrage hassidique jamais</tspan>
+      <tspan x="25" dy="15.5">imprimé. Son successeur, le Maguid de Mezeritch, organisa le mouvement</tspan>
+      <tspan x="25" dy="15.5">et envoya des émissaires dans toute l'Europe de l'Est juive. En quelques</tspan>
+      <tspan x="25" dy="15.5">décennies, le hassidisme transforma la piété de millions de Juifs par la</tspan>
+      <tspan x="25" dy="15.5">joie et la ferveur au service de D.ieu.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="210" x2="365" y2="210" stroke="#BE913D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="214" font-family="Georgia,serif" font-size="7" fill="#7A5C20" text-anchor="middle">✦</text>
+
+    <!-- HISTOIRE HASSIDIQUE -->
+    <rect x="25" y="222" width="375" height="104" rx="4" fill="#EFE6D8" stroke="#BE913D" stroke-width="0.5"/>
+    <text x="212" y="237" font-family="Georgia,serif" font-size="8" fill="#6B4D0A" text-anchor="middle" font-weight="bold" letter-spacing="1.5">HISTOIRE HASSIDIQUE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#4A3A1A" font-style="italic">
+      <tspan x="35" y="254">Un jour, le Baal Shem Tov s'arrêta devant la maison d'un simple portefaix et</tspan>
+      <tspan x="35" dy="14">refusa de continuer sa route. Ses disciples s'étonnèrent. Il leur dit : « Écoutez. »</tspan>
+      <tspan x="35" dy="14">De la maison montait la voix d'un homme qui récitait les Psaumes en pleurant.</tspan>
+      <tspan x="35" dy="14">« Cet homme ne comprend pas un mot de ce qu'il dit, expliqua le Besht, mais ses</tspan>
+      <tspan x="35" dy="14">larmes ouvrent des portes dans le Ciel. Car D.ieu désire le cœur plus que l'intellect. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="348" x2="365" y2="348" stroke="#BE913D" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="25" y="364" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="25" y="372" width="375" height="72" rx="4" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#4A3A1A">
+      <tspan x="35" y="388">« L'oubli est la racine de l'exil. Le souvenir, la racine de la délivrance. »</tspan>
+      <tspan x="35" dy="14.5">« Partout où l'homme porte son regard, c'est D.ieu qu'il contemple. »</tspan>
+      <tspan x="35" dy="14.5">« Une petite lumière chasse beaucoup d'obscurité. »</tspan>
+      <tspan x="35" dy="14.5">« L'âme descend en ce monde pour soixante-dix ans pour un seul service. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="453" x2="365" y2="453" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="25" y="469" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="25" y="476" width="182" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="116" y="491" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" text-anchor="middle" font-weight="bold">Le Hassidisme</text>
+    <text x="116" y="505" font-family="Georgia,serif" font-size="8" fill="#65605A" text-anchor="middle">La joie et la ferveur au service divin.</text>
+    
+    <rect x="218" y="476" width="182" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="309" y="491" font-family="Georgia,serif" font-size="8.5" fill="#6B4D0A" text-anchor="middle" font-weight="bold">La Prière</text>
+    <text x="309" y="505" font-family="Georgia,serif" font-size="8" fill="#65605A" text-anchor="middle">Chaque Juif atteint D.ieu par le cœur.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="25" y="528" font-family="Georgia,serif" font-size="7" fill="#6B4D0A" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="25" y="539" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : A'hiya HaShiloni (en vision)</text>
+    <text x="25" y="550" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Le Maguid de Mezeritch, Rabbi Yaakov Yossef de Polnoye</text>
+
+    <!-- BANDEAU INFÉRIEUR OR -->
+    <rect x="13" y="557" width="399" height="25" fill="#7A5C20" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FFF5D8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">234</text>
+  </svg>

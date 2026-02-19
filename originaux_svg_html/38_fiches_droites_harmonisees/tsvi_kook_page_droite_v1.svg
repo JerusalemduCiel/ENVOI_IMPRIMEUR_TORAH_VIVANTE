@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#A0523D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#A0523D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#A0523D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR TERRE DE SIENNE -->
+    <rect x="13" y="13" width="399" height="26" fill="#6E2E1E" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9" fill="#F0D8C8" text-anchor="middle" font-weight="bold" letter-spacing="0.6">Rav Tsvi Yehouda Kook  —  הרב צבי יהודה קוק</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt, 7 lignes -->
+    <text x="25" y="57" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="9.5" fill="#55504A">
+      <tspan x="25" y="76">Rav Tsvi Yehouda mourut à Jérusalem en 1982. Son héritage est l'un des plus</tspan>
+      <tspan x="25" dy="15.5">controversés du judaïsme contemporain : pour ses disciples, il est le prophète</tspan>
+      <tspan x="25" dy="15.5">de la rédemption nationale juive, celui qui donna au sionisme religieux sa</tspan>
+      <tspan x="25" dy="15.5">dimension messianique concrète. Il forma une génération entière de rabbins et</tspan>
+      <tspan x="25" dy="15.5">de dirigeants qui fondèrent le mouvement Goush Emounim. La yeshiva Merkaz</tspan>
+      <tspan x="25" dy="15.5">HaRav reste le centre intellectuel du sionisme religieux et son influence sur</tspan>
+      <tspan x="25" dy="15.5">la société israélienne est considérable. La pensée du père et du fils est une.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="200" x2="365" y2="200" stroke="#A0523D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="204" font-family="Georgia,serif" font-size="7" fill="#A0523D" text-anchor="middle">✦</text>
+
+    <!-- ANECDOTE — 5 lignes pleines -->
+    <rect x="25" y="212" width="375" height="104" rx="4" fill="#EFE6D8" stroke="#A0523D" stroke-width="0.5"/>
+    <text x="212" y="227" font-family="Georgia,serif" font-size="8" fill="#5A3020" text-anchor="middle" font-weight="bold" letter-spacing="1.5">ANECDOTE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-style="italic">
+      <tspan x="35" y="244">Le soir de la libération du Kotel en juin 1967, Rav Tsvi Yehouda courut vers le</tspan>
+      <tspan x="35" dy="14">Mur avec ses élèves. En touchant les pierres, il éclata en sanglots : « Il y a</tspan>
+      <tspan x="35" dy="14">quelques semaines, lors du Yom HaAtsmaout, j'ai crié de douleur en demandant</tspan>
+      <tspan x="35" dy="14">où sont Hébron, Sichem, Jéricho. Aujourd'hui D.ieu nous répond. Nous sommes</tspan>
+      <tspan x="35" dy="14">revenus et nous ne partirons plus jamais. » Ses élèves n'oublièrent jamais.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="324" x2="365" y2="324" stroke="#A0523D" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="25" y="340" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="25" y="348" width="375" height="72" rx="4" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#5A3020">
+      <tspan x="35" y="364">« L'État d'Israël est le piédestal du Trône divin dans le monde. »</tspan>
+      <tspan x="35" dy="14.5">« Ne séparez jamais la Torah de la terre d'Israël. »</tspan>
+      <tspan x="35" dy="14.5">« Chaque pierre de cette terre est sainte, chaque arbre planté est une prière. »</tspan>
+      <tspan x="35" dy="14.5">« La Rédemption avance pas à pas — même ceux qui ne la voient pas marchent en elle. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="429" x2="365" y2="429" stroke="#A0523D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="25" y="445" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="25" y="452" width="182" height="42" rx="3" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text x="116" y="467" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" text-anchor="middle" font-weight="bold">La Terre</text>
+    <text x="116" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">Chaque parcelle d'Israël est sacrée.</text>
+    
+    <rect x="218" y="452" width="182" height="42" rx="3" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text x="309" y="467" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" text-anchor="middle" font-weight="bold">La Rédemption</text>
+    <text x="309" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">L'État d'Israël, début du salut messianique.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="25" y="510" font-family="Georgia,serif" font-size="7" fill="#5A3020" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="25" y="521" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : Rav Kook père</text>
+    <text x="25" y="532" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Goush Emounim, le sionisme religieux militant</text>
+
+    <!-- BANDEAU INFÉRIEUR TERRE DE SIENNE -->
+    <rect x="13" y="557" width="399" height="25" fill="#6E2E1E" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F0D8C8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">264</text>
+  </svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#B03030" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#B03030" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#B03030" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#8A3230" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rosh (Rabbi Asher ben Ye'hiel)  —  רא״ש</text>
+
+    <!-- BIOGRAPHIE (suite) -->
+    <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="25" y="73">Le Rosh est aussi l'auteur de nombreux responsa qui révèlent un homme d'une grande</tspan>
+      <tspan x="25" dy="13.5">sensibilité sociale et d'une intégrité morale exemplaire. Il refusa tout salaire pour</tspan>
+      <tspan x="25" dy="13.5">sa fonction rabbinique et subvint à ses besoins par d'autres moyens, estimant que la</tspan>
+      <tspan x="25" dy="13.5">Torah ne doit pas être une couronne pour se glorifier ni une pioche pour creuser. Son</tspan>
+      <tspan x="25" dy="13.5">fils Rabbi Yaakov ben Asher, le Tour, compila les Arba Tourim, les Quatre Colonnes, qui</tspan>
+      <tspan x="25" dy="13.5">devinrent le code halakhique de référence avant le Shoul'han Aroukh. La dynastie</tspan>
+      <tspan x="25" dy="13.5">Rosh-Tour représente le pont entre l'ère des Rishonim et celle des codificateurs.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="178" x2="365" y2="178" stroke="#B03030" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="182" font-family="Georgia,serif" font-size="7" fill="#8A3230" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="25" y="197" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="25" y="205" width="375" height="125" rx="4" fill="#EEDCDA" stroke="#B03030" stroke-width="0.4"/>
+    
+    <text x="35" y="218" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Piskei HaRosh (Les Décisions du Rosh)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="231">Commentaire halakhique sur le Talmud combinant la rigueur des Tossafistes</tspan>
+      <tspan x="35" dy="12">ashkénazes avec la clarté codificatrice séfarade du Rif.</tspan>
+    </text>
+    
+    <text x="35" y="258" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Responsa (She'élot ouTeshouvot)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="271">Réponses juridiques révélant une sensibilité sociale remarquable et une</tspan>
+      <tspan x="35" dy="12">intégrité morale exemplaire, couvrant les communautés des deux mondes.</tspan>
+    </text>
+    
+    <text x="35" y="298" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Orchot 'Haïm (Les Chemins de la Vie)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="311">Traité éthique et pratique sur la conduite quotidienne, reflet de son</tspan>
+      <tspan x="35" dy="12">idéal de Torah vécue dans la simplicité et le désintéressement.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="338" x2="365" y2="338" stroke="#B03030" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="25" y="345" width="375" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="356" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="35" y="368">Le Rosh quitta l'Allemagne pour l'Espagne en 1305 avec sa famille, traversant la France</tspan>
+      <tspan x="35" dy="12.5">et les Pyrénées. Il est l'un des rares Sages à avoir dirigé des communautés dans les deux</tspan>
+      <tspan x="35" dy="12.5">mondes, ashkénaze et séfarade, unifiant leurs traditions halakhiques.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="25" y="419" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="25" y="426" width="182" height="42" rx="3" fill="none" stroke="#B03030" stroke-width="0.35"/>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Synthèse</text>
+    <text x="116" y="452" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Réunir les traditions ashkénaze</text>
+    <text x="116" y="462" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">et séfarade en une seule autorité.</text>
+    
+    <rect x="218" y="426" width="182" height="42" rx="3" fill="none" stroke="#B03030" stroke-width="0.35"/>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Shoul'han Aroukh</text>
+    <text x="309" y="452" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Troisième pilier de la codification</text>
+    <text x="309" y="462" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">avec le Rif et le Rambam.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="481" x2="365" y2="481" stroke="#B03030" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="497" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Le Rosh porta l'Ashkénaz en Séfarade. »</text>
+    <text x="212" y="512" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« La Torah ne doit pas servir de couronne. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#8A3230" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">198</text>
+  </svg>

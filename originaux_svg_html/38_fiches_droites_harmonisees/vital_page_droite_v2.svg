@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#4A8A55" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#4A8A55" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#4A8A55" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#2D5E38" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#D8F0D8" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi 'Haïm Vital  —  רבי חיים ויטאל</text>
+
+    <!-- BIOGRAPHIE (suite) — 5 lignes -->
+    <text x="25" y="57" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="25" y="73">Rabbi 'Haïm Vital quitta Safed pour Damas où il vécut et enseigna jusqu'à sa mort en</tspan>
+      <tspan x="25" dy="13.5">1620. Ses manuscrits furent copiés secrètement par des disciples et circulèrent sous</tspan>
+      <tspan x="25" dy="13.5">forme de copies diverses pendant des décennies avant d'être publiés. La Kabbale</tspan>
+      <tspan x="25" dy="13.5">lourianique, telle que transmise par 'Haïm Vital, devint le fondement de toute la</tspan>
+      <tspan x="25" dy="13.5">mystique juive postérieure. Sans lui, le Ari Zal serait resté un maître sans postérité.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="152" x2="365" y2="152" stroke="#4A8A55" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="156" font-family="Georgia,serif" font-size="7" fill="#2D5E38" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="25" y="171" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="25" y="179" width="375" height="125" rx="4" fill="#EFE6D8" stroke="#4A8A55" stroke-width="0.4"/>
+    
+    <text x="35" y="192" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Ets 'Haïm (L'Arbre de Vie)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="205">Transcription monumentale de l'enseignement oral du Ari Zal. Expose le système</tspan>
+      <tspan x="35" dy="12">complet du Tsimtsoum, de la Shevirat HaKélim et du Tikoun.</tspan>
+    </text>
+    
+    <text x="35" y="232" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Shaar HaGuilgoulim (La Porte des Réincarnations)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="245">Révélations du Ari Zal sur les transmigrations des âmes, identifiant les racines</tspan>
+      <tspan x="35" dy="12">spirituelles des grandes figures de l'histoire juive à travers les générations.</tspan>
+    </text>
+    
+    <text x="35" y="272" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Séfer Ha'Hézyonot (Le Livre des Visions)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="35" y="285">Journal mystique personnel consignant ses rêves prophétiques, ses visions et ses</tspan>
+      <tspan x="35" dy="12">rencontres avec le Ari Zal. Document unique sur la vie intérieure d'un kabbaliste.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="312" x2="365" y2="312" stroke="#4A8A55" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="25" y="319" width="375" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="330" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="35" y="342">Après la mort de 'Haïm Vital, ses disciples ouvrirent sa tombe à Damas pour en extraire</tspan>
+      <tspan x="35" dy="12.5">ses manuscrits cachés. Son fils Shmouel organisa et publia les écrits, créant la version</tspan>
+      <tspan x="35" dy="12.5">canonique. Plus de trois cents copies manuscrites circulaient avant la première impression.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="25" y="393" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="25" y="400" width="182" height="42" rx="3" fill="none" stroke="#4A8A55" stroke-width="0.35"/>
+    <text x="116" y="413" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" text-anchor="middle" font-weight="bold">Le Ets 'Haïm</text>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">L'Arbre de Vie, fondement de</text>
+    <text x="116" y="436" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">toute la Kabbale lourianique.</text>
+    
+    <rect x="218" y="400" width="182" height="42" rx="3" fill="none" stroke="#4A8A55" stroke-width="0.35"/>
+    <text x="309" y="413" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" text-anchor="middle" font-weight="bold">La Fidélité</text>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Seul disciple autorisé par le Ari</text>
+    <text x="309" y="436" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">à transmettre son enseignement.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="455" x2="365" y2="455" stroke="#4A8A55" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="471" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" text-anchor="middle" font-style="italic">« Sans le scribe, le maître serait oublié. »</text>
+    <text x="212" y="486" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" text-anchor="middle" font-style="italic">« L'Arbre de Vie porte les fruits de la Kabbale du Ari. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#389560" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D8F0D8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">222</text>
+  </svg>
