@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#D4A94A" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#8B6914" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#FBF7F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Yona de Gérone  —  רַבֵּנוּ יוֹנָה</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Les Shaaréi Téchouva décrivent quatre niveaux de repentir, du plus simple au plus</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">profond, avec une acuité psychologique qui anticipe la littérature moraliste moderne.</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Le premier niveau est la honte face à la faute, le deuxième la crainte du châtiment, le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">troisième l&apos;amour de D.ieu et le quatrième la transformation intérieure totale. Rabbi</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Yona enseigne que certaines fautes entre l&apos;homme et son prochain ne peuvent être</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">expiées même par le jour de Kippour sans réparation préalable. Son commentaire éthique</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sur les Proverbes complète les Shaaréi Téchouva en offrant un guide de sagesse</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">quotidienne fondé sur la tradition salomonienne. Son enseignement influença</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">profondément le Rashba et toute l&apos;école talmudique de Barcelone.</tspan>
+</text>
+  <line x1="60" y1="205.0" x2="365" y2="205.0" stroke="#D4A94A" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="209.0" font-family="Georgia,serif" font-size="7" fill="#8B6914" text-anchor="middle">✦</text>
+  <rect x="28" y="220.0" width="369" height="95" rx="4" fill="#EFE6D8" stroke="#D4A94A" stroke-width="0.4"/>
+  <text x="212" y="234.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#4A4540" font-style="italic">
+<tspan x="38" y="248.0">Lorsque le Talmud fut brûlé à Paris en 1242 sur vingt-quatre charrettes, Rabbi</tspan>
+<tspan x="38" dy="13">Yona de Gérone fut saisi d&apos;effroi. Lui qui avait combattu les écrits du Rambam</tspan>
+<tspan x="38" dy="13">comprit soudain que la persécution des livres juifs était un châtiment divin pour</tspan>
+<tspan x="38" dy="13">la persécution d&apos;autres livres juifs. Il fit vœu public de téchouva et entreprit</tspan>
+<tspan x="38" dy="13" letter-spacing="0.4">le voyage vers Tibériade pour implorer le pardon sur la tombe de Maïmonide.</tspan>
+</text>
+  <text x="390" y="311.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Tradition rapportée par le Rashba et les chroniqueurs</text>
+  <line x1="60" y1="325.0" x2="365" y2="325.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="337.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="344.0" width="179" height="48" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="116" y="359.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">La Téchouva</text>
+  <text x="116" y="373.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Guide des étapes du repentir.</text>
+  <rect x="218" y="344.0" width="179" height="48" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="309" y="359.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">L&apos;Humilité</text>
+  <text x="309" y="373.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Son repentir devint sa plus grande œuvre.</text>
+  <line x1="60" y1="400.0" x2="365" y2="400.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="413.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Les Portes du Repentir ne se ferment jamais. »</text>
+  <text x="212" y="426.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Transformer ses fautes en mérites. »</text>
+  <line x1="60" y1="427.0" x2="365" y2="427.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="446.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#65605A">
+<tspan x="28" y="459.0">maîtres : Les Sages de Catalogne et de Provence</tspan>
+<tspan x="28" dy="13.0">disciples : Le Rashba (Rabbi Shlomo ben Adret) à Barcelone</tspan>
+<tspan x="28" dy="13.0">contemporain : Le Ramban, parent par alliance et compagnon d&apos;étude</tspan>
+<tspan x="28" dy="13.0">héritage : Les Shaaréi Téchouva — traité classique sur le repentir</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#8B6914" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FBF7F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">159</text>
+</svg>

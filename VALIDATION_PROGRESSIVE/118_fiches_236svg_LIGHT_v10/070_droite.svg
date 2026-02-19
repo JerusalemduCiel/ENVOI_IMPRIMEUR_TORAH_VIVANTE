@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#D4A94A" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#8B6914" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#FBF7F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Avraham Ibn Ezra  —  רַבִּי אַבְרָהָם אִבְּן עֶזְרָא</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Errant de pays en pays sans jamais trouver la stabilité, Ibn Ezra traversa l&apos;Italie, la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">France, l&apos;Angleterre et la Provence en enseignant la Torah et les sciences partout où</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">il passait. Son commentaire biblique, d&apos;une concision parfois énigmatique, fait</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">allusion à des secrets qu&apos;il refuse de révéler explicitement, en particulier sur la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">rédaction tardive de certains versets du Deutéronome. Les commentateurs traditionnels</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">défendent que l&apos;Ibn Ezra respectait pleinement l&apos;autorité divine de la Torah tout en</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">appliquant une méthode grammaticale rigoureuse. Ses traités de grammaire, d&apos;astronomie</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">et de mathématiques témoignent d&apos;un esprit universel. Il mourut probablement à</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Calahorra vers 1167, aussi pauvre qu&apos;il avait vécu, mais riche d&apos;une œuvre immense qui</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">illumine encore aujourd&apos;hui l&apos;étude de la Torah dans toutes les communautés.</tspan>
+</text>
+  <line x1="60" y1="218.0" x2="365" y2="218.0" stroke="#D4A94A" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="222.0" font-family="Georgia,serif" font-size="7" fill="#8B6914" text-anchor="middle">✦</text>
+  <rect x="28" y="233.0" width="369" height="95" rx="4" fill="#EFE6D8" stroke="#D4A94A" stroke-width="0.4"/>
+  <text x="212" y="247.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#4A4540" font-style="italic">
+<tspan x="38" y="261.0">Ibn Ezra, pauvre toute sa vie, avait coutume de dire avec humour : si je vendais</tspan>
+<tspan x="38" dy="13">des bougies, le soleil ne se coucherait jamais. Si je vendais des linceuls,</tspan>
+<tspan x="38" dy="13">personne ne mourrait plus. Malgré cette misère matérielle, il parcourut l&apos;Europe</tspan>
+<tspan x="38" dy="13">entière en enseignant la Torah et les sciences, prouvant que la richesse</tspan>
+<tspan x="38" dy="13" letter-spacing="0.4">véritable réside dans la sagesse et non dans les biens de ce monde.</tspan>
+</text>
+  <text x="390" y="324.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Tradition rapportée par les commentateurs</text>
+  <line x1="60" y1="338.0" x2="365" y2="338.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="350.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="357.0" width="179" height="48" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="116" y="372.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">Le Pshat</text>
+  <text x="116" y="386.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Le sens littéral est le fondement de tout.</text>
+  <rect x="218" y="357.0" width="179" height="48" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="309" y="372.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" text-anchor="middle" font-weight="bold">L&apos;Universalité</text>
+  <text x="309" y="386.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">La Torah dialogue avec toutes les sciences.</text>
+  <line x1="60" y1="413.0" x2="365" y2="413.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="426.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« Celui qui comprendra gardera le silence. »</text>
+  <text x="212" y="439.0" font-family="Georgia,serif" font-size="7.8" fill="#2A1040" text-anchor="middle" font-style="italic">« L&apos;errance du Sage reflète l&apos;exil du peuple. »</text>
+  <line x1="60" y1="440.0" x2="365" y2="440.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="459.0" font-family="Georgia,serif" font-size="7.5" fill="#2A1040" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#65605A">
+<tspan x="28" y="472.0">maîtres : Les cercles d&apos;érudition de Tudèle et les grammairiens espagnols</tspan>
+<tspan x="28" dy="13.0">disciples : Les exégètes et grammairiens de Provence et d&apos;Italie</tspan>
+<tspan x="28" dy="13.0">contemporains : Rabbi Yehouda Halevi (ami intime)</tspan>
+<tspan x="28" dy="13.0">héritage : Le commentaire biblique rationnel et la grammaire hébraïque</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#8B6914" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FBF7F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">141</text>
+</svg>
