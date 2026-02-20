@@ -32,6 +32,6 @@
     <line x1="90" y1="438" x2="335" y2="438" stroke="#D4A94A" stroke-width="0.5" opacity="0.4"/>
     <text x="212" y="530" font-family="Georgia,serif" font-size="7.5" fill="#9A9080" text-anchor="middle" letter-spacing="3">F I G U R E S   D E   C E   C H A P I T R E</text>
     <text x="212" y="546" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">Avraham Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Sarah Iménou <tspan fill="#D4A94A" font-size="7">✦</tspan> Yits'hak Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Rivka Iménou</text>
-    <text x="212" y="560" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">Yaakov Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Ra'hel & Léa <tspan fill="#D4A94A" font-size="7">✦</tspan> Yossef HaTsadik <tspan fill="#D4A94A" font-size="7">✦</tspan> Yehouda</text>
+    <text x="212" y="560" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">Yaakov Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Ra'hel &amp; Léa <tspan fill="#D4A94A" font-size="7">✦</tspan> Yossef HaTsadik <tspan fill="#D4A94A" font-size="7">✦</tspan> Yehouda</text>
     <text x="212" y="588" font-family="Georgia,serif" font-size="7" fill="#B0A590" text-anchor="middle">10</text>
   </svg>
