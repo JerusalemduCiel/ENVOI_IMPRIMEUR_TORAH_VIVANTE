@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#C49A4A" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#C49A4A" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#C49A4A" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#A0722B" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#F5E8D0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Maïmonide (Rambam)  —  רמב״ם</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">L&apos;influence du Rambam sur le judaïsme est sans égale. Son Michné Torah est étudié</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">chaque jour dans les yeshivot du monde entier et le Beit Yossef de Rabbi Yossef Karo,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">qui devint le Shoul&apos;han Aroukh, s&apos;appuie massivement sur ses décisions. Son approche</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">rationaliste suscita aussi des controverses féroces : après sa mort, certains rabbins</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de Provence et d&apos;Ashkénaz brûlèrent le Guide des Égarés, tandis que d&apos;autres le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">défendirent comme un chef-d&apos;œuvre indispensable. Ses treize articles de foi, qui</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">résument l&apos;essence de la croyance juive, devinrent le Ani Maamin récité chaque jour</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dans les synagogues et chanté par les Juifs jusque dans les wagons vers les camps,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">ultime témoignage de la foi indestructible qu&apos;il avait su formuler. Sa Lettre au Yémen,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">adressée à une communauté persécutée et tentée par un faux messie, révèle un leader</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">spirituel qui savait répondre avec compassion et fermeté aux crises les plus graves</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">de son peuple.</tspan>
+</text>
+  <line x1="60" y1="236.5" x2="365" y2="236.5" stroke="#C49A4A" stroke-width="0.5" opacity="0.35"/>
+  <text x="28" y="251.5" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+  <rect x="28" y="254.5" width="369" height="90" rx="4" fill="#EFE6D8" stroke="#C49A4A" stroke-width="0.4"/>
+  <text x="38" y="268.5" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" font-weight="bold">Michné Torah</text>
+  <text x="38" y="279.5" font-family="Georgia,serif" font-size="6.8" fill="#6B5B3A" font-style="italic">Premier code complet de la halakha en 14 livres systématiques</text>
+  <text x="38" y="296.5" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" font-weight="bold">Guide des Égarés</text>
+  <text x="38" y="307.5" font-family="Georgia,serif" font-size="6.8" fill="#6B5B3A" font-style="italic">Réconciliation de la philosophie aristotélicienne et de la Torah</text>
+  <text x="38" y="324.5" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" font-weight="bold">Commentaire sur la Mishna</text>
+  <text x="38" y="335.5" font-family="Georgia,serif" font-size="6.8" fill="#6B5B3A" font-style="italic">Introduction lumineuse à chaque traité et ses principes</text>
+  <rect x="28" y="351.5" width="369" height="61.5" rx="4" fill="#EFE6D8" stroke="#C49A4A" stroke-width="0.4"/>
+  <text x="212" y="365.5" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1.2">LE SAVIEZ-VOUS ?</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+<tspan x="38" y="379.5">Le Rambam exerçait la médecine auprès de la cour royale d&apos;Égypte. Dans une lettre</tspan>
+<tspan x="38" dy="12.5">célèbre, il décrit sa journée : il rentrait épuisé le soir, trouvait les couloirs</tspan>
+<tspan x="38" dy="12.5">remplis de patients juifs et non-juifs, et ne pouvait étudier la Torah que le Shabbat.</tspan>
+</text>
+  <line x1="60" y1="418.0" x2="365" y2="418.0" stroke="#C49A4A" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="423.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="427.0" width="179" height="42" rx="3" fill="none" stroke="#C49A4A" stroke-width="0.35"/>
+  <text x="116" y="442.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold">Le Michné Torah</text>
+  <text x="116" y="456.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Premier code complet de toute la halakha.</text>
+  <rect x="218" y="427.0" width="179" height="42" rx="3" fill="none" stroke="#C49A4A" stroke-width="0.35"/>
+  <text x="309" y="442.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold">Les 13 Articles</text>
+  <text x="309" y="456.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Fondements de la foi récités chaque jour.</text>
+  <line x1="60" y1="478.0" x2="365" y2="478.0" stroke="#C49A4A" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="491.0" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" text-anchor="middle" font-style="italic">« De Moché à Moché, nul ne fut semblable à Moché. »</text>
+  <text x="212" y="504.0" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" text-anchor="middle" font-style="italic">« La raison et la foi proviennent de la même source. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#A0722B" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F5E8D0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">151</text>
+</svg>

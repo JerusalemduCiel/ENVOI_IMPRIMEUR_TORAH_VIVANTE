@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+    <g opacity="0.35" fill="none" stroke="#C4973B" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+    <text x="212" y="55" font-family="Georgia,serif" font-size="11" fill="#6E2E1E" text-anchor="middle" letter-spacing="5">C H A P I T R E   18</text>
+    <text x="212" y="72" font-family="Georgia,serif" font-size="11" fill="#A0523D" text-anchor="middle">— ✦ —</text>
+    <text x="212" y="108" font-family="Georgia,serif" font-size="22" fill="#6E2E1E" text-anchor="middle" font-weight="bold" letter-spacing="1">Bâtisseurs et Contemporains</text>
+    <text x="212" y="132" font-family="Georgia,serif" font-size="12" fill="#5A3020" text-anchor="middle" font-style="italic">Du Sinaï à Demain — La Chaîne Continue</text>
+    <text x="212" y="150" font-family="Georgia,serif" font-size="8" fill="#9A9080" text-anchor="middle" letter-spacing="2">XIXe — XXIe SIÈCLE · LE MONDE ENTIER</text>
+    <text x="212" y="168" font-family="Georgia,serif" font-size="8" fill="#A0523D" text-anchor="middle" letter-spacing="8">· · ·</text>
+    <text font-family="Georgia,serif" font-size="11.5" fill="#4A4540" text-anchor="middle" font-style="italic">
+      <tspan x="212" y="208">Le 'Hatam Sofer se dressa : le nouveau est interdit !,</tspan>
+      <tspan x="212" y="227">Rav Hirsch répondit : Torah im Derekh Erets,</tspan>
+      <tspan x="212" y="246">Rav Kook vit la lumière dans les âmes en spirale,</tspan>
+      <tspan x="212" y="265">Et Heschel marcha pour la justice, prophète du cœur.</tspan>
+      <tspan x="212" y="292">Rav Feinstein trancha la Halakha pour un monde nouveau,</tspan>
+      <tspan x="212" y="311">Soloveitchik enseigna la solitude du croyant,</tspan>
+      <tspan x="212" y="330">Steinsaltz ouvrit le Talmud à chaque chercheur,</tspan>
+      <tspan x="212" y="349">Bâtisseurs d'un pont entre le Sinaï et demain.</tspan>
+    </text>
+    <line x1="70" y1="388" x2="355" y2="388" stroke="#A0523D" stroke-width="0.6" opacity="0.5"/>
+    <text font-family="Georgia,serif" font-size="11" fill="#4A4540" text-anchor="middle" font-style="italic" font-weight="500">
+      <tspan x="212" y="408">« Le vieux se renouvellera</tspan>
+      <tspan x="212" y="424">et le nouveau se sanctifiera. »</tspan>
+    </text>
+    <text x="212" y="444" font-family="Georgia,serif" font-size="8.5" fill="#9A9080" text-anchor="middle">— Rav Kook, Orot HaKodesh</text>
+    <line x1="90" y1="454" x2="335" y2="454" stroke="#A0523D" stroke-width="0.5" opacity="0.4"/>
+    <text x="212" y="530" font-family="Georgia,serif" font-size="7.5" fill="#9A9080" text-anchor="middle" letter-spacing="3">F I G U R E S   D E   C E   C H A P I T R E</text>
+    <text x="212" y="542" font-family="Georgia,serif" font-size="7.5" fill="#4A4540" text-anchor="middle" font-weight="600">'Hatam Sofer <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Hirsch <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Kook <tspan fill="#A0523D" font-size="7">✦</tspan> 'Hazon Ish</text>
+    <text x="212" y="554" font-family="Georgia,serif" font-size="7.5" fill="#4A4540" text-anchor="middle" font-weight="600">Sarah Schenirer <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Tsvi Y. Kook <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Feinstein <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Soloveitchik</text>
+    <text x="212" y="566" font-family="Georgia,serif" font-size="7.5" fill="#4A4540" text-anchor="middle" font-weight="600">Né'hama Leibowitz <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Ovadia Yossef <tspan fill="#A0523D" font-size="7">✦</tspan> Rav Steinsaltz <tspan fill="#A0523D" font-size="7">✦</tspan> Rabbi J. Sacks</text>
+    <text x="212" y="588" font-family="Georgia,serif" font-size="7" fill="#B0A590" text-anchor="middle">42</text>
+  </svg>

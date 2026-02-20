@@ -1,0 +1,405 @@
+Voici l'ordre complet des 296 pages, directement issu du checkpoint validé :
+
+---
+
+## PAGES LIMINAIRES (p.1-8)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 1 | annexe_p1_titre.html | Page de titre |
+| 2 | annexe_p2_apropos.html | À propos |
+| 3 | annexe_p2_identite.html | Identité |
+| 4 | annexe_p3_avantpropos.html | Avant-propos |
+| 5 | annexe_pourquoi_p1.html | Pourquoi ce livre (1) |
+| 6 | annexe_pourquoi_p2.html | Pourquoi ce livre (2) |
+| 7 | annexe_p4_arbre1.html | Arbre de transmission (1) |
+| 8 | annexe_p5_arbre2.html | Arbre de transmission (2) |
+
+## CHAPITRE 1 — LES ORIGINES (p.9-14, 2 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 9 | intercalaire_ch01_gauche.svg | Illustration ch.1 |
+| 10 | intercalaire_ch01_droite.svg | Titre + poème ch.1 |
+| 11 | 001_gauche.svg | Adam HaRishon (gauche) |
+| 12 | 001_droite.svg | Adam HaRishon (droite) |
+| 13 | 002_gauche.svg | Noa'h (gauche) |
+| 14 | 002_droite.svg | Noa'h (droite) |
+
+## CHAPITRE 2 — LES PATRIARCHES ET LES MATRIARCHES (p.15-32, 8 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 15 | intercalaire_ch02_gauche.svg | Illustration ch.2 |
+| 16 | intercalaire_ch02_droite.svg | Titre + poème ch.2 |
+| 17 | 003_gauche.svg | Avraham Avinou (gauche) |
+| 18 | 003_droite.svg | Avraham Avinou (droite) |
+| 19 | 004_gauche.svg | Sarah Iménou (gauche) |
+| 20 | 004_droite.svg | Sarah Iménou (droite) |
+| 21 | 005_gauche.svg | Yits'hak Avinou (gauche) |
+| 22 | 005_droite.svg | Yits'hak Avinou (droite) |
+| 23 | 006_gauche.svg | Rivka Iménou (gauche) |
+| 24 | 006_droite.svg | Rivka Iménou (droite) |
+| 25 | 007_gauche.svg | Yaakov Avinou (gauche) |
+| 26 | 007_droite.svg | Yaakov Avinou (droite) |
+| 27 | 008_gauche.svg | Ra'hel et Léa (gauche) |
+| 28 | 008_droite.svg | Ra'hel et Léa (droite) |
+| 29 | 009_gauche.svg | Yossef HaTsadik (gauche) |
+| 30 | 009_droite.svg | Yossef HaTsadik (droite) |
+| 31 | 010_gauche.svg | Yehouda (gauche) |
+| 32 | 010_droite.svg | Yehouda (droite) |
+
+## CHAPITRE 3 — LIBÉRATION ET RÉVÉLATION (p.33-44, 5 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 33 | intercalaire_ch03_gauche.svg | Illustration ch.3 |
+| 34 | intercalaire_ch03_droite.svg | Titre + poème ch.3 |
+| 35 | 011_gauche.svg | Moché Rabbénou (gauche) |
+| 36 | 011_droite.svg | Moché Rabbénou (droite) |
+| 37 | 012_gauche.svg | Aharon HaCohen (gauche) |
+| 38 | 012_droite.svg | Aharon HaCohen (droite) |
+| 39 | 013_gauche.svg | Myriam HaNévia (gauche) |
+| 40 | 013_droite.svg | Myriam HaNévia (droite) |
+| 41 | 014_gauche.svg | Pin'has (gauche) |
+| 42 | 014_droite.svg | Pin'has (droite) |
+| 43 | 015_gauche.svg | Yehoshoua bin Noun (gauche) |
+| 44 | 015_droite.svg | Yehoshoua bin Noun (droite) |
+
+## CHAPITRE 4 — JUGES ET PREMIERS PROPHÈTES (p.45-58, 6 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 45 | intercalaire_ch04_gauche.svg | Illustration ch.4 |
+| 46 | intercalaire_ch04_droite.svg | Titre + poème ch.4 |
+| 47 | 016_gauche.svg | Calev ben Yefoune (gauche) |
+| 48 | 016_droite.svg | Calev ben Yefoune (droite) |
+| 49 | 017_gauche.svg | Déborah (gauche) |
+| 50 | 017_droite.svg | Déborah (droite) |
+| 51 | 018_gauche.svg | Shimshon (gauche) |
+| 52 | 018_droite.svg | Shimshon (droite) |
+| 53 | 019_gauche.svg | Ruth (gauche) |
+| 54 | 019_droite.svg | Ruth (droite) |
+| 55 | 020_gauche.svg | Shmouel HaNavi (gauche) |
+| 56 | 020_droite.svg | Shmouel HaNavi (droite) |
+| 57 | 021_gauche.svg | 'Hanna (gauche) |
+| 58 | 021_droite.svg | 'Hanna (droite) |
+
+## CHAPITRE 5 — LA ROYAUTÉ ET LES GRANDS PROPHÈTES (p.59-76, 8 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 59 | intercalaire_ch05_gauche.svg | Illustration ch.5 |
+| 60 | intercalaire_ch05_droite.svg | Titre + poème ch.5 |
+| 61 | 022_gauche.svg | David HaMélekh (gauche) |
+| 62 | 022_droite.svg | David HaMélekh (droite) |
+| 63 | 023_gauche.svg | Shlomo HaMélekh (gauche) |
+| 64 | 023_droite.svg | Shlomo HaMélekh (droite) |
+| 65 | 024_gauche.svg | Éliyahou HaNavi (gauche) |
+| 66 | 024_droite.svg | Éliyahou HaNavi (droite) |
+| 67 | 025_gauche.svg | Élisha (gauche) |
+| 68 | 025_droite.svg | Élisha (droite) |
+| 69 | 026_gauche.svg | Yéshayahou (gauche) |
+| 70 | 026_droite.svg | Yéshayahou (droite) |
+| 71 | 027_gauche.svg | Yirméyahou (gauche) |
+| 72 | 027_droite.svg | Yirméyahou (droite) |
+| 73 | 028_gauche.svg | Amos (gauche) |
+| 74 | 028_droite.svg | Amos (droite) |
+| 75 | 029_gauche.svg | Yona (gauche) |
+| 76 | 029_droite.svg | Yona (droite) |
+
+## CHAPITRE 6 — LES DERNIERS PROPHÈTES ET LE RETOUR (p.77-90, 6 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 77 | intercalaire_ch06_gauche.svg | Illustration ch.6 |
+| 78 | intercalaire_ch06_droite.svg | Titre + poème ch.6 |
+| 79 | 030_gauche.svg | Osée / HoShéa (gauche) |
+| 80 | 030_droite.svg | Osée / HoShéa (droite) |
+| 81 | 031_gauche.svg | Yé'hezkel (gauche) |
+| 82 | 031_droite.svg | Yé'hezkel (droite) |
+| 83 | 032_gauche.svg | Daniel (gauche) |
+| 84 | 032_droite.svg | Daniel (droite) |
+| 85 | 033_gauche.svg | Ezra HaSofer (gauche) |
+| 86 | 033_droite.svg | Ezra HaSofer (droite) |
+| 87 | 034_gauche.svg | Né'hémia (gauche) |
+| 88 | 034_droite.svg | Né'hémia (droite) |
+| 89 | 035_gauche.svg | Esther HaMalka (gauche) |
+| 90 | 035_droite.svg | Esther HaMalka (droite) |
+
+## CHAPITRE 7 — LES PREMIERS SAGES (p.91-106, 7 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 91 | intercalaire_ch07_gauche.svg | Illustration ch.7 |
+| 92 | intercalaire_ch07_droite.svg | Titre + poème ch.7 |
+| 93 | 036_gauche.svg | Shimon HaTsadik (gauche) |
+| 94 | 036_droite.svg | Shimon HaTsadik (droite) |
+| 95 | 037_gauche.svg | Antigone de Sokho (gauche) |
+| 96 | 037_droite.svg | Antigone de Sokho (droite) |
+| 97 | 038_gauche.svg | Hillel HaZaken (gauche) |
+| 98 | 038_droite.svg | Hillel HaZaken (droite) |
+| 99 | 039_gauche.svg | Shammaï HaZaken (gauche) |
+| 100 | 039_droite.svg | Shammaï HaZaken (droite) |
+| 101 | 040_gauche.svg | Rabban Gamliel (gauche) |
+| 102 | 040_droite.svg | Rabban Gamliel (droite) |
+| 103 | 041_gauche.svg | Yo'hanan ben Zakkaï (gauche) |
+| 104 | 041_droite.svg | Yo'hanan ben Zakkaï (droite) |
+| 105 | 042_gauche.svg | 'Hanina ben Dossa (gauche) |
+| 106 | 042_droite.svg | 'Hanina ben Dossa (droite) |
+
+## CHAPITRE 8 — LES TANNAÏM (p.107-130, 11 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 107 | intercalaire_ch08_gauche.svg | Illustration ch.8 |
+| 108 | intercalaire_ch08_droite.svg | Titre + poème ch.8 |
+| 109 | 043_gauche.svg | Éliézer ben Hyrcanos (gauche) |
+| 110 | 043_droite.svg | Éliézer ben Hyrcanos (droite) |
+| 111 | 044_gauche.svg | Yehoshoua ben 'Hanania (gauche) |
+| 112 | 044_droite.svg | Yehoshoua ben 'Hanania (droite) |
+| 113 | 045_gauche.svg | Rabbi Akiva (gauche) |
+| 114 | 045_droite.svg | Rabbi Akiva (droite) |
+| 115 | 046_gauche.svg | Rabbi Tarfon (gauche) |
+| 116 | 046_droite.svg | Rabbi Tarfon (droite) |
+| 117 | 047_gauche.svg | Rabbi Ishmaël (gauche) |
+| 118 | 047_droite.svg | Rabbi Ishmaël (droite) |
+| 119 | 048_gauche.svg | Shimon bar Kokhba (gauche) |
+| 120 | 048_droite.svg | Shimon bar Kokhba (droite) |
+| 121 | 049_gauche.svg | Rabbi Meïr (gauche) |
+| 122 | 049_droite.svg | Rabbi Meïr (droite) |
+| 123 | 050_gauche.svg | Brouria (gauche) |
+| 124 | 050_droite.svg | Brouria (droite) |
+| 125 | 051_gauche.svg | Shimon bar Yo'haï (gauche) |
+| 126 | 051_droite.svg | Shimon bar Yo'haï (droite) |
+| 127 | 052_gauche.svg | Yehouda bar Ilaï (gauche) |
+| 128 | 052_droite.svg | Yehouda bar Ilaï (droite) |
+| 129 | 053_gauche.svg | Yehouda HaNassi (gauche) |
+| 130 | 053_droite.svg | Yehouda HaNassi (droite) |
+
+## CHAPITRE 9 — LES AMORAÏM (p.131-158, 13 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 131 | intercalaire_ch09_gauche.svg | Illustration ch.9 |
+| 132 | intercalaire_ch09_droite.svg | Titre + poème ch.9 |
+| 133 | 054_gauche.svg | Rav / Abba Arikha (gauche) |
+| 134 | 054_droite.svg | Rav / Abba Arikha (droite) |
+| 135 | 055_gauche.svg | Mar Shmouel (gauche) |
+| 136 | 055_droite.svg | Mar Shmouel (droite) |
+| 137 | 056_gauche.svg | Rabbi Yo'hanan (gauche) |
+| 138 | 056_droite.svg | Rabbi Yo'hanan (droite) |
+| 139 | 057_gauche.svg | Reish Lakish (gauche) |
+| 140 | 057_droite.svg | Reish Lakish (droite) |
+| 141 | 058_gauche.svg | Yehoshoua ben Levi (gauche) |
+| 142 | 058_droite.svg | Yehoshoua ben Levi (droite) |
+| 143 | 059_gauche.svg | Éléazar ben Pedat (gauche) |
+| 144 | 059_droite.svg | Éléazar ben Pedat (droite) |
+| 145 | 060_gauche.svg | Rabbi Abbahou (gauche) |
+| 146 | 060_droite.svg | Rabbi Abbahou (droite) |
+| 147 | 061_gauche.svg | Abbayé (gauche) |
+| 148 | 061_droite.svg | Abbayé (droite) |
+| 149 | 062_gauche.svg | Rava (gauche) |
+| 150 | 062_droite.svg | Rava (droite) |
+| 151 | 063_gauche.svg | Ravina & Rav Ashi (gauche) |
+| 152 | 063_droite.svg | Ravina & Rav Ashi (droite) |
+| 153 | 064_gauche.svg | Rav Saadia Gaon (gauche) |
+| 154 | 064_droite.svg | Rav Saadia Gaon (droite) |
+| 155 | 065_gauche.svg | Rav Sherira Gaon (gauche) |
+| 156 | 065_droite.svg | Rav Sherira Gaon (droite) |
+| 157 | 066_gauche.svg | Rav Haï Gaon (gauche) |
+| 158 | 066_droite.svg | Rav Haï Gaon (droite) |
+
+## CHAPITRE 10 — LES FONDATEURS ASHKÉNAZES (p.159-166, 3 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 159 | intercalaire_ch10_gauche.svg | Illustration ch.10 |
+| 160 | intercalaire_ch10_droite.svg | Titre + poème ch.10 |
+| 161 | 067_gauche.svg | Ba'hya Ibn Paquda (gauche) |
+| 162 | 067_droite.svg | Ba'hya Ibn Paquda (droite) |
+| 163 | 068_gauche.svg | Shlomo Ibn Gabirol (gauche) |
+| 164 | 068_droite.svg | Shlomo Ibn Gabirol (droite) |
+| 165 | 069_gauche.svg | Yehouda Halevi (gauche) |
+| 166 | 069_droite.svg | Yehouda Halevi (droite) |
+
+## CHAPITRE 11 — L'ÂGE D'OR SÉFARADE (p.167-178, 5 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 167 | intercalaire_ch11_gauche.svg | Illustration ch.11 |
+| 168 | intercalaire_ch11_droite.svg | Titre + poème ch.11 |
+| 169 | 070_gauche.svg | Ibn Ezra (gauche) |
+| 170 | 070_droite.svg | Ibn Ezra (droite) |
+| 171 | 071_gauche.svg | Rabbénou Guershom (gauche) |
+| 172 | 071_droite.svg | Rabbénou Guershom (droite) |
+| 173 | 072_gauche.svg | Rif (gauche) |
+| 174 | 072_droite.svg | Rif (droite) |
+| 175 | 073_gauche.svg | Rachi (gauche) |
+| 176 | 073_droite.svg | Rachi (droite) |
+| 177 | 074_gauche.svg | Rabbénou Tam (gauche) |
+| 178 | 074_droite.svg | Rabbénou Tam (droite) |
+
+## CHAPITRE 12 — LES GÉANTS DE L'EXÉGÈSE (p.179-192, 6 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 179 | intercalaire_ch12_gauche.svg | Illustration ch.12 |
+| 180 | intercalaire_ch12_droite.svg | Titre + poème ch.12 |
+| 181 | 075_gauche.svg | Maïmonide (gauche) |
+| 182 | 075_droite.svg | Maïmonide (droite) |
+| 183 | 076_gauche.svg | Radak (gauche) |
+| 184 | 076_droite.svg | Radak (droite) |
+| 185 | 077_gauche.svg | Rokeah (gauche) |
+| 186 | 077_droite.svg | Rokeah (droite) |
+| 187 | 078_gauche.svg | Ramban (gauche) |
+| 188 | 078_droite.svg | Ramban (droite) |
+| 189 | 079_gauche.svg | Yona de Gérone (gauche) |
+| 190 | 079_droite.svg | Yona de Gérone (droite) |
+| 191 | 080_gauche.svg | Rashba (gauche) |
+| 192 | 080_droite.svg | Rashba (droite) |
+
+## CHAPITRE 13 — LES CODIFICATEURS (p.193-206, 6 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 193 | intercalaire_ch13_gauche.svg | Illustration ch.13 |
+| 194 | intercalaire_ch13_droite.svg | Titre + poème ch.13 |
+| 195 | 081_gauche.svg | Ralbag / Gersonide (gauche) |
+| 196 | 081_droite.svg | Ralbag / Gersonide (droite) |
+| 197 | 082_gauche.svg | Méïri (gauche) |
+| 198 | 082_droite.svg | Méïri (droite) |
+| 199 | 083_gauche.svg | Rosh (gauche) |
+| 200 | 083_droite.svg | Rosh (droite) |
+| 201 | 084_gauche.svg | Le Tour (gauche) |
+| 202 | 084_droite.svg | Le Tour (droite) |
+| 203 | 085_gauche.svg | Yossef Karo (gauche) |
+| 204 | 085_droite.svg | Yossef Karo (droite) |
+| 205 | 086_gauche.svg | Rama (gauche) |
+| 206 | 086_droite.svg | Rama (droite) |
+
+## CHAPITRE 14 — COMMENTATEURS ET PENSEURS (p.207-216, 4 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 207 | intercalaire_ch14_gauche.svg | Illustration ch.14 |
+| 208 | intercalaire_ch14_droite.svg | Titre + poème ch.14 |
+| 209 | 087_gauche.svg | Abravanel (gauche) |
+| 210 | 087_droite.svg | Abravanel (droite) |
+| 211 | 088_gauche.svg | Sforno (gauche) |
+| 212 | 088_droite.svg | Sforno (droite) |
+| 213 | 089_gauche.svg | Maharal de Prague (gauche) |
+| 214 | 089_droite.svg | Maharal de Prague (droite) |
+| 215 | 090_gauche.svg | Kli Yakar (gauche) |
+| 216 | 090_droite.svg | Kli Yakar (droite) |
+
+## CHAPITRE 15 — LA KABBALE DE SAFED (p.217-226, 4 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 217 | intercalaire_ch15_gauche.svg | Illustration ch.15 |
+| 218 | intercalaire_ch15_droite.svg | Titre + poème ch.15 |
+| 219 | 091_gauche.svg | Ramak (gauche) |
+| 220 | 091_droite.svg | Ramak (droite) |
+| 221 | 092_gauche.svg | Ari Zal (gauche) |
+| 222 | 092_droite.svg | Ari Zal (droite) |
+| 223 | 093_gauche.svg | 'Haïm Vital (gauche) |
+| 224 | 093_droite.svg | 'Haïm Vital (droite) |
+| 225 | 094_gauche.svg | Or Ha'Haïm Hakadosh (gauche) |
+| 226 | 094_droite.svg | Or Ha'Haïm Hakadosh (droite) |
+
+## CHAPITRE 16 — LE HASSIDISME (p.227-244, 8 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 227 | intercalaire_ch16_gauche.svg | Illustration ch.16 |
+| 228 | intercalaire_ch16_droite.svg | Titre + poème ch.16 |
+| 229 | 095_gauche.svg | Ramhal (gauche) |
+| 230 | 095_droite.svg | Ramhal (droite) |
+| 231 | 096_gauche.svg | Baal Shem Tov (gauche) |
+| 232 | 096_droite.svg | Baal Shem Tov (droite) |
+| 233 | 097_gauche.svg | Maguid de Mezeritch (gauche) |
+| 234 | 097_droite.svg | Maguid de Mezeritch (droite) |
+| 235 | 098_gauche.svg | Elimélekh de Lizhensk (gauche) |
+| 236 | 098_droite.svg | Elimélekh de Lizhensk (droite) |
+| 237 | 099_gauche.svg | Lévi Yits'hak Berditchev (gauche) |
+| 238 | 099_droite.svg | Lévi Yits'hak Berditchev (droite) |
+| 239 | 100_gauche.svg | Na'hman de Breslev (gauche) |
+| 240 | 100_droite.svg | Na'hman de Breslev (droite) |
+| 241 | 101_gauche.svg | Shneur Zalman de Liadi (gauche) |
+| 242 | 101_droite.svg | Shneur Zalman de Liadi (droite) |
+| 243 | 102_gauche.svg | Le Rabbi de Loubavitch (gauche) |
+| 244 | 102_droite.svg | Le Rabbi de Loubavitch (droite) |
+
+## CHAPITRE 17 — LE MONDE LITUANIEN ET LE MOUSSAR (p.245-254, 4 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 245 | intercalaire_ch17_gauche.svg | Illustration ch.17 |
+| 246 | intercalaire_ch17_droite.svg | Titre + poème ch.17 |
+| 247 | 103_gauche.svg | Gaon de Vilna (gauche) |
+| 248 | 103_droite.svg | Gaon de Vilna (droite) |
+| 249 | 104_gauche.svg | 'Haïm de Volozhin (gauche) |
+| 250 | 104_droite.svg | 'Haïm de Volozhin (droite) |
+| 251 | 105_gauche.svg | Yisrael Salanter (gauche) |
+| 252 | 105_droite.svg | Yisrael Salanter (droite) |
+| 253 | 106_gauche.svg | 'Hafets 'Haïm (gauche) |
+| 254 | 106_droite.svg | 'Hafets 'Haïm (droite) |
+
+## CHAPITRE 18 — LES BÂTISSEURS DE LA MODERNITÉ (p.255-280, 12 fiches)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 255 | intercalaire_ch18_gauche.svg | Illustration ch.18 |
+| 256 | intercalaire_ch18_droite.svg | Titre + poème ch.18 |
+| 257 | 107_gauche.svg | Hatam Sofer (gauche) |
+| 258 | 107_droite.svg | Hatam Sofer (droite) |
+| 259 | 108_gauche.svg | S. R. Hirsch (gauche) |
+| 260 | 108_droite.svg | S. R. Hirsch (droite) |
+| 261 | 109_gauche.svg | Rav A.Y. Kook (gauche) |
+| 262 | 109_droite.svg | Rav A.Y. Kook (droite) |
+| 263 | 110_gauche.svg | 'Hazon Ish (gauche) |
+| 264 | 110_droite.svg | 'Hazon Ish (droite) |
+| 265 | 111_gauche.svg | Sarah Schenirer (gauche) |
+| 266 | 111_droite.svg | Sarah Schenirer (droite) |
+| 267 | 112_gauche.svg | Tsvi Yehouda Kook (gauche) |
+| 268 | 112_droite.svg | Tsvi Yehouda Kook (droite) |
+| 269 | 113_gauche.svg | Moshé Feinstein (gauche) |
+| 270 | 113_droite.svg | Moshé Feinstein (droite) |
+| 271 | 114_gauche.svg | Soloveitchik (gauche) |
+| 272 | 114_droite.svg | Soloveitchik (droite) |
+| 273 | 115_gauche.svg | Né'hama Leibowitz (gauche) |
+| 274 | 115_droite.svg | Né'hama Leibowitz (droite) |
+| 275 | 116_gauche.svg | Rav Ovadia Yossef (gauche) |
+| 276 | 116_droite.svg | Rav Ovadia Yossef (droite) |
+| 277 | 117_gauche.svg | Rav Steinsaltz (gauche) |
+| 278 | 117_droite.svg | Rav Steinsaltz (droite) |
+| 279 | 118_gauche.svg | Jonathan Sacks (gauche) |
+| 280 | 118_droite.svg | Jonathan Sacks (droite) |
+
+## PAGES FINALES (p.281-296)
+
+| Page | Fichier | Contenu |
+|------|---------|---------|
+| 281 | annexe_glossaire_p1.html | Glossaire (1/6) |
+| 282 | annexe_glossaire_p2.html | Glossaire (2/6) |
+| 283 | annexe_glossaire_p3.html | Glossaire (3/6) |
+| 284 | annexe_glossaire_p4.html | Glossaire (4/6) |
+| 285 | annexe_glossaire_p5.html | Glossaire (5/6) |
+| 286 | annexe_glossaire_p6.html | Glossaire (6/6) |
+| 287 | annexe_index_p1.html | Index thématique (1/4) |
+| 288 | annexe_index_p2.html | Index thématique (2/4) |
+| 289 | annexe_index_p3.html | Index thématique (3/4) |
+| 290 | annexe_index_p4.html | Index thématique (4/4) |
+| 291 | annexe_mentions_legales.html | Mentions légales |
+| 292 | annexe_notes_p1.html | Notes personnelles (1/5) |
+| 293 | annexe_notes_p2.html | Notes personnelles (2/5) |
+| 294 | annexe_notes_p3.html | Notes personnelles (3/5) |
+| 295 | annexe_notes_p4.html | Notes personnelles (4/5) |
+| 296 | annexe_notes_p5.html | Notes personnelles (5/5) |
+
+---
+
+**Récapitulatif :** 8 liminaires + 36 intercalaires + 236 fiches + 16 finales = **296 pages** ✓
+
+On passe au script de renommage ?

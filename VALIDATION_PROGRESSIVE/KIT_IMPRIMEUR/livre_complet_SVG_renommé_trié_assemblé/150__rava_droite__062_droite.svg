@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#5B7BA3" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#5B7BA3" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#5B7BA3" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2D4A6E" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E0EBF5" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rava  —  רָבָא</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Rava enseignait une prière qui est devenue célèbre : Maître du monde, avant que je ne</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sois formé je ne valais rien, et maintenant que je suis formé c&apos;est comme si je n&apos;avais</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">pas été formé, je suis poussière de mon vivant et à plus forte raison après ma mort.</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Cette prière d&apos;humilité est récitée après le Shemoneh Esreh dans certaines traditions.</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Le Talmud rapporte que Rava tenait à ce que la halakha soit tranchée avec rigueur mais</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">appliquée avec miséricorde. Il disait que le juge qui juge avec vérité et droiture fait</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">résider la Présence divine en Israël, et celui qui juge avec mensonge fait partir la</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Présence divine. Sa domination intellectuelle était telle que la halakha suit presque</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">toujours son opinion contre Abbayé, sauf dans les six cas célèbres.</tspan>
+</text>
+  <line x1="60" y1="204.5" x2="365" y2="204.5" stroke="#5B7BA3" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="208.5" font-family="Georgia,serif" font-size="7" fill="#2B6D95" text-anchor="middle">✦</text>
+  <rect x="28" y="219.5" width="369" height="95" rx="4" fill="#EFE6D8" stroke="#5B7BA3" stroke-width="0.4"/>
+  <text x="212" y="233.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2038" font-style="italic">
+<tspan x="38" y="247.5">Rava disait à ses élèves : je vous en prie, pendant les mois de Nissan et de Tishri</tspan>
+<tspan x="38" dy="13">ne venez pas devant moi, afin que vous vous occupiez de votre subsistance pendant</tspan>
+<tspan x="38" dy="13">le reste de l&apos;année et que vous ne soyez pas préoccupés par vos besoins matériels</tspan>
+<tspan x="38" dy="13">pendant vos études. Les Sages enseignent que même le plus grand maître doit veiller</tspan>
+<tspan x="38" dy="13" letter-spacing="0.4">à ce que ses disciples ne négligent pas les nécessités de la vie quotidienne.</tspan>
+</text>
+  <text x="390" y="310.5" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Berakhot 35b</text>
+  <line x1="60" y1="324.5" x2="365" y2="324.5" stroke="#5B7BA3" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="336.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="343.5" width="179" height="48" rx="3" fill="none" stroke="#5B7BA3" stroke-width="0.35"/>
+  <text x="116" y="358.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold">Le Pilpoul</text>
+  <text x="116" y="372.5" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Méthode d&apos;analyse qui structure toute l&apos;étude.</text>
+  <rect x="218" y="343.5" width="179" height="48" rx="3" fill="none" stroke="#5B7BA3" stroke-width="0.35"/>
+  <text x="309" y="358.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" text-anchor="middle" font-weight="bold">La Prière</text>
+  <text x="309" y="372.5" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">L&apos;humilité devant D.ieu nourrit la rigueur.</text>
+  <line x1="60" y1="399.5" x2="365" y2="399.5" stroke="#5B7BA3" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="412.5" font-family="Georgia,serif" font-size="7.8" fill="#0C2038" text-anchor="middle" font-style="italic">« La halakha suit Rava sauf dans six cas. »</text>
+  <text x="212" y="425.5" font-family="Georgia,serif" font-size="7.8" fill="#0C2038" text-anchor="middle" font-style="italic">« Le juge véridique fait résider la Présence divine. »</text>
+  <line x1="60" y1="426.5" x2="365" y2="426.5" stroke="#5B7BA3" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="445.5" font-family="Georgia,serif" font-size="7.5" fill="#0C2038" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#65605A">
+<tspan x="28" y="458.5">maitre: Rav Yossef, Rav Na&apos;hman</tspan>
+<tspan x="28" dy="13.0">disciples: Rav Papa, Rav Houna bar Rav Yehoshoua</tspan>
+<tspan x="28" dy="13.0">contemporain: Abbayé de Poumbedita</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2D4A6E" opacity="8.8" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">125</text>
+</svg>
