@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#7B5BA0" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#7B5BA0" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#7B5BA0" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#5C3D7A" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E8DAF0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbénou Tam  —  רַבֵּנוּ תָּם</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Rabbénou Tam s&apos;opposa à plusieurs interprétations de Rachi avec une audace</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">intellectuelle qui stupéfia ses contemporains, n&apos;hésitant pas à contredire son propre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">grand-père quand la logique talmudique l&apos;exigeait. La controverse la plus célèbre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">concerne l&apos;ordre des parchemins dans les Téfilines : Rabbénou Tam proposa un ordre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">différent de celui de Rachi, et certains juifs pieux portent encore aujourd&apos;hui les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">deux types de Téfilines. Il présida un synode rabbinique à Troyes qui légiféra pour</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">toutes les communautés de France et de Rhénanie, confirmant les décrets de Rabbénou</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Guershom. Survivant des massacres de la deuxième croisade, il consacra ses dernières</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">années à former une génération de talmudistes brillants. Sa méthode dialectique, qui</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">confronte les passages contradictoires du Talmud, reste fondamentale.</tspan>
+</text>
+  <line x1="60" y1="210.0" x2="365" y2="210.0" stroke="#7B5BA0" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="214.0" font-family="Georgia,serif" font-size="7" fill="#7B5BA0" text-anchor="middle">✦</text>
+  <rect x="28" y="225.0" width="369" height="95" rx="4" fill="#EFE6D8" stroke="#7B5BA0" stroke-width="0.4"/>
+  <text x="212" y="239.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#4A4540" font-style="italic">
+<tspan x="38" y="253.0">Lors des massacres de la deuxième croisade en 1147, des émeutiers attaquèrent</tspan>
+<tspan x="38" dy="13">la maison de Rabbénou Tam à Ramerupt. Ils le frappèrent de cinq coups à la</tspan>
+<tspan x="38" dy="13">tête en disant : Voici les cinq blessures que tu as infligées à notre dieu.</tspan>
+<tspan x="38" dy="13">Un chevalier le sauva in extremis en échange d&apos;un cheval. Rabbénou Tam</tspan>
+<tspan x="38" dy="13" letter-spacing="0.4">survécut et consacra le reste de sa vie à renforcer les institutions.</tspan>
+</text>
+  <text x="390" y="316.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Séfer HaZekhira d&apos;Ephraïm de Bonn</text>
+  <line x1="60" y1="330.0" x2="365" y2="330.0" stroke="#7B5BA0" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="342.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="349.0" width="179" height="48" rx="3" fill="none" stroke="#7B5BA0" stroke-width="0.35"/>
+  <text x="116" y="364.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold">Les Tossafot</text>
+  <text x="116" y="378.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Questions critiques qui révolutionnèrent le Talmud.</text>
+  <rect x="218" y="349.0" width="179" height="48" rx="3" fill="none" stroke="#7B5BA0" stroke-width="0.35"/>
+  <text x="309" y="364.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" text-anchor="middle" font-weight="bold">Les Tefilin</text>
+  <text x="309" y="378.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">L&apos;ordre des parchemins selon Rabbénou Tam.</text>
+  <line x1="60" y1="405.0" x2="365" y2="405.0" stroke="#7B5BA0" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="418.0" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" text-anchor="middle" font-style="italic">« Rachi explique, Rabbénou Tam interroge. »</text>
+  <text x="212" y="431.0" font-family="Georgia,serif" font-size="7.8" fill="#3A2510" text-anchor="middle" font-style="italic">« La grandeur d&apos;un commentaire se mesure aux questions qu&apos;il suscite. »</text>
+  <line x1="60" y1="440.0" x2="365" y2="440.0" stroke="#7B5BA0" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="456.0" font-family="Georgia,serif" font-size="7.5" fill="#3A2510" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#65605A">
+<tspan x="28" y="469.0">maître : Rachi, son grand-père maternel, dont il poursuivit l&apos;œuvre talmudique</tspan>
+<tspan x="28" dy="13.0">disciples : Les Tossafistes de France et d&apos;Allemagne</tspan>
+<tspan x="28" dy="13.0">contemporains : Son frère Rashbam, Rabbi Éliézer de Metz, les maîtres rhénans</tspan>
+<tspan x="28" dy="13.0">héritage : Les Tossafot — l&apos;analyse critique et dialectique qui complète Rachi</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#5C3D7A" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E8DAF0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">149</text>
+</svg>
