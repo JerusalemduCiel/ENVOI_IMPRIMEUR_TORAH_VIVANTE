@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#7B5BA0" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#7B5BA0" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#7B5BA0" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#5C3D7A" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E8DAF0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rif (Rabbi Its&apos;hak Alfassi)  —  רי״ף</text>
+<text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Rif mourut à Lucena en 1103 à l&apos;âge de quatre-vingt-dix ans, vénéré par les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">communautés d&apos;Espagne et d&apos;Afrique du Nord. Son disciple le plus illustre fut Rabbi</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Yossef Ibn Migash, qui devint à son tour le maître du père du Rambam, créant une chaîne</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de transmission directe entre le Rif et Maïmonide. Cette lignée intellectuelle Rif-Ibn</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Migash-Rambam est l&apos;une des plus prestigieuses de l&apos;histoire halakhique. Le Halakhot du</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Rif fut commenté par de nombreux Sages, notamment le Ramban qui écrivit les Milhamot</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">Hachem pour le défendre contre les critiques du Baal HaMaor de Lunel.</tspan>
+</text>
+  <line x1="60" y1="169.0" x2="365" y2="169.0" stroke="#7B5BA0" stroke-width="0.5" opacity="0.35"/>
+  <text x="28" y="184.0" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+  <rect x="28" y="187.0" width="369" height="90" rx="4" fill="#EFE6D8" stroke="#7B5BA0" stroke-width="0.4"/>
+  <text x="38" y="201.0" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Halakhot (Talmud Petit)</text>
+  <text x="38" y="212.0" font-family="Georgia,serif" font-size="6.8" fill="#6B5B3A" font-style="italic">Abrégé systématique du Talmud limité aux conclusions halakhiques</text>
+  <text x="38" y="229.0" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Responsa</text>
+  <text x="38" y="240.0" font-family="Georgia,serif" font-size="6.8" fill="#6B5B3A" font-style="italic">Réponses sur les questions de droit et de pratique quotidienne</text>
+  <text x="38" y="257.0" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Commentaires</text>
+  <text x="38" y="268.0" font-family="Georgia,serif" font-size="6.8" fill="#6B5B3A" font-style="italic">Notes et gloses sur plusieurs traités talmudiques</text>
+  <rect x="28" y="284.0" width="369" height="61.5" rx="4" fill="#EFE6D8" stroke="#7B5BA0" stroke-width="0.4"/>
+  <text x="212" y="298.0" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1.2">LE SAVIEZ-VOUS ?</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+<tspan x="38" y="312.0">Le Rif est l&apos;un des trois piliers du Shoul&apos;han Aroukh. Rabbi Yossef Karo décida de</tspan>
+<tspan x="38" dy="12.5">suivre l&apos;opinion majoritaire parmi le Rif, le Rambam et le Rosh : quand deux des</tspan>
+<tspan x="38" dy="12.5">trois s&apos;accordent, la halakha est fixée. Ce système de vote à trois est unique dans</tspan>
+</text>
+  <line x1="60" y1="350.5" x2="365" y2="350.5" stroke="#7B5BA0" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="355.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="359.5" width="179" height="42" rx="3" fill="none" stroke="#7B5BA0" stroke-width="0.35"/>
+  <text x="116" y="374.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">Le Halakhot</text>
+  <text x="116" y="388.5" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Premier code halakhique extrait du Talmud.</text>
+  <rect x="218" y="359.5" width="179" height="42" rx="3" fill="none" stroke="#7B5BA0" stroke-width="0.35"/>
+  <text x="309" y="374.5" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Codification</text>
+  <text x="309" y="388.5" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Modèle de toute la codification ultérieure.</text>
+  <line x1="60" y1="410.5" x2="365" y2="410.5" stroke="#7B5BA0" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="423.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Du Talmud au code : extraire la loi de la discussion. »</text>
+  <text x="212" y="436.5" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« L&apos;un des trois piliers du Shoul&apos;han Aroukh. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#5C3D7A" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E8DAF0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">145</text>
+</svg>
