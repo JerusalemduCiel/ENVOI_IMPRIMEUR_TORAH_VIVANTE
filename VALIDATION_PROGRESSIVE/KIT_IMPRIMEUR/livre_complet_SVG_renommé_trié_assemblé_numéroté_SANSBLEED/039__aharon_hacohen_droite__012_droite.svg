@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.35" fill="none" stroke="#D4A94A" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#8B6914" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#FBF7F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Aharon HaCohen  —  אַהֲרֹן הַכֹּהֵן</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" font-weight="bold" letter-spacing="1.5">RÉCIT (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">L&apos;inauguration du Tabernacle fut le sommet du service sacerdotal d&apos;Aharon. Pendant sept</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">jours, Moché officia seul, puis le huitième jour il dit à Aharon : approche-toi de</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">l&apos;autel et accomplis ton service. Le Midrash rapporte qu&apos;Aharon hésitait, se sentant</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">indigne après l&apos;épisode du veau d&apos;or, et que Moché dut l&apos;encourager en lui disant :</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">c&apos;est pour cela que tu as été choisi. Lorsqu&apos;Aharon accomplit le service et bénit le</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">peuple, la gloire de D.ieu apparut à tout le peuple et un feu descendit du ciel pour</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">consumer les offrandes sur l&apos;autel. Ce jour même, ses deux fils aînés, Nadav et Avihou,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">offrirent un feu étranger devant D.ieu et moururent foudroyés. Le texte dit : et Aharon</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">se tut, vayidom Aharon. Ce silence face à la tragédie la plus terrible est considéré</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">par les Sages comme l&apos;un des plus grands actes de foi de toute la Torah, une</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">acceptation totale du jugement divin sans révolte ni amertume. D.ieu récompensa ce</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">silence en adressant directement à Aharon, et non par l&apos;intermédiaire de Moché, les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">lois relatives au service des Cohanim dans le Temple. Aharon mourut au mont Hor à l&apos;âge</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de cent vingt- trois ans, et la Torah rapporte que toute la maison d&apos;Israël le pleura</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">trente jours, hommes et femmes ensemble, car il était aimé de tous sans exception. Les</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">nuées de gloire qui protégeaient le peuple dans le désert disparurent à sa mort,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">témoignant du mérite immense de celui qui avait consacré sa vie entière à la paix et à</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">la réconciliation entre les hommes et entre l&apos;homme et son Créateur.</tspan>
+</text>
+  <line x1="60" y1="326.0" x2="365" y2="326.0" stroke="#D4A94A" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="330.0" font-family="Georgia,serif" font-size="7" fill="#C44B30" text-anchor="middle">✦</text>
+  <rect x="28" y="338.0" width="369" height="90" rx="4" fill="#EFE6D8" stroke="#D4A94A" stroke-width="0.4"/>
+  <text x="212" y="350.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" text-anchor="middle" font-weight="bold" letter-spacing="1">MIDRASH</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#65605A" font-style="italic">
+<tspan x="38" y="363.0">Comment Aharon rétablissait-il la paix ? Il allait voir le premier et lui disait :</tspan>
+<tspan x="38" dy="13">ton ami regrette et veut se réconcilier. Puis il allait voir l&apos;autre et lui disait la</tspan>
+<tspan x="38" dy="13">même chose. Quand ils se rencontraient, ils s&apos;embrassaient. C&apos;est pourquoi à sa mort</tspan>
+<tspan x="38" dy="13" letter-spacing="0.4">tout Israël pleura, hommes et femmes, car tous avaient bénéficié de sa bonté.</tspan>
+</text>
+  <text x="390" y="424.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Avot deRabbi Nathan 12:3</text>
+  <line x1="60" y1="433.0" x2="365" y2="433.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="451.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="458.0" width="179" height="38" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="116" y="473.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" text-anchor="middle" font-weight="bold">La Paix</text>
+  <text x="116" y="487.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Réconcilier les cœurs, mission sacerdotale.</text>
+  <rect x="218" y="458.0" width="179" height="38" rx="3" fill="none" stroke="#D4A94A" stroke-width="0.35"/>
+  <text x="309" y="473.0" font-family="Georgia,serif" font-size="7.5" fill="#3A1810" text-anchor="middle" font-weight="bold">Le Service</text>
+  <text x="309" y="487.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Le Temple intérieur de chaque homme.</text>
+  <line x1="60" y1="505.0" x2="365" y2="505.0" stroke="#D4A94A" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="518.0" font-family="Georgia,serif" font-size="7.8" fill="#3A1810" text-anchor="middle" font-style="italic">« Le silence d&apos;Aharon face à la tragédie est foi pure. »</text>
+  <text x="212" y="529.0" font-family="Georgia,serif" font-size="7.8" fill="#3A1810" text-anchor="middle" font-style="italic">« La joie du cœur d&apos;autrui est la vraie prêtrise. »</text>
+  <rect x="13" y="557" width="399" height="25" fill="#8B6914" opacity="0.85" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#FBF7F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">39</text>
+</svg>

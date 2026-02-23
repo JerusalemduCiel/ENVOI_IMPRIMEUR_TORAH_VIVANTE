@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#A0523D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#A0523D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#A0523D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR TERRE DE SIENNE -->
+    <rect x="13" y="13" width="399" height="26" fill="#6E2E1E" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9.5" fill="#F0D8C8" text-anchor="middle" font-weight="bold" letter-spacing="0.6">Rabbi Jonathan Sacks  —  הרב יונתן זקס</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt, 7 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="76" textLength="370" lengthAdjust="spacing">Rabbi Sacks fut anobli par la Reine d'Angleterre et siégea à la Chambre des Lords</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sous le titre de Baron Sacks of Aldgate. Il enseigna dans les plus grandes</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">universités du monde, de New York à Jérusalem. Il mourut en novembre 2020,</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">emporté par un cancer, et le monde entier salua la perte d'une voix morale</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">irremplaçable. Son dernier ouvrage, publié à titre posthume, porte le titre</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">révélateur de Morality : un appel à la responsabilité éthique dans un monde</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">fragmenté, testament d'un homme qui parlait au nom de l'humanité entière.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="200" x2="365" y2="200" stroke="#A0523D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="204" font-family="Georgia,serif" font-size="7" fill="#A0523D" text-anchor="middle">✦</text>
+
+    <!-- ANECDOTE — 6 lignes complètes -->
+    <rect x="28" y="212" width="369" height="108" rx="4" fill="#EFE6D8" stroke="#A0523D" stroke-width="0.5"/>
+    <text x="212" y="227" font-family="Georgia,serif" font-size="8" fill="#5A3020" text-anchor="middle" font-weight="bold" letter-spacing="1.5">ANECDOTE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-style="italic">
+      <tspan x="38" y="242">Rabbi Sacks racontait que lors de sa première rencontre avec le Rabbi de</tspan>
+      <tspan x="38" dy="13.5">Loubavitch, il était un jeune étudiant en philosophie qui doutait de sa vocation.</tspan>
+      <tspan x="38" dy="13.5">Le Rabbi le regarda dans les yeux et lui posa une seule question : « Combien de</tspan>
+      <tspan x="38" dy="13.5">personnes avez-vous rapprochées du judaïsme cette semaine ? » Cette question</tspan>
+      <tspan x="38" dy="13.5">transforma sa vie. Il comprit que le judaïsme n'est pas une philosophie à étudier</tspan>
+      <tspan x="38" dy="13.5" letter-spacing="0.4">mais une mission à accomplir chaque jour de sa vie.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="328" x2="365" y2="328" stroke="#A0523D" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="28" y="344" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="28" y="352" width="369" height="72" rx="4" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#5A3020">
+      <tspan x="38" y="368"  letter-spacing="0.3">« Ne soyez pas un preneur, soyez un donneur. »</tspan>
+      <tspan x="38" dy="13.5" textLength="330" lengthAdjust="spacing">« La dignité de la différence est le fondement de la paix. »</tspan>
+      <tspan x="38" dy="13.5" textLength="330" lengthAdjust="spacing">« La Torah est la voix de D.ieu dans le langage des hommes. »</tspan>
+      <tspan x="38" dy="13.5">« Le leadership consiste à donner aux autres la force de grandir. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="433" x2="365" y2="433" stroke="#A0523D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="449" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="456" width="179" height="42" rx="3" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text x="116" y="471" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" text-anchor="middle" font-weight="bold">La Pensée</text>
+    <text x="116" y="485" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">La Torah dans le langage du monde moderne.</text>
+    
+    <rect x="218" y="456" width="179" height="42" rx="3" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text x="309" y="471" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" text-anchor="middle" font-weight="bold">Le Dialogue</text>
+    <text x="309" y="485" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">La dignité de la différence entre les peuples.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="28" y="514" font-family="Georgia,serif" font-size="7" fill="#5A3020" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="28" y="525" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : Le Rabbi de Loubavitch</text>
+    <text x="28" y="536" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Le monde anglophone et au-delà</text>
+
+    <!-- BANDEAU INFÉRIEUR TERRE DE SIENNE -->
+    <rect x="13" y="557" width="399" height="25" fill="#6E2E1E" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F0D8C8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">281</text>
+  </svg>

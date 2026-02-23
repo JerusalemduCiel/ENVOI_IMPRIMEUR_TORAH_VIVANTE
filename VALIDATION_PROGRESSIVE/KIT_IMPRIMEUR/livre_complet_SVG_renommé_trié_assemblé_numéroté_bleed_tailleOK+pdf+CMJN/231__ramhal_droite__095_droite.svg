@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#BE913D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#BE913D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#BE913D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#7A5C20" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9.5" fill="#D8F0D8" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ramhal (Rabbi Moché 'Haïm Luzzatto)  —  רמח״ל</text>
+
+    <!-- BIOGRAPHIE (suite) — 6 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Ramhal mourut à Acre en Terre d'Israël en 1746, à l'âge de trente-neuf ans, emporté</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">par une épidémie de peste avec toute sa famille. Le Gaon de Vilna, autorité suprême du</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">monde lituanien, déclara que si le Ramhal avait vécu à son époque, il aurait marché</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">quatre cents milles à pied pour étudier à ses pieds. Cette reconnaissance posthume</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">témoigne de la grandeur universellement admise du Ramhal, qui transcende les clivages</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">entre mystiques et rationalistes.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="165" x2="365" y2="165" stroke="#BE913D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="169" font-family="Georgia,serif" font-size="7" fill="#7A5C20" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="184" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="192" width="369" height="125" rx="4" fill="#EFE6D8" stroke="#BE913D" stroke-width="0.4"/>
+    
+    <text x="38" y="205" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Messilat Yesharim (Le Chemin des Justes)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="218">Guide suprême du perfectionnement moral, structurant l'ascension spirituelle en</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">degrés progressifs. Le Gaon de Vilna déclara ses dix premiers chapitres parfaits.</tspan>
+    </text>
+    
+    <text x="38" y="245" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Dérekh Hashem (La Voie de D.ieu)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="258">Exposé systématique des fondements de la foi juive : existence de D.ieu, providence,</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">âme, prophétie et sens des mitsvot. Clarté philosophique exceptionnelle.</tspan>
+    </text>
+    
+    <text x="38" y="285" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">138 Portes de la Sagesse (Klah Pit'hé 'Hokhma)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="298">Introduction systématique à la Kabbale lourianique en 138 chapitres, rendant</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">accessibles les concepts les plus profonds du Ari Zal.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="325" x2="365" y2="325" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="332" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="343" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="38" y="355">Le Ramhal fut persécuté par les rabbins d'Italie qui lui interdirent d'enseigner la Kabbale.</tspan>
+      <tspan x="38" dy="12.5">Il s'exila à Amsterdam où il rédigea le Messilat Yesharim. Le Gaon de Vilna déclara après</tspan>
+      <tspan x="38" dy="12.5">l'avoir lu que les dix premiers chapitres étaient parfaits : il n'y changerait pas un mot.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="406" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="413" width="179" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" text-anchor="middle" font-weight="bold">Le Messilat Yesharim</text>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Guide suprême du perfectionnement</text>
+    <text x="116" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">moral. Étudié dans toutes les yeshivot.</text>
+    
+    <rect x="218" y="413" width="179" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" text-anchor="middle" font-weight="bold">La Kabbale</text>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Enseignements mystiques d'une</text>
+    <text x="309" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">profondeur et d'une clarté inouïes.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="468" x2="365" y2="468" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="484" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" text-anchor="middle" font-style="italic">« La piété est la couronne de toutes les vertus. »</text>
+    <text x="212" y="499" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" text-anchor="middle" font-style="italic">« Le génie persécuté finit par être reconnu. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#389560" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D8F0D8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">231</text>
+  </svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="alef"
+   width="1296.3828"
+   height="820.15747"
+   viewBox="0 0 1296.3828 820.15747"
+   xmlns="http://www.w3.org/2000/svg">
+  
+  <!-- ALEF (א) - Lettre hébraïque isolée pour embossage -->
+  <g opacity="0.13" fill="#D4A94A">
+    <text x="648.19" 
+          y="450" 
+          font-family="Georgia, serif" 
+          font-size="320" 
+          font-weight="bold" 
+          text-anchor="middle">א</text>
+  </g>
+  
+</svg>

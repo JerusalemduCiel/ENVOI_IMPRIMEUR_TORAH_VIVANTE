@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+  <rect width="425" height="595" fill="#F5EEE1"/>
+  <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#5B7BA3" stroke-width="0.7" opacity="0.4"/>
+  <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#5B7BA3" stroke-width="0.3" opacity="0.25"/>
+  <g opacity="0.3" fill="none" stroke="#5B7BA3" stroke-width="0.6">
+    <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+    <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+    <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+    <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+  </g>
+  <rect x="13" y="13" width="399" height="26" fill="#2D4A6E" opacity="0.92" rx="1"/>
+  <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E0EBF5" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Hillel HaZaken  —  הִלֵּל הַזָּקֵן</text>
+  <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+  <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+<tspan x="28" y="73" textLength="370" lengthAdjust="spacing">L&apos;enseignement le plus célèbre de Hillel fut donné à un païen qui demanda à apprendre</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">toute la Torah en se tenant sur un pied. Hillel lui répondit : ce qui est détestable à</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">tes yeux, ne le fais pas à ton prochain, c&apos;est là toute la Torah, le reste n&apos;est que</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">commentaire, va et étudie. Le Talmud enseigne aussi que Hillel institua le prouzboul,</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">un document juridique qui permettait de contourner l&apos;annulation des dettes de l&apos;année</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sabbatique, afin que les pauvres puissent continuer à emprunter. Ses sept règles</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">d&apos;interprétation de la Torah, les midot, sont devenues la base de toute l&apos;herméneutique</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">rabbinique. Sa descendance dirigea le peuple juif pendant quatre cents ans, jusqu&apos;à</tspan>
+<tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Rabban Gamliel VI, preuve que l&apos;humilité engendre une royauté durable. Les Sages</tspan>
+<tspan x="28" dy="13.5" letter-spacing="0.4">conclurent que Hillel réunissait les deux couronnes de la Torah et de la bonté.</tspan>
+</text>
+  <line x1="60" y1="218.0" x2="365" y2="218.0" stroke="#5B7BA3" stroke-width="0.5" opacity="0.35"/>
+  <text x="212" y="222.0" font-family="Georgia,serif" font-size="7" fill="#2E75A0" text-anchor="middle">✦</text>
+  <rect x="28" y="233.0" width="369" height="95" rx="4" fill="#EFE6D8" stroke="#5B7BA3" stroke-width="0.4"/>
+  <text x="212" y="247.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" text-anchor="middle" font-weight="bold" letter-spacing="1">ANECDOTE TALMUDIQUE</text>
+  <text font-family="Georgia,serif" font-size="7.8" fill="#0C2840" font-style="italic">
+<tspan x="38" y="261.0">Un jour, Hillel vit un crâne flotter sur l&apos;eau et dit : parce que tu as noyé, on</tspan>
+<tspan x="38" dy="13">t&apos;a noyé, et ceux qui t&apos;ont noyé finiront noyés eux aussi. Ce n&apos;est pas une</tspan>
+<tspan x="38" dy="13">malédiction mais l&apos;enseignement que toute action humaine revient à son auteur. Le</tspan>
+<tspan x="38" dy="13">monde est régi par une justice parfaite que l&apos;homme ne perçoit pas toujours mais</tspan>
+<tspan x="38" dy="13" letter-spacing="0.4">qui opère sans relâche dans les profondeurs de la Providence divine.</tspan>
+</text>
+  <text x="390" y="324.0" font-family="Georgia,serif" font-size="6" fill="#8899AA" text-anchor="end">— Pirké Avot 2:6</text>
+  <line x1="60" y1="338.0" x2="365" y2="338.0" stroke="#5B7BA3" stroke-width="0.4" opacity="0.3"/>
+  <text x="28" y="350.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+  <rect x="28" y="357.0" width="179" height="48" rx="3" fill="none" stroke="#5B7BA3" stroke-width="0.35"/>
+  <text x="116" y="372.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" text-anchor="middle" font-weight="bold">La Patience</text>
+  <text x="116" y="386.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Accueillir chaque homme avec douceur.</text>
+  <rect x="218" y="357.0" width="179" height="48" rx="3" fill="none" stroke="#5B7BA3" stroke-width="0.35"/>
+  <text x="309" y="372.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" text-anchor="middle" font-weight="bold">Le Prouzboul</text>
+  <text x="309" y="386.0" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Adapter la loi pour protéger les pauvres.</text>
+  <line x1="60" y1="413.0" x2="365" y2="413.0" stroke="#5B7BA3" stroke-width="0.4" opacity="0.25"/>
+  <text x="212" y="426.0" font-family="Georgia,serif" font-size="7.8" fill="#0C2840" text-anchor="middle" font-style="italic">« Si je ne suis pas pour moi, qui sera pour moi ? »</text>
+  <text x="212" y="439.0" font-family="Georgia,serif" font-size="7.8" fill="#0C2840" text-anchor="middle" font-style="italic">« Ne te sépare pas de la communauté. »</text>
+  <line x1="60" y1="440.0" x2="365" y2="440.0" stroke="#5B7BA3" stroke-width="0.4" opacity="0.25"/>
+  <text x="28" y="459.0" font-family="Georgia,serif" font-size="7.5" fill="#0C2840" font-weight="bold" letter-spacing="1.5">CHAÎNE DE TRANSMISSION</text>
+  <text font-family="Georgia,serif" font-size="7.5" fill="#65605A">
+<tspan x="28" y="472.0">maitre: Shemaya et Avtalion</tspan>
+<tspan x="28" dy="13.0">disciples: Rabban Gamliel, Yo&apos;hanan ben Zakkaï</tspan>
+<tspan x="28" dy="13.0">contemporain: Shammaï</tspan>
+</text>
+  <rect x="13" y="557" width="399" height="25" fill="#2D4A6E" opacity="8.8" rx="1"/>
+  <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E0EBF5" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+  <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">99</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+    <g opacity="0.35" fill="none" stroke="#C4973B" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+    <text x="212" y="55" font-family="Georgia,serif" font-size="11" fill="#A07828" text-anchor="middle" letter-spacing="5">C H A P I T R E   2</text>
+    <text x="212" y="72" font-family="Georgia,serif" font-size="11" fill="#D4A94A" text-anchor="middle">— ✦ —</text>
+    <text x="212" y="108" font-family="Georgia,serif" font-size="30" fill="#A07828" text-anchor="middle" font-weight="bold" letter-spacing="1">Les Patriarches</text>
+    <text x="212" y="132" font-family="Georgia,serif" font-size="12" fill="#6B5B3A" text-anchor="middle" font-style="italic">Les Pères et Mères du Peuple d'Israël</text>
+    <text x="212" y="150" font-family="Georgia,serif" font-size="8" fill="#9A9080" text-anchor="middle" letter-spacing="2">BERESHIT · L'ALLIANCE ET LA PROMESSE</text>
+    <text x="212" y="168" font-family="Georgia,serif" font-size="8" fill="#D4A94A" text-anchor="middle" letter-spacing="8">· · ·</text>
+    <text font-family="Georgia,serif" font-size="11.5" fill="#4A4540" text-anchor="middle" font-style="italic">
+      <tspan x="212" y="208">Avraham quitta tout pour une voix sans visage,</tspan>
+      <tspan x="212" y="227">Sarah rit sous la tente et enfanta l'espérance,</tspan>
+      <tspan x="212" y="246">Yits'hak accepta le bûcher dans le silence,</tspan>
+      <tspan x="212" y="265">Rivka puisa l'eau qui abreuve les voyages.</tspan>
+      <tspan x="212" y="292">Yaakov lutta avec l'ange jusqu'à l'aurore,</tspan>
+      <tspan x="212" y="311">Ra'hel pleura ses fils sur le bord du chemin,</tspan>
+      <tspan x="212" y="330">Yossef rêva d'étoiles dans un puits sans lendemain,</tspan>
+      <tspan x="212" y="349">Et Yehouda se leva — car un roi dort encore.</tspan>
+    </text>
+    <line x1="70" y1="388" x2="355" y2="388" stroke="#D4A94A" stroke-width="0.6" opacity="0.5"/>
+    <text font-family="Georgia,serif" font-size="11" fill="#4A4540" text-anchor="middle" font-style="italic" font-weight="500">
+      <tspan x="212" y="408">« Lekh lekha — Va pour toi, vers toi-même. »</tspan>
+    </text>
+    <text x="212" y="428" font-family="Georgia,serif" font-size="8.5" fill="#9A9080" text-anchor="middle">— Genèse 12:1</text>
+    <line x1="90" y1="438" x2="335" y2="438" stroke="#D4A94A" stroke-width="0.5" opacity="0.4"/>
+    <text x="212" y="530" font-family="Georgia,serif" font-size="7.5" fill="#9A9080" text-anchor="middle" letter-spacing="3">F I G U R E S   D E   C E   C H A P I T R E</text>
+    <text x="212" y="546" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">Avraham Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Sarah Iménou <tspan fill="#D4A94A" font-size="7">✦</tspan> Yits'hak Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Rivka Iménou</text>
+    <text x="212" y="560" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">Yaakov Avinou <tspan fill="#D4A94A" font-size="7">✦</tspan> Ra'hel &amp; Léa <tspan fill="#D4A94A" font-size="7">✦</tspan> Yossef HaTsadik <tspan fill="#D4A94A" font-size="7">✦</tspan> Yehouda</text>
+    <text x="212" y="588" font-family="Georgia,serif" font-size="7" fill="#B0A590" text-anchor="middle">17</text>
+  </svg>

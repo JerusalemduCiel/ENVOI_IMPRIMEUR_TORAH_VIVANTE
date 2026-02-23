@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <!-- FOND IVOIRE -->
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#4A8A55" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#4A8A55" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#4A8A55" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#2C6B40" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#D8F0D8" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Ramak (Rabbi Moché Cordovero)  —  רמ״ק</text>
+
+    <!-- BIOGRAPHIE (suite) — 5 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Ramak mourut à Safed en 1570, quelques mois après l'arrivée du Ari Zal qui lui</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">succéda comme maître de la Kabbale. La tradition rapporte que le Ari Zal vit une</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">colonne de feu accompagner le cercueil du Ramak lors de ses funérailles, signe éclatant</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de sa sainteté. Son Pardès Rimonim reste l'ouvrage de référence pour comprendre la</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">Kabbale classique antérieure au système lourianique.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="152" x2="365" y2="152" stroke="#4A8A55" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="156" font-family="Georgia,serif" font-size="7" fill="#2C6B40" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="171" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="179" width="369" height="125" rx="4" fill="#EFE6D8" stroke="#4A8A55" stroke-width="0.4"/>
+    
+    <text x="38" y="192" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Pardès Rimonim (Le Verger des Grenades)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="205">Première synthèse systématique et encyclopédique de toute la Kabbale. Organise</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">et clarifie les enseignements du Zohar avec une rigueur philosophique.</tspan>
+    </text>
+    
+    <text x="38" y="232" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Tomer Devorah (Le Palmier de Déborah)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="245">Traité éthique fondé sur l'imitation des attributs divins (les treize middot).</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">Chef-d'œuvre de moussar kabbalistique, étudié jusqu'à nos jours.</tspan>
+    </text>
+    
+    <text x="38" y="272" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" font-weight="bold">Or Yakar (La Lumière Précieuse)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="285">Commentaire monumental sur le Zohar en seize volumes, le plus vaste jamais écrit.</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">Œuvre colossale restée en manuscrit pendant des siècles, publiée au XXe siècle.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="312" x2="365" y2="312" stroke="#4A8A55" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="319" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="330" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="38" y="342">Le Ramak dirigeait à Safed un groupe de kabbalistes qui se levaient avant l'aube pour</tspan>
+      <tspan x="38" dy="12.5">parcourir les champs en récitant des prières mystiques (Guéroushin). Un matin, le jeune</tspan>
+      <tspan x="38" dy="12.5">Ari Zal se joignit au groupe et le Ramak reconnut en lui une âme supérieure à la sienne.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="393" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="400" width="179" height="42" rx="3" fill="none" stroke="#4A8A55" stroke-width="0.35"/>
+    <text x="116" y="413" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" text-anchor="middle" font-weight="bold">Le Pardès</text>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Première synthèse systématique</text>
+    <text x="116" y="436" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">de toute la Kabbale classique.</text>
+    
+    <rect x="218" y="400" width="179" height="42" rx="3" fill="none" stroke="#4A8A55" stroke-width="0.35"/>
+    <text x="309" y="413" font-family="Georgia,serif" font-size="7.5" fill="#1A3A20" text-anchor="middle" font-weight="bold">La Méthode</text>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Rendre la mystique accessible</text>
+    <text x="309" y="436" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">par la raison et la structure.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="455" x2="365" y2="455" stroke="#4A8A55" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="471" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" text-anchor="middle" font-style="italic">« La Kabbale est un jardin dont chaque fruit nourrit l'âme. »</text>
+    <text x="212" y="486" font-family="Georgia,serif" font-size="7.8" fill="#1A3A20" text-anchor="middle" font-style="italic">« D.ieu est présent en toute chose sans être limité par rien. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#389560" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D8F0D8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">221</text>
+  </svg>

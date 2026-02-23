@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#6A8898" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#6A8898" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#6A8898" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR GRIS-BLEU -->
+    <rect x="13" y="13" width="399" height="26" fill="#3A5060" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9.5" fill="#D0DCE5" text-anchor="middle" font-weight="bold" letter-spacing="0.6">Rabbi Yisrael Salanter  —  רבי ישראל סלנטר</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt, 7 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="76" textLength="370" lengthAdjust="spacing">Rabbi Yisrael Salanter voyagea dans toute l'Europe, de la Lituanie à l'Allemagne</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">et même à Paris, cherchant à diffuser le Moussar et à réveiller les consciences</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">juives partout où l'assimilation progressait. Il mourut à Königsberg en 1883,</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">loin de sa communauté, dans la solitude. Ses disciples intégrèrent le Moussar</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dans les grandes yeshivot lituaniennes : Rabbi Simha Zissel Ziv à Kelm, Rabbi</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Nosson Tsvi Finkel à Slabodka et Rabbi Yossef Yozel Horowitz à Novardok créèrent</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">trois écoles de Moussar qui façonnèrent des générations de Sages.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="200" x2="365" y2="200" stroke="#6A8898" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="204" font-family="Georgia,serif" font-size="7" fill="#6A8898" text-anchor="middle">✦</text>
+
+    <!-- ANECDOTE — 6 lignes complètes -->
+    <rect x="28" y="212" width="369" height="108" rx="4" fill="#E5ECF0" stroke="#6A8898" stroke-width="0.5"/>
+    <text x="212" y="227" font-family="Georgia,serif" font-size="8" fill="#2A3A45" text-anchor="middle" font-weight="bold" letter-spacing="1.5">ANECDOTE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-style="italic">
+      <tspan x="38" y="242">Un soir de Kol Nidré, Rabbi Yisrael Salanter ne vint pas à la synagogue. On le</tspan>
+      <tspan x="38" dy="13.5">chercha partout et on le trouva chez une voisine chrétienne en train de bercer</tspan>
+      <tspan x="38" dy="13.5">son bébé. La femme était tombée malade et personne ne s'occupait de l'enfant qui</tspan>
+      <tspan x="38" dy="13.5">pleurait. Rabbi Yisrael dit à ses élèves scandalisés : « Secourir un enfant qui</tspan>
+      <tspan x="38" dy="13.5">pleure est un commandement plus grand que la prière de Kol Nidré. Le Moussar ne</tspan>
+      <tspan x="38" dy="13.5" letter-spacing="0.4">se trouve pas dans les livres mais dans les actes de bonté envers toute créature. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="328" x2="365" y2="328" stroke="#6A8898" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="28" y="344" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="28" y="352" width="369" height="72" rx="4" fill="none" stroke="#6A8898" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#2A3A45">
+      <tspan x="38" y="368" textLength="330" lengthAdjust="spacing">« Le Moussar ne se trouve pas dans les livres mais dans les actes. »</tspan>
+      <tspan x="38" dy="13.5" textLength="330" lengthAdjust="spacing">« Un trait de caractère vaut plus que cent pages de Talmud. »</tspan>
+      <tspan x="38" dy="13.5" textLength="330" lengthAdjust="spacing">« La colère d'un Sage est pire que l'ignorance d'un simple. »</tspan>
+      <tspan x="38" dy="13.5">« Le visage d'autrui est un miroir de ta propre âme. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="433" x2="365" y2="433" stroke="#6A8898" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="449" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="456" width="179" height="42" rx="3" fill="none" stroke="#6A8898" stroke-width="0.35"/>
+    <text x="116" y="471" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" text-anchor="middle" font-weight="bold">Le Moussar</text>
+    <text x="116" y="485" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">Le perfectionnement moral au cœur de l'étude.</text>
+    
+    <rect x="218" y="456" width="179" height="42" rx="3" fill="none" stroke="#6A8898" stroke-width="0.35"/>
+    <text x="309" y="471" font-family="Georgia,serif" font-size="8.5" fill="#2A3A45" text-anchor="middle" font-weight="bold">L'Introspection</text>
+    <text x="309" y="485" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">L'examen de conscience quotidien.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="28" y="514" font-family="Georgia,serif" font-size="7" fill="#2A3A45" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="28" y="525" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : Rabbi Yossef Zoundel de Salant</text>
+    <text x="28" y="536" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Simha Zissel (Kelm), Nosson Tsvi Finkel (Slabodka), Horowitz (Novardok)</text>
+
+    <!-- BANDEAU INFÉRIEUR GRIS-BLEU -->
+    <rect x="13" y="557" width="399" height="25" fill="#3A5060" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#D0DCE5" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">253</text>
+  </svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="425" height="595" viewBox="0 0 425 595">
+    <rect width="425" height="595" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#A0523D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#A0523D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#A0523D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR TERRE DE SIENNE -->
+    <rect x="13" y="13" width="399" height="26" fill="#6E2E1E" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#F0D8C8" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Sarah Schenirer  —  שרה שנירר</text>
+
+    <!-- BIOGRAPHIE (suite) — 9.5pt, 7 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="76" textLength="370" lengthAdjust="spacing">Sarah Schenirer mourut à Cracovie en 1935, à l'âge de cinquante-deux ans,</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">quelques années avant que la Shoah ne détruise le monde qu'elle avait bâti.</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Mais son œuvre lui survécut : après la guerre, le réseau Bais Yaakov fut</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">reconstruit en Israël, aux États-Unis et dans le monde entier. Aujourd'hui,</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">des centaines de milliers de jeunes filles étudient dans des écoles Bais Yaakov</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">sur les cinq continents. Une simple couturière de Cracovie avait accompli ce</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">que les plus grands rabbins n'avaient pas osé imaginer : éduquer les filles.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="200" x2="365" y2="200" stroke="#A0523D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="204" font-family="Georgia,serif" font-size="7" fill="#A0523D" text-anchor="middle">✦</text>
+
+    <!-- ANECDOTE — 5 lignes pleines -->
+    <rect x="28" y="212" width="369" height="104" rx="4" fill="#EFE6D8" stroke="#A0523D" stroke-width="0.5"/>
+    <text x="212" y="227" font-family="Georgia,serif" font-size="8" fill="#5A3020" text-anchor="middle" font-weight="bold" letter-spacing="1.5">ANECDOTE</text>
+    
+    <text font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-style="italic">
+      <tspan x="38" y="244">Sarah Schenirer raconte dans son journal que le moment décisif de sa vie fut un</tspan>
+      <tspan x="38" dy="14">Shabbat où elle entra dans une synagogue et entendit le rabbin prêcher sur la</tspan>
+      <tspan x="38" dy="14">paracha. Elle fut bouleversée de constater que les femmes autour d'elle ne</tspan>
+      <tspan x="38" dy="14">comprenaient rien au sermon parce qu'elles n'avaient jamais étudié. Ce jour-là,</tspan>
+      <tspan x="38" dy="14" letter-spacing="0.4">elle décida que chaque fille juive devait recevoir une éducation de Torah.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="324" x2="365" y2="324" stroke="#A0523D" stroke-width="0.4" opacity="0.3"/>
+
+    <!-- PAROLE VIVANTE -->
+    <text x="28" y="340" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">PAROLE VIVANTE</text>
+    
+    <rect x="28" y="348" width="369" height="72" rx="4" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text font-family="Georgia,serif" font-size="8.5" fill="#5A3020">
+      <tspan x="38" y="364" textLength="330" lengthAdjust="spacing">« Une fille juive sans éducation est un arbre sans racines. »</tspan>
+      <tspan x="38" dy="13.5"  letter-spacing="0.3">« Éduquer une femme, c'est éduquer une famille entière. »</tspan>
+      <tspan x="38" dy="13.5"  letter-spacing="0.3">« La Torah n'appartient pas aux hommes seuls. »</tspan>
+      <tspan x="38" dy="13.5">« Vingt-cinq élèves dans un appartement ont changé le monde. »</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="429" x2="365" y2="429" stroke="#A0523D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="445" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="452" width="179" height="42" rx="3" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text x="116" y="467" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" text-anchor="middle" font-weight="bold">Bais Yaakov</text>
+    <text x="116" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">L'éducation juive pour les filles.</text>
+    
+    <rect x="218" y="452" width="179" height="42" rx="3" fill="none" stroke="#A0523D" stroke-width="0.35"/>
+    <text x="309" y="467" font-family="Georgia,serif" font-size="8.5" fill="#5A3020" text-anchor="middle" font-weight="bold">La Révolution</text>
+    <text x="309" y="481" font-family="Georgia,serif" font-size="7.5" fill="#65605A" text-anchor="middle">Une couturière changea le destin du peuple.</text>
+
+    <!-- FILIATION SPIRITUELLE -->
+    <text x="28" y="510" font-family="Georgia,serif" font-size="7" fill="#5A3020" font-weight="bold" letter-spacing="1.5">FILIATION SPIRITUELLE</text>
+    <text x="28" y="521" font-family="Georgia,serif" font-size="7" fill="#65605A">Maître : Le 'Hafets 'Haïm (soutien), le Rebbe de Belz</text>
+    <text x="28" y="532" font-family="Georgia,serif" font-size="7" fill="#65605A">Disciples : Des centaines de milliers de filles dans le monde</text>
+
+    <!-- BANDEAU INFÉRIEUR TERRE DE SIENNE -->
+    <rect x="13" y="557" width="399" height="25" fill="#6E2E1E" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#F0D8C8" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">267</text>
+  </svg>

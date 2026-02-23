@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#D4A94A" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#D4A94A" stroke-width="0.3" opacity="0.25"/>
+    <g opacity="0.35" fill="none" stroke="#C4973B" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+    <text x="212" y="55" font-family="Georgia,serif" font-size="11" fill="#9B4F2B" text-anchor="middle" letter-spacing="5">C H A P I T R E   5</text>
+    <text x="212" y="72" font-family="Georgia,serif" font-size="11" fill="#D4A94A" text-anchor="middle">— ✦ —</text>
+    <text x="212" y="108" font-family="Georgia,serif" font-size="30" fill="#9B4F2B" text-anchor="middle" font-weight="bold" letter-spacing="1">La Royauté</text>
+    <text x="212" y="132" font-family="Georgia,serif" font-size="12" fill="#6B5B3A" text-anchor="middle" font-style="italic">Le Trône, le Temple et la Voix Divine</text>
+    <text x="212" y="150" font-family="Georgia,serif" font-size="8" fill="#9A9080" text-anchor="middle" letter-spacing="2">MELAKHIM · L'ÂGE D'OR ET L'EXIL</text>
+    <text x="212" y="168" font-family="Georgia,serif" font-size="8" fill="#D4A94A" text-anchor="middle" letter-spacing="8">· · ·</text>
+    <text font-family="Georgia,serif" font-size="11.5" fill="#4A4540" text-anchor="middle" font-style="italic">
+      <tspan x="212" y="208">David chanta des psaumes entre larmes et victoires,</tspan>
+      <tspan x="212" y="227">Shlomo bâtit le Temple sur la colline du Très-Haut,</tspan>
+      <tspan x="212" y="246">Éliyahou monta au ciel dans un chariot de feu</tspan>
+      <tspan x="212" y="265">Et Élisha reçut le manteau de sa gloire.</tspan>
+      <tspan x="212" y="292">Yéshayahou vit le trône entouré de séraphins,</tspan>
+      <tspan x="212" y="311">Yirméyahou pleura sur les murs condamnés,</tspan>
+      <tspan x="212" y="330">Prophètes brûlants de vérité, messagers acharnés</tspan>
+      <tspan x="212" y="349">D'un D.ieu qui n'abandonne jamais les siens.</tspan>
+    </text>
+    <line x1="70" y1="388" x2="355" y2="388" stroke="#D4A94A" stroke-width="0.6" opacity="0.5"/>
+    <text font-family="Georgia,serif" font-size="11" fill="#4A4540" text-anchor="middle" font-style="italic" font-weight="500">
+      <tspan x="212" y="408">« Saint, Saint, Saint est l'Éternel des armées ;</tspan>
+      <tspan x="212" y="424">toute la terre est remplie de Sa gloire. »</tspan>
+    </text>
+    <text x="212" y="444" font-family="Georgia,serif" font-size="8.5" fill="#9A9080" text-anchor="middle">— Isaïe 6:3</text>
+    <line x1="90" y1="454" x2="335" y2="454" stroke="#D4A94A" stroke-width="0.5" opacity="0.4"/>
+    <text x="212" y="530" font-family="Georgia,serif" font-size="7.5" fill="#9A9080" text-anchor="middle" letter-spacing="3">F I G U R E S   D E   C E   C H A P I T R E</text>
+    <text x="212" y="546" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">David HaMélekh <tspan fill="#D4A94A" font-size="7">✦</tspan> Shlomo HaMélekh <tspan fill="#D4A94A" font-size="7">✦</tspan> Éliyahou HaNavi <tspan fill="#D4A94A" font-size="7">✦</tspan> Élisha</text>
+    <text x="212" y="560" font-family="Georgia,serif" font-size="8.5" fill="#4A4540" text-anchor="middle" font-weight="600">Yéshayahou <tspan fill="#D4A94A" font-size="7">✦</tspan> Osée <tspan fill="#D4A94A" font-size="7">✦</tspan> Amos <tspan fill="#D4A94A" font-size="7">✦</tspan> Yirméyahou</text>
+    <text x="212" y="588" font-family="Georgia,serif" font-size="7" fill="#B0A590" text-anchor="middle">61</text>
+  </svg>

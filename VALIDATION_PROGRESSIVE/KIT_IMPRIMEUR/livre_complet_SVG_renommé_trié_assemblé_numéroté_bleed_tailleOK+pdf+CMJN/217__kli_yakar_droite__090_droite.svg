@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#8A3A30" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#8A3A30" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#8A3A30" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#5A1A1A" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="10" fill="#E7CCC9" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Kli Yakar  —  כלי יקר</text>
+
+    <!-- BIOGRAPHIE (suite) — 6 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Le Kli Yakar mourut à Prague en 1619. Son commentaire est l'un des plus populaires dans</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">les communautés ashkénazes et hassidiques. Les rabbins et prédicateurs puisent</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">abondamment dans ses pages pour leurs sermons du Shabbat. La force du Kli Yakar réside</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">dans sa capacité à rendre le texte biblique immédiatement pertinent pour la vie morale</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">de chaque lecteur. Son approche homilétique a influencé des générations entières de</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">prédicateurs juifs et sa voix continue de résonner dans les synagogues du monde entier.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="165" x2="365" y2="165" stroke="#8A3A30" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="169" font-family="Georgia,serif" font-size="7" fill="#5A1A1A" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="184" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="192" width="369" height="125" rx="4" fill="#EEDCDA" stroke="#8A3A30" stroke-width="0.4"/>
+    
+    <text x="38" y="205" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Kli Yakar (Le Vase Précieux — sur la Torah)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="218">Commentaire homilétique et moral sur le 'Houmash, imprimé dans les Mikraot</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">Guedolot aux côtés de Rachi, Ibn Ezra et Ramban. Honneur rarissime.</tspan>
+    </text>
+    
+    <text x="38" y="245" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Olelot Ephraïm (Les Glanures d'Ephraïm)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="258">Recueil de sermons prononcés à Lublin et Prague, témoignant de son art oratoire</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">exceptionnel qui attirait des foules débordant des synagogues de Pologne.</tspan>
+    </text>
+    
+    <text x="38" y="285" font-family="Georgia,serif" font-size="7.8" fill="#301010" font-weight="bold">Ir Gibborim (La Cité des Héros)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="298">Ouvrage halakhique et éthique explorant les vertus morales à travers le prisme</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">de la loi juive. Vision d'une Torah qui transforme la conduite quotidienne.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="325" x2="365" y2="325" stroke="#8A3A30" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="332" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="343" font-family="Georgia,serif" font-size="7.5" fill="#5A1A1A" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#301010">
+      <tspan x="38" y="355">Le Kli Yakar fut si populaire que les imprimeurs de Lublin l'inclurent dans les marges du</tspan>
+      <tspan x="38" dy="12.5">'Houmash Mikraot Guedolot aux côtés de Rachi et Ibn Ezra — un honneur rarissime pour</tspan>
+      <tspan x="38" dy="12.5">un commentateur postérieur au Moyen Âge. Ses sermons attiraient des foules immenses.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="406" font-family="Georgia,serif" font-size="7.5" fill="#301010" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="413" width="179" height="42" rx="3" fill="none" stroke="#8A3A30" stroke-width="0.35"/>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Morale</text>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Chaque verset porte une leçon</text>
+    <text x="116" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">éthique pour la vie quotidienne.</text>
+    
+    <rect x="218" y="413" width="179" height="42" rx="3" fill="none" stroke="#8A3A30" stroke-width="0.35"/>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7.5" fill="#301010" text-anchor="middle" font-weight="bold">La Prédication</text>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Quatre siècles de sermons du</text>
+    <text x="309" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Shabbat nourris par ses drashot.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="468" x2="365" y2="468" stroke="#8A3A30" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="484" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« Le Vase Précieux contient la sagesse du cœur. »</text>
+    <text x="212" y="499" font-family="Georgia,serif" font-size="7.8" fill="#301010" text-anchor="middle" font-style="italic">« La piété sans justice est une hypocrisie. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#5A1A1A" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E7CCC9" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">217</text>
+  </svg>

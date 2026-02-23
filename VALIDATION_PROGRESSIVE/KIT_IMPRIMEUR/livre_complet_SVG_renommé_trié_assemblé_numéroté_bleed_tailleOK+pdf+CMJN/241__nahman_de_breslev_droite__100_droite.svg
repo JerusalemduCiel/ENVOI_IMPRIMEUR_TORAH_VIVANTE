@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="453.3" height="623.3" viewBox="-14.17 -14.17 453.3 623.3">
+    <rect x="-14.17" y="-14.17" width="453.3" height="623.3" fill="#F5EEE1"/>
+    
+    <rect x="10" y="10" width="405" height="575" rx="2" fill="none" stroke="#BE913D" stroke-width="0.7" opacity="0.4"/>
+    <rect x="13" y="13" width="399" height="569" rx="1" fill="none" stroke="#BE913D" stroke-width="0.3" opacity="0.25"/>
+    
+    <g opacity="0.3" fill="none" stroke="#BE913D" stroke-width="0.6">
+      <path d="M18,28 C23,18 33,16 48,16 M28,18 C18,23 16,33 16,48"/>
+      <path d="M407,28 C402,18 392,16 377,16 M397,18 C407,23 409,33 409,48"/>
+      <path d="M18,567 C23,577 33,579 48,579 M28,577 C18,572 16,562 16,547"/>
+      <path d="M407,567 C402,577 392,579 377,579 M397,577 C407,572 409,562 409,547"/>
+    </g>
+
+    <!-- BANDEAU SUPÉRIEUR -->
+    <rect x="13" y="13" width="399" height="26" fill="#7A5C20" opacity="0.92" rx="1"/>
+    <text x="212" y="30" font-family="Georgia,serif" font-size="9.5" fill="#E8D0F0" text-anchor="middle" font-weight="bold" letter-spacing="0.8">Rabbi Na'hman de Breslev  —  רבי נחמן מברסלב</text>
+
+    <!-- BIOGRAPHIE (suite) — 6 lignes -->
+    <text x="28" y="57" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" font-weight="bold" letter-spacing="1.5">BIOGRAPHIE (suite)</text>
+    <text font-family="Georgia,serif" font-size="8" fill="#55504A">
+      <tspan x="28" y="73" textLength="370" lengthAdjust="spacing">Rabbi Na'hman mourut de la tuberculose à Ouman en Ukraine en 1810, à l'âge de</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">trente-huit ans. Il choisit délibérément d'être enterré à Ouman, près du lieu d'un</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">terrible massacre de Juifs en 1768, disant qu'il voulait réparer les âmes des victimes.</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Sa tombe devint le lieu de pèlerinage le plus fréquenté du monde hassidique. Chaque</tspan>
+      <tspan x="28" dy="13.5" textLength="370" lengthAdjust="spacing">Rosh Hashana, des dizaines de milliers de fidèles convergent vers Ouman. Breslev est le</tspan>
+      <tspan x="28" dy="13.5" letter-spacing="0.4">seul mouvement hassidique sans successeur : Rabbi Na'hman est leur Rabbi pour toujours.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="165" x2="365" y2="165" stroke="#BE913D" stroke-width="0.5" opacity="0.35"/>
+    <text x="212" y="169" font-family="Georgia,serif" font-size="7" fill="#7A5C20" text-anchor="middle">✦</text>
+
+    <!-- ŒUVRES MAJEURES -->
+    <text x="28" y="184" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" font-weight="bold" letter-spacing="1.5">ŒUVRES MAJEURES</text>
+    <rect x="28" y="192" width="369" height="125" rx="4" fill="#EFE6D8" stroke="#BE913D" stroke-width="0.4"/>
+    
+    <text x="38" y="205" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" font-weight="bold">Likkoutéi Moharan (Recueil des enseignements)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="218">Œuvre maîtresse mêlant Kabbale, halakha, psychologie et poésie en une pensée</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">d'une originalité et d'une profondeur sans équivalent.</tspan>
+    </text>
+    
+    <text x="38" y="245" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" font-weight="bold">Sippouréi Maassiot (Les Contes)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="258">Treize contes allégoriques : princesses perdues, mendiants aveugles, montagnes d'or</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">recèlent les secrets les plus profonds de la Kabbale sous forme narrative.</tspan>
+    </text>
+    
+    <text x="38" y="285" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" font-weight="bold">Tikkoun HaKlali (La Réparation Générale)</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#55504A">
+      <tspan x="38" y="298">Sélection de dix Psaumes prescrits comme remède universel pour la réparation de</tspan>
+      <tspan x="38" dy="12" letter-spacing="0.4">l'âme. Récités quotidiennement par les Hassidim de Breslev dans le monde entier.</tspan>
+    </text>
+
+    <!-- SÉPARATEUR -->
+    <line x1="60" y1="325" x2="365" y2="325" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+
+    <!-- LE SAVIEZ-VOUS ? -->
+    <rect x="28" y="332" width="369" height="55" rx="4" fill="#EFE6D8" stroke="#C4973B" stroke-width="0.4"/>
+    <text x="212" y="343" font-family="Georgia,serif" font-size="7.5" fill="#8B6914" text-anchor="middle" font-weight="bold" letter-spacing="1">LE SAVIEZ-VOUS ?</text>
+    <text font-family="Georgia,serif" font-size="7.5" fill="#6B5B3A">
+      <tspan x="38" y="355">Rabbi Na'hman ordonna avant sa mort de brûler un manuscrit qu'il jugeait trop profond</tspan>
+      <tspan x="38" dy="12.5">pour être révélé. Il déclara : « Mon feu brûlera jusqu'à la venue du Messie. » Ses</tspan>
+      <tspan x="38" dy="12.5">Hassidim n'ont jamais nommé de successeur, suivant sa volonté depuis 1810.</tspan>
+    </text>
+
+    <!-- HÉRITAGE SPIRITUEL -->
+    <text x="28" y="406" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" font-weight="bold" letter-spacing="1.5">HÉRITAGE SPIRITUEL</text>
+    
+    <rect x="28" y="413" width="179" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="116" y="426" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" text-anchor="middle" font-weight="bold">Les Contes</text>
+    <text x="116" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Récits mystiques d'une profondeur</text>
+    <text x="116" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">infinie. Kabbale sous forme narrative.</text>
+    
+    <rect x="218" y="413" width="179" height="42" rx="3" fill="none" stroke="#BE913D" stroke-width="0.35"/>
+    <text x="309" y="426" font-family="Georgia,serif" font-size="7.5" fill="#3A1850" text-anchor="middle" font-weight="bold">L'Hitbodedout</text>
+    <text x="309" y="439" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">La méditation solitaire avec D.ieu.</text>
+    <text x="309" y="449" font-family="Georgia,serif" font-size="7" fill="#65605A" text-anchor="middle">Parler à D.ieu dans sa propre langue.</text>
+
+    <!-- RÉFLEXION -->
+    <line x1="60" y1="468" x2="365" y2="468" stroke="#BE913D" stroke-width="0.4" opacity="0.25"/>
+    <text x="212" y="484" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" text-anchor="middle" font-style="italic">« Le pont étroit : avancer malgré la peur. »</text>
+    <text x="212" y="499" font-family="Georgia,serif" font-size="7.8" fill="#3A1850" text-anchor="middle" font-style="italic">« La joie est un commandement absolu. »</text>
+
+    <!-- BANDEAU INFÉRIEUR -->
+    <rect x="13" y="557" width="399" height="25" fill="#7A5C20" opacity="0.85" rx="1"/>
+    <text x="212" y="573" font-family="Georgia,serif" font-size="7.5" fill="#E8D0F0" text-anchor="middle" letter-spacing="0.8">LUMIÈRES D'ISRAËL — LA TORAH VIVANTE</text>
+    <text x="400" y="590" font-family="Georgia,serif" font-size="7" fill="#AAAAAA" text-anchor="end">241</text>
+  </svg>
